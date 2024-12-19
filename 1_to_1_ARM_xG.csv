@@ -1,0 +1,20 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Großer,1014486,D,19,0.147,0.578,goal,regular,corner,head,high-left,90,3
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.01973,-,miss,-,set-piece,left-foot,close-right,82,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Wörl,1387705,M,38,0.04757,0.6462,save,-,throw-in-set-piece,right-foot,low-left,79,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Corboz,829211,M,6,0.3185,0.4013,save,-,regular,right-foot,low-centre,77,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,K. Mizuta,1066020,M,25,0.04712,0.1279,save,-,regular,right-foot,low-left,77,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Corboz,829211,M,6,0.2054,-,block,-,regular,left-foot,low-centre,76,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Corboz,829211,M,6,0.01048,-,block,-,throw-in-set-piece,right-foot,low-centre,70,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.07974,0.1926,goal,regular,regular,right-foot,low-left,68,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,A. Becker,826270,F,39,0.1523,-,miss,-,regular,left-foot,close-high-left,65,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,C. Lannert,886258,D,24,0.1027,-,miss,-,throw-in-set-piece,left-foot,close-high-left,61,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,K. Mizuta,1066020,M,25,0.132,-,post,-,throw-in-set-piece,right-foot,high,61,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,J. Felix,836092,D,3,0.3012,-,miss,-,corner,head,close-high-right,52,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.005504,-,block,-,regular,left-foot,low-centre,47,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,A. Becker,826270,F,39,0.2197,-,miss,-,corner,left-foot,close-high-left,41,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.0004291,-,block,-,free-kick,left-foot,low-centre,40,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Biankadi,254185,M,17,0.1043,0.2331,save,-,regular,right-foot,low-right,18,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,C. Lannert,886258,D,24,0.07314,0.01784,save,-,free-kick,right-foot,low-centre,14,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Biankadi,254185,M,17,0.07179,-,block,-,regular,left-foot,low-centre,10,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Kunze,892527,M,13,0.05597,0.06253,save,-,regular,head,low-centre,4,0
