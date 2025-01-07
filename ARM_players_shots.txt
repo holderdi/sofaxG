@@ -1,0 +1,21 @@
+Player	Position	xG_cum	xG_per_90	xG_per_Shot	xGOT_cum	xGOT_per_90	xGOT_per_Shot	Shots	Shots_oT	%_oT	Goals	Minutes	Minutes_%	Appearances	Rating
+M. Großer	Defense	2.47	0.14	0.16	2.7	0.15	0.39	15	7	47.0	1	1620	100.0	18	7.14
+L. Oppie	Defense	1.25	0.07	0.04	1.76	0.1	0.22	29	8	28.0	3	1530	94.0	17	7.29
+J. Felix	Defense	0.92	0.1	0.12	0.67	0.07	0.34	8	2	25.0	1	807	50.0	9	6.96
+C. Lannert	Defense	0.47	0.03	0.03	0.06	0.0	0.02	16	3	19.0	0	1573	97.0	18	6.96
+L. Schneider	Defense	0.18	0.02	0.09	0.0	0.0	0.0	2	0	0.0	0	957	59.0	14	6.85
+F. Hagmann	Defense	0.01	0.0	0.01	0.0	0.0	0.0	1	0	0.0	0	355	22.0	8	6.69
+M. Corboz	Midfield	3.28	0.2	0.09	1.68	0.1	0.42	37	4	11.0	1	1440	89.0	16	6.94
+M. Wörl	Midfield	2.2	0.16	0.1	2.23	0.16	0.28	21	8	38.0	1	1237	76.0	17	7.06
+M. Biankadi	Midfield	1.85	0.23	0.09	1.98	0.25	0.28	21	7	33.0	2	714	44.0	16	6.83
+I. Young	Midfield	1.38	0.15	0.14	1.78	0.19	0.36	10	5	50.0	2	842	52.0	14	7.0
+K. Mizuta	Midfield	1.14	0.28	0.09	0.3	0.07	0.1	12	3	25.0	1	362	22.0	10	6.87
+S. Russo	Midfield	0.47	0.03	0.03	0.05	0.0	0.02	15	3	20.0	0	1521	94.0	17	7.51
+L. Kunze	Midfield	0.38	0.04	0.04	0.4	0.04	0.13	10	3	30.0	0	955	59.0	16	6.77
+S. Schreck	Midfield	0.18	0.04	0.09	0.36	0.07	0.36	2	1	50.0	0	453	28.0	9	6.58
+A. Becker	Forward	2.64	0.3	0.19	1.71	0.19	0.43	14	4	29.0	0	804	50.0	15	6.62
+J. Kania	Forward	2.49	0.29	0.18	3.6	0.42	0.4	14	9	64.0	5	772	48.0	17	6.81
+M. Schroers	Forward	1.7	0.21	0.13	1.0	0.12	0.2	13	5	38.0	1	735	45.0	14	6.71
+N. J. S. Bazee	Forward	1.62	0.5	0.27	1.6	0.49	0.4	6	4	67.0	1	293	18.0	7	6.44
+D. Nsumbu	Forward	1.12	1.83	0.22	1.53	2.5	0.51	5	3	60.0	1	55	3.0	3	7.2
+J. Hilterman	Forward	0.69	0.32	0.23	0.0	0.0	0.0	3	0	0.0	0	194	12.0	3	6.53

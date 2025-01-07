@@ -1,0 +1,11 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,L. Kunze,892527,M,13,0.005462,-,block,-,set-piece,head,low-centre,89,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,L. Kunze,892527,M,13,0.02473,0.02657,save,-,regular,right-foot,low-centre,73,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Wörl,1387705,M,38,0.05539,-,miss,-,regular,right-foot,close-high,60,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Corboz,829211,M,6,0.04401,-,block,-,regular,right-foot,low-centre,60,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,L. Oppie,1137900,D,4,0.0238,-,block,-,regular,left-foot,low-centre,46,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Biankadi,254185,M,17,0.01668,-,block,-,regular,left-foot,low-centre,43,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Corboz,829211,M,6,0.1243,-,miss,-,regular,left-foot,close-high-left,40,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Biankadi,254185,M,17,0.1097,-,miss,-,throw-in-set-piece,right-foot,close-left,34,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,A. Becker,826270,F,39,0.05338,-,miss,-,corner,head,close-high,1,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Wörl,1387705,M,38,0.08453,0.04557,save,-,regular,right-foot,low-centre,1,0
