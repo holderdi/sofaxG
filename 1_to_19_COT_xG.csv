@@ -1,0 +1,276 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,T. Thiele,103004,F,7,0.2451,-,miss,-,set-piece,right-foot,close-high-right,90,5
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,T. Thiele,103004,F,7,0.1658,0.1308,save,-,regular,right-foot,low-centre,89,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,J. Shcherbakovski,1017906,M,33,0.02201,-,miss,-,corner,left-foot,close-right,73,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,T. Ciğerci,253679,M,10,0.1254,-,post,-,regular,right-foot,right,62,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,P. Halbauer,922495,F,11,0.03649,0.02214,save,-,corner,left-foot,low-centre,57,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,T. Ciğerci,253679,M,10,0.02215,0.02314,save,-,regular,left-foot,high-centre,54,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,T. Ciğerci,253679,M,10,0.2283,-,miss,-,regular,left-foot,close-high,48,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,T. Ciğerci,253679,M,10,0.1112,0.07771,save,-,regular,left-foot,low-centre,48,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,P. Halbauer,922495,F,11,0.07348,0.3658,goal,regular,regular,left-foot,low-right,42,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Thiele,103004,F,7,0.03548,-,block,-,regular,right-foot,low-centre,88,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Thiele,103004,F,7,0.2364,-,miss,-,regular,left-foot,close-right,76,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,J. Putze,169141,M,8,0.006488,-,miss,-,regular,left-foot,close-right,30,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,M. Pronichev,355416,F,42,0.1697,-,block,-,regular,left-foot,low-centre,28,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Ciğerci,253679,M,10,0.06383,0.09097,goal,regular,regular,left-foot,low-right,12,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,P. Halbauer,922495,F,11,0.06188,0.4466,goal,regular,corner,right-foot,high-left,7,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Thiele,103004,F,7,0.01645,-,block,-,regular,right-foot,low-centre,7,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Thiele,103004,F,7,0.2695,-,block,-,regular,left-foot,low-centre,3,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,A. Borgmann,169215,D,20,0.02136,0.06645,goal,regular,corner,left-foot,high-left,90,8
+3,Energie Cottbus : Alemannia Aachen,2 : 1,H. Rorig,990207,D,3,0.03608,-,post,-,regular,right-foot,high,90,4
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Ciğerci,253679,M,10,0.000911,-,block,-,throw-in-set-piece,left-foot,low-centre,90,2
+3,Energie Cottbus : Alemannia Aachen,2 : 1,M. Pronichev,355416,F,42,0.3512,0.1943,save,-,regular,right-foot,low-centre,89,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,A. Borgmann,169215,D,20,0.001062,-,block,-,corner,left-foot,low-centre,84,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,L. Copado,1141131,F,22,0.06112,-,miss,-,regular,right-foot,close-high,82,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,M. Krauss,804808,F,23,0.01192,-,block,-,regular,right-foot,low-centre,81,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Ciğerci,253679,M,10,0.06988,0.03568,save,-,regular,left-foot,low-centre,79,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Thiele,103004,F,7,0.2465,0.373,save,-,regular,right-foot,high-left,70,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,N. Bretschneider,941709,D,28,0.01186,-,miss,-,corner,left-foot,close-high-left,64,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Ciğerci,253679,M,10,0.05577,-,block,-,throw-in-set-piece,right-foot,low-centre,63,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,M. Krauss,804808,F,23,0.0647,-,miss,-,regular,left-foot,close-right,47,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Thiele,103004,F,7,0.02178,-,miss,-,regular,right-foot,close-high-right,39,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Ciğerci,253679,M,10,0.04359,-,miss,-,regular,left-foot,close-right,32,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,M. Krauss,804808,F,23,0.07416,0.07036,save,-,regular,right-foot,low-centre,23,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,H. Rorig,990207,D,3,0.01433,0.2711,goal,regular,throw-in-set-piece,right-foot,low-left,19,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,M. Krauss,804808,F,23,0.06656,0.08698,save,-,regular,left-foot,low-centre,17,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Ciğerci,253679,M,10,0.04781,0.06302,save,-,throw-in-set-piece,left-foot,high-right,15,0
+3,Energie Cottbus : Alemannia Aachen,2 : 1,T. Thiele,103004,F,7,0.008017,-,block,-,throw-in-set-piece,right-foot,low-centre,12,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,L. Copado,1141131,F,22,0.01222,0.09989,save,-,corner,right-foot,high-centre,90,3
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Ciğerci,253679,M,10,0.03476,-,miss,-,regular,right-foot,close-high-right,81,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Ciğerci,253679,M,10,0.1026,0.2352,save,-,regular,left-foot,low-left,66,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Ciğerci,253679,M,10,0.08931,0.126,goal,regular,corner,left-foot,high-centre,64,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,F. Kusić,801246,D,19,0.1985,0.2746,save,-,corner,right-foot,low-centre,63,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,Y. Möker,941564,M,21,0.06739,-,miss,-,regular,right-foot,close-right,50,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Thiele,103004,F,7,0.08156,0.1569,save,-,set-piece,head,high-right,43,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Thiele,103004,F,7,0.1633,-,block,-,regular,left-foot,low-centre,38,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,P. Halbauer,922495,F,11,0.483,0.5002,save,-,regular,left-foot,high-left,34,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,P. Halbauer,922495,F,11,0.1424,-,block,-,regular,right-foot,low-centre,33,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,P. Halbauer,922495,F,11,0.01634,-,block,-,regular,left-foot,low-centre,33,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,M. Krauss,804808,F,23,0.1744,0.4993,save,-,regular,left-foot,high-centre,30,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Thiele,103004,F,7,0.1128,-,miss,-,corner,head,close-high-left,24,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,M. Krauss,804808,F,23,0.02149,-,miss,-,corner,right-foot,close-left,15,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Ciğerci,253679,M,10,0.0308,0.05195,save,-,regular,left-foot,low-right,14,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Ciğerci,253679,M,10,0.3544,0.3331,save,-,regular,left-foot,low-centre,12,0
+4,SV Wehen Wiesbaden : Energie Cottbus,2 : 1,T. Thiele,103004,F,7,0.5204,-,post,-,regular,right-foot,right,12,0
+5,SC Verl : Energie Cottbus,0 : 3,J. Juckel,1195380,M,36,0.005801,-,block,-,regular,right-foot,low-centre,90,5
+5,SC Verl : Energie Cottbus,0 : 3,A. Borgmann,169215,D,20,0.006839,-,block,-,regular,right-foot,low-centre,90,4
+5,SC Verl : Energie Cottbus,0 : 3,L. Copado,1141131,F,22,0.03933,0.009173,save,-,throw-in-set-piece,right-foot,low-left,81,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Ciğerci,253679,M,10,0.1351,-,miss,-,throw-in-set-piece,right-foot,close-right,74,0
+5,SC Verl : Energie Cottbus,0 : 3,M. Krauss,804808,F,23,0.2516,0.716,goal,regular,regular,left-foot,low-right,72,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Ciğerci,253679,M,10,0.002647,-,miss,-,corner,left-foot,close-high-left,67,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Ciğerci,253679,M,10,0.1891,-,miss,-,regular,right-foot,close-left,64,0
+5,SC Verl : Energie Cottbus,0 : 3,P. Halbauer,922495,F,11,0.1243,0.05309,save,-,throw-in-set-piece,left-foot,high-centre,63,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Ciğerci,253679,M,10,0.4412,0.4836,goal,regular,regular,right-foot,low-centre,55,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Thiele,103004,F,7,0.05407,0.06781,save,-,regular,right-foot,low-right,54,0
+5,SC Verl : Energie Cottbus,0 : 3,H. Rorig,990207,D,3,0.00128,-,miss,-,free-kick,right-foot,close-high-left,53,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Ciğerci,253679,M,10,0.001255,-,miss,-,throw-in-set-piece,left-foot,close-high-left,51,0
+5,SC Verl : Energie Cottbus,0 : 3,P. Halbauer,922495,F,11,0.002135,-,miss,-,regular,left-foot,close-right,43,0
+5,SC Verl : Energie Cottbus,0 : 3,T. Ciğerci,253679,M,10,0.1931,-,miss,-,regular,right-foot,close-high-right,35,0
+5,SC Verl : Energie Cottbus,0 : 3,M. Krauss,804808,F,23,0.04254,0.2822,goal,regular,regular,right-foot,low-left,19,0
+5,SC Verl : Energie Cottbus,0 : 3,D. Pelivan,569976,M,5,0.01004,-,block,-,regular,right-foot,low-centre,11,0
+5,SC Verl : Energie Cottbus,0 : 3,P. Halbauer,922495,F,11,0.03971,-,post,-,regular,left-foot,high,11,0
+5,SC Verl : Energie Cottbus,0 : 3,H. Rorig,990207,D,3,0.0004469,-,post,-,free-kick,right-foot,high,8,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,F. Kusić,801246,D,19,0.09332,-,miss,-,set-piece,head,close-high-left,86,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,M. Pronichev,355416,F,42,0.2748,0.7062,goal,regular,regular,right-foot,low-left,75,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,A. Borgmann,169215,D,20,0.005259,-,block,-,throw-in-set-piece,left-foot,low-centre,74,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Thiele,103004,F,7,0.2362,0.2495,save,-,regular,right-foot,low-centre,71,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.01565,-,block,-,regular,left-foot,low-centre,58,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,N. Bretschneider,941709,D,28,0.0008597,-,block,-,corner,left-foot,low-centre,58,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.1369,-,block,-,regular,right-foot,low-centre,57,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,M. Krauss,804808,F,23,0.1309,-,miss,-,regular,right-foot,close-high-left,55,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,M. Pronichev,355416,F,42,0.3379,0.299,goal,regular,regular,right-foot,low-centre,51,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Hasse,293557,D,14,0.01793,-,miss,-,regular,right-foot,close-left,49,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.6686,0.8913,goal,regular,regular,left-foot,high-centre,45,3
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.7425,-,block,-,regular,left-foot,low-centre,45,3
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.02756,0.19,save,-,throw-in-set-piece,left-foot,low-centre,45,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Thiele,103004,F,7,0.2056,0.5927,save,-,regular,head,high-left,37,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.3878,0.4059,goal,regular,regular,left-foot,low-centre,29,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,D. Pelivan,569976,M,5,0.01018,-,miss,-,corner,right-foot,close-right,15,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Thiele,103004,F,7,0.4582,0.4202,save,-,throw-in-set-piece,left-foot,high-centre,14,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,M. Krauss,804808,F,23,0.09141,0.113,save,-,throw-in-set-piece,right-foot,low-centre,14,0
+6,Energie Cottbus : VfB Stuttgart II,4 : 0,T. Ciğerci,253679,M,10,0.001672,-,block,-,regular,left-foot,low-centre,12,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,T. Thiele,103004,F,7,0.1934,0.4543,save,-,regular,right-foot,high-centre,90,4
+7,VfL Osnabrück : Energie Cottbus,2 : 5,P. Halbauer,922495,F,11,0.1449,0.5062,goal,regular,regular,left-foot,low-right,90,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,T. Thiele,103004,F,7,0.3389,0.8223,goal,regular,set-piece,head,low-right,81,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,M. Pronichev,355416,F,42,0.005087,-,block,-,regular,right-foot,low-centre,74,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,M. Pronichev,355416,F,42,0.4875,0.8441,goal,regular,regular,right-foot,low-centre,71,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,Y. Möker,941564,M,21,0.004556,-,miss,-,regular,right-foot,close-high-right,63,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,Y. Möker,941564,M,21,0.1778,-,miss,-,regular,right-foot,close-high,61,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,M. Krauss,804808,F,23,0.3769,0.2537,save,-,regular,left-foot,low-centre,57,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,M. Krauss,804808,F,23,0.0452,0.04388,save,-,regular,left-foot,low-right,47,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,T. Ciğerci,253679,M,10,0.03628,-,miss,-,regular,left-foot,close-high-left,44,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,M. Krauss,804808,F,23,0.007407,-,miss,-,throw-in-set-piece,right-foot,close-high-right,37,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,L. Copado,1141131,F,22,0.02477,-,miss,-,regular,right-foot,close-right,35,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,L. Copado,1141131,F,22,0.3717,0.8608,goal,regular,regular,right-foot,low-left,30,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,T. Ciğerci,253679,M,10,0.001069,-,miss,-,throw-in-set-piece,left-foot,close-high-left,29,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,Y. Möker,941564,M,21,0.1297,-,miss,-,regular,head,close-high,22,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,T. Thiele,103004,F,7,0.2347,0.5898,goal,regular,regular,left-foot,low-right,18,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,A. Borgmann,169215,D,20,0.0009146,-,miss,-,regular,left-foot,close-high-right,15,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,T. Ciğerci,253679,M,10,0.001444,-,miss,-,free-kick,left-foot,close-high,13,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,Y. Möker,941564,M,21,0.002235,-,miss,-,throw-in-set-piece,right-foot,close-left,10,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,Y. Möker,941564,M,21,0.01682,-,block,-,regular,left-foot,low-centre,3,0
+7,VfL Osnabrück : Energie Cottbus,2 : 5,D. Pelivan,569976,M,5,0.008095,-,block,-,throw-in-set-piece,right-foot,low-centre,3,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Ciğerci,253679,M,10,0.3818,0.3723,save,-,regular,left-foot,low-centre,87,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Thiele,103004,F,7,0.3939,0.7049,goal,regular,regular,right-foot,low-right,84,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,N. Bretschneider,941709,D,28,0.00316,-,block,-,corner,left-foot,low-centre,84,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,P. Halbauer,922495,F,11,0.05971,0.1341,save,-,regular,left-foot,high-left,83,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Thiele,103004,F,7,0.3172,0.7909,goal,regular,regular,head,high-left,78,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Thiele,103004,F,7,0.1193,-,miss,-,regular,left-foot,close-left,71,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,P. Halbauer,922495,F,11,0.07635,0.09163,save,-,regular,left-foot,low-left,62,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,L. Copado,1141131,F,22,0.06221,0.3261,save,-,regular,head,low-left,59,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,M. Krauss,804808,F,23,0.1037,0.03472,save,-,throw-in-set-piece,right-foot,low-centre,56,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Ciğerci,253679,M,10,0.162,0.2855,save,-,regular,left-foot,high-centre,55,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Ciğerci,253679,M,10,0.02729,0.01688,save,-,regular,left-foot,high-centre,54,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,J. Juckel,1195380,M,36,0.1706,-,miss,-,regular,head,close-right,53,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Thiele,103004,F,7,0.5928,0.7693,goal,regular,regular,right-foot,low-centre,44,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,N. Bretschneider,941709,D,28,0.001459,-,block,-,throw-in-set-piece,left-foot,low-centre,33,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,Y. Möker,941564,M,21,0.1128,-,block,-,regular,right-foot,low-centre,24,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Thiele,103004,F,7,0.6618,0.8481,goal,regular,regular,left-foot,low-centre,17,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,M. Pronichev,355416,F,42,0.06102,0.0312,save,-,regular,head,low-centre,88,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,M. Pronichev,355416,F,42,0.1162,0.115,save,-,regular,head,low-centre,79,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,L. Copado,1141131,F,22,0.06074,0.03563,save,-,regular,right-foot,low-centre,76,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,Y. Möker,941564,M,21,0.08665,0.08781,save,-,regular,right-foot,low-centre,67,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,T. Ciğerci,253679,M,10,0.02407,-,miss,-,regular,left-foot,close-high-left,66,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,L. Copado,1141131,F,22,0.004892,-,block,-,regular,right-foot,low-centre,57,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,T. Ciğerci,253679,M,10,0.03761,-,miss,-,regular,left-foot,close-high-right,36,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,T. Ciğerci,253679,M,10,0.002834,-,miss,-,regular,left-foot,close-high-right,27,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,P. Halbauer,922495,F,11,0.03282,0.01694,save,-,regular,left-foot,low-centre,20,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,T. Ciğerci,253679,M,10,0.09281,-,block,-,regular,left-foot,low-centre,15,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,F. Kusić,801246,D,19,0.08139,0.05449,save,-,set-piece,head,high-centre,14,0
+9,Hannover 96 II : Energie Cottbus,0 : 0,M. Krauss,804808,F,23,0.2118,-,block,-,regular,left-foot,low-centre,13,0
+10,Energie Cottbus : SV Sandhausen,1 : 1,L. Copado,1141131,F,22,0.02645,-,miss,-,regular,right-foot,close-left,57,0
+10,Energie Cottbus : SV Sandhausen,1 : 1,T. Ciğerci,253679,M,10,0.01273,0.2129,save,-,throw-in-set-piece,left-foot,low-left,54,0
+10,Energie Cottbus : SV Sandhausen,1 : 1,T. Thiele,103004,F,7,0.01643,-,miss,-,regular,right-foot,close-right,48,0
+10,Energie Cottbus : SV Sandhausen,1 : 1,M. Krauss,804808,F,23,0.8161,0.8735,goal,regular,regular,left-foot,low-centre,39,0
+10,Energie Cottbus : SV Sandhausen,1 : 1,H. Rorig,990207,D,3,0.1115,0.1416,save,-,free-kick,left-foot,low-left,19,0
+10,Energie Cottbus : SV Sandhausen,1 : 1,T. Ciğerci,253679,M,10,0.03894,0.07735,save,-,throw-in-set-piece,left-foot,high-centre,3,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.3029,0.8398,goal,regular,regular,right-foot,high-left,90,4
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,M. Krauss,804808,F,23,0.0583,-,block,-,regular,right-foot,low-centre,90,2
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Ciğerci,253679,M,10,0.1632,0.5354,goal,regular,regular,left-foot,high-left,81,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,F. Kusić,801246,D,19,0.4159,-,miss,-,corner,right-foot,close-high-right,75,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,Y. Möker,941564,M,21,0.02518,-,block,-,corner,right-foot,low-centre,75,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,H. Rorig,990207,D,3,0.02926,0.1136,save,-,regular,right-foot,low-left,69,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.02085,-,block,-,regular,right-foot,low-centre,69,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,P. Halbauer,922495,F,11,0.1422,-,miss,-,regular,left-foot,close-high,57,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,P. Halbauer,922495,F,11,0.0286,0.02331,save,-,regular,left-foot,high-centre,57,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Ciğerci,253679,M,10,0.08844,-,miss,-,regular,right-foot,close-high,52,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Ciğerci,253679,M,10,0.2712,-,block,-,regular,left-foot,low-centre,49,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,M. Krauss,804808,F,23,0.03876,-,miss,-,regular,right-foot,close-left,41,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.2577,0.4904,save,-,regular,right-foot,low-centre,35,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.247,0.6642,goal,regular,regular,right-foot,low-right,30,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.1727,-,miss,-,regular,head,close-high-right,17,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.2157,0.5845,save,-,regular,right-foot,low-right,13,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Ciğerci,253679,M,10,0.1432,-,block,-,regular,left-foot,low-centre,13,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,H. Rorig,990207,D,3,0.01322,-,block,-,regular,left-foot,low-centre,13,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,N. Bretschneider,941709,D,28,0.1293,-,miss,-,corner,left-foot,close-high-left,11,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,T. Thiele,103004,F,7,0.4276,0.7972,save,-,regular,right-foot,low-left,10,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,Y. Möker,941564,M,21,0.635,-,block,-,regular,right-foot,low-centre,10,0
+11,Erzgebirge Aue : Energie Cottbus,1 : 3,M. Krauss,804808,F,23,0.0755,0.05694,save,-,regular,right-foot,low-centre,9,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,M. Pronichev,355416,F,42,0.002283,-,miss,-,regular,right-foot,close-right,71,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,M. Krauss,804808,F,23,0.1293,0.05953,save,-,regular,right-foot,low-centre,63,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,T. Thiele,103004,F,7,0.06905,0.2341,goal,regular,corner,right-foot,low-left,61,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,T. Thiele,103004,F,7,0.2366,0.2306,save,-,regular,right-foot,low-centre,59,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,T. Ciğerci,253679,M,10,0.06193,0.5763,goal,regular,throw-in-set-piece,left-foot,high-left,45,1
+12,Energie Cottbus : TSV 1860 München,5 : 1,L. Copado,1141131,F,22,0.3016,-,block,-,regular,right-foot,low-centre,36,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,L. Copado,1141131,F,22,0.3,0.6799,goal,regular,regular,left-foot,low-left,30,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,L. Copado,1141131,F,22,0.3906,0.4647,goal,regular,regular,right-foot,low-centre,21,0
+12,Energie Cottbus : TSV 1860 München,5 : 1,Y. Möker,941564,M,21,0.02924,0.3003,goal,regular,regular,right-foot,low-left,3,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,H. Rorig,990207,D,3,0.03731,-,miss,-,regular,right-foot,close-high-right,84,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,H. Rorig,990207,D,3,0.002574,-,miss,-,free-kick,right-foot,close-high-right,80,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,Y. Möker,941564,M,21,0.1723,-,block,-,regular,left-foot,low-centre,68,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,T. Ciğerci,253679,M,10,0.01954,-,miss,-,regular,left-foot,close-high,64,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,T. Thiele,103004,F,7,0.1084,-,block,-,regular,left-foot,low-centre,64,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,M. Pronichev,355416,F,42,0.4269,-,miss,-,regular,left-foot,close-right,61,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,Y. Möker,941564,M,21,0.1437,-,miss,-,regular,right-foot,close-high,56,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,H. Rorig,990207,D,3,0.01271,-,block,-,regular,right-foot,low-centre,47,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,H. Rorig,990207,D,3,0.04093,0.2302,save,-,regular,left-foot,low-left,43,0
+13,Rot-Weiss Essen : Energie Cottbus,4 : 0,A. Borgmann,169215,D,20,0.008493,-,block,-,regular,left-foot,low-centre,38,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,R. Hajrulla,979685,F,9,0.1379,-,miss,-,throw-in-set-piece,left-foot,close-high,90,4
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,J. Hofmann,842867,M,6,0.309,0.5688,goal,regular,regular,left-foot,low-right,90,3
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,T. Thiele,103004,F,7,0.3851,0.51,save,-,corner,right-foot,low-centre,90,1
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,M. Pronichev,355416,F,42,0.4552,-,block,-,regular,right-foot,low-centre,90,1
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,J. Hofmann,842867,M,6,0.03739,-,block,-,regular,right-foot,low-centre,90,1
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,J. Hofmann,842867,M,6,0.005185,-,miss,-,corner,right-foot,close-high,71,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,D. Pelivan,569976,M,5,0.05202,0.1108,save,-,corner,head,low-left,70,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,T. Ciğerci,253679,M,10,0.005866,-,block,-,regular,left-foot,low-centre,62,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,T. Thiele,103004,F,7,0.0227,-,miss,-,regular,right-foot,close-right,59,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,J. Hofmann,842867,M,6,0.01751,-,block,-,regular,right-foot,low-centre,49,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,L. Copado,1141131,F,22,0.08633,-,miss,-,throw-in-set-piece,right-foot,close-left,45,2
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,H. Rorig,990207,D,3,-,-,goal,own,own-goal,other,low-centre,32,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,T. Ciğerci,253679,M,10,0.76,0.81,goal,penalty,penalty,left-foot,low-right,31,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,D. Pelivan,569976,M,5,0.03285,0.01891,save,-,regular,right-foot,low-centre,27,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,H. Rorig,990207,D,3,0.08047,0.3655,save,-,corner,right-foot,low-left,24,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,T. Thiele,103004,F,7,0.273,-,block,-,regular,right-foot,low-centre,24,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,T. Thiele,103004,F,7,0.7918,0.9139,goal,regular,corner,right-foot,low-left,17,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,L. Copado,1141131,F,22,0.07088,0.07854,save,-,corner,right-foot,high-centre,17,0
+14,Energie Cottbus : Borussia Dortmund II,3 : 3,D. Pelivan,569976,M,5,0.1717,-,miss,-,corner,head,close-high-left,12,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,J. Juckel,1195380,M,36,0.03794,-,block,-,regular,right-foot,low-centre,79,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,L. Copado,1141131,F,22,0.0735,-,miss,-,regular,left-foot,close-left,73,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,Y. Möker,941564,M,21,0.03946,-,miss,-,regular,right-foot,close-left,65,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,L. Copado,1141131,F,22,0.005306,-,block,-,corner,right-foot,low-centre,56,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,H. Rorig,990207,D,3,0.1415,-,block,-,regular,right-foot,low-centre,55,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,T. Ciğerci,253679,M,10,0.08209,-,block,-,regular,right-foot,low-centre,55,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,L. Copado,1141131,F,22,0.1518,-,block,-,regular,right-foot,low-centre,53,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,Y. Möker,941564,M,21,0.04021,-,miss,-,regular,left-foot,close-left,53,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,T. Ciğerci,253679,M,10,0.1139,-,block,-,free-kick,left-foot,low-centre,52,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,M. Pronichev,355416,F,42,0.4715,0.7011,goal,regular,throw-in-set-piece,head,low-centre,44,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,T. Thiele,103004,F,7,0.108,0.06242,save,-,regular,right-foot,low-centre,42,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,T. Ciğerci,253679,M,10,0.04371,0.06811,save,-,regular,left-foot,low-left,40,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,F. Kusić,801246,D,19,0.01275,-,block,-,corner,left-foot,low-centre,11,0
+15,FC Viktoria Köln : Energie Cottbus,0 : 1,M. Pronichev,355416,F,42,0.01744,0.03916,save,-,throw-in-set-piece,right-foot,high-centre,10,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,J. Hofmann,842867,M,6,0.02877,0.08708,save,-,regular,right-foot,low-right,88,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,T. Thiele,103004,F,7,0.2804,0.6425,save,-,corner,head,low-left,77,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,A. Borgmann,169215,D,20,0.004375,-,block,-,regular,left-foot,low-centre,74,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,M. Pronichev,355416,F,42,0.1324,0.5089,save,-,regular,right-foot,high-right,71,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,T. Campulka,880801,D,4,0.3313,-,block,-,corner,right-foot,low-centre,65,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,T. Thiele,103004,F,7,0.1012,0.1207,save,-,regular,right-foot,low-right,64,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,M. Krauss,804808,F,23,0.1269,-,block,-,regular,left-foot,low-centre,56,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,M. Krauss,804808,F,23,0.1915,0.2248,save,-,regular,left-foot,high-left,54,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,T. Thiele,103004,F,7,0.2953,0.2944,save,-,regular,left-foot,high-centre,42,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,M. Pronichev,355416,F,42,0.005601,-,miss,-,regular,right-foot,close-high-right,42,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,M. Pronichev,355416,F,42,0.2179,0.2172,save,-,regular,left-foot,low-centre,31,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,M. Krauss,804808,F,23,0.009609,0.1188,goal,regular,throw-in-set-piece,right-foot,high-right,25,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,Y. Möker,941564,M,21,0.03401,0.1011,save,-,regular,right-foot,low-centre,7,0
+16,Energie Cottbus : SpVgg Unterhaching,2 : 0,N. Bretschneider,941709,D,28,0.03592,0.03963,save,-,regular,left-foot,low-left,6,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,P. Halbauer,922495,F,11,0.001097,-,block,-,corner,left-foot,low-centre,63,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,Y. Möker,941564,M,21,0.03437,-,block,-,corner,right-foot,low-centre,63,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,T. Campulka,880801,D,4,0.0679,0.08759,save,-,regular,head,low-right,50,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,Y. Möker,941564,M,21,0.03832,-,miss,-,regular,right-foot,close-high-left,43,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,P. Halbauer,922495,F,11,0.07148,-,miss,-,regular,left-foot,close-high-right,43,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,M. Krauss,804808,F,23,0.02938,-,miss,-,regular,left-foot,close-left,36,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,P. Halbauer,922495,F,11,0.06603,0.1743,save,-,regular,right-foot,low-right,34,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,L. Copado,1141131,F,22,0.721,0.7475,save,-,regular,left-foot,high-left,31,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,A. Borgmann,169215,D,20,0.02935,0.02242,save,-,regular,left-foot,low-centre,31,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,L. Copado,1141131,F,22,0.09848,0.5053,save,-,regular,right-foot,low-left,27,0
+17,SV Waldhof Mannheim : Energie Cottbus,0 : 1,D. Pelivan,569976,M,5,0.4629,0.8063,goal,regular,corner,right-foot,high-centre,11,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,L. Copado,1141131,F,22,0.7234,-,block,-,regular,right-foot,low-centre,90,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,L. Copado,1141131,F,22,0.2118,0.251,save,-,regular,head,high-centre,86,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,T. Ciğerci,253679,M,10,0.09348,-,block,-,regular,left-foot,low-centre,80,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,M. Krauss,804808,F,23,0.0701,-,miss,-,regular,right-foot,close-high-right,78,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,N. Bretschneider,941709,D,28,0.1751,0.1225,save,-,regular,left-foot,low-centre,77,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,L. Copado,1141131,F,22,0.4016,0.3552,goal,regular,regular,left-foot,low-centre,69,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,A. Borgmann,169215,D,20,0.1047,-,miss,-,regular,left-foot,close-right,67,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,M. Krauss,804808,F,23,0.2631,0.1842,goal,regular,regular,right-foot,high-centre,65,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,L. Copado,1141131,F,22,0.04352,0.1569,save,-,regular,right-foot,low-left,60,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,M. Krauss,804808,F,23,0.08664,-,miss,-,regular,right-foot,close-high-right,55,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,T. Ciğerci,253679,M,10,0.01741,-,block,-,regular,right-foot,low-centre,55,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,T. Ciğerci,253679,M,10,0.06874,-,miss,-,throw-in-set-piece,right-foot,close-right,49,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,T. Campulka,880801,D,4,0.111,0.5791,goal,regular,corner,head,low-left,45,1
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,P. Halbauer,922495,F,11,0.1628,-,block,-,regular,left-foot,low-centre,34,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,M. Krauss,804808,F,23,0.393,-,miss,-,regular,right-foot,close-right,29,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,M. Krauss,804808,F,23,0.008818,-,miss,-,regular,right-foot,close-left,17,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,H. Rorig,990207,D,3,0.0007856,-,block,-,throw-in-set-piece,right-foot,low-centre,15,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,Y. Möker,941564,M,21,0.03072,-,block,-,regular,right-foot,low-centre,5,0
+18,Energie Cottbus : F.C. Hansa Rostock,3 : 1,P. Halbauer,922495,F,11,0.03282,0.04551,save,-,corner,left-foot,low-left,4,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,L. Copado,1141131,F,22,0.02204,0.04271,save,-,corner,right-foot,low-left,79,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,D. Slamar,169045,D,27,0.01495,-,miss,-,corner,right-foot,close-high,78,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,R. Hajrulla,979685,F,9,0.2732,-,block,-,regular,right-foot,low-centre,77,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,P. Halbauer,922495,F,11,0.1682,0.1239,save,-,regular,left-foot,high-centre,72,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,T. Ciğerci,253679,M,10,0.01183,-,block,-,corner,left-foot,low-centre,67,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,Y. Möker,941564,M,21,0.03146,0.04455,save,-,regular,right-foot,low-centre,62,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,M. Krauss,804808,F,23,0.02312,-,miss,-,regular,left-foot,close-high-left,45,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,T. Ciğerci,253679,M,10,0.03744,0.102,save,-,regular,left-foot,high-left,35,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,P. Halbauer,922495,F,11,0.02241,0.03801,goal,regular,regular,left-foot,low-centre,23,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,Y. Möker,941564,M,21,0.03458,-,miss,-,regular,right-foot,close-left,22,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,T. Ciğerci,253679,M,10,0.02211,-,block,-,regular,left-foot,low-centre,9,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,M. Krauss,804808,F,23,0.1062,-,miss,-,regular,right-foot,close-right,1,0
