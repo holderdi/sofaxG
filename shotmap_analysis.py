@@ -1,8 +1,29 @@
 import pandas as pd
 import requests
-
+print("\r\n")
+print("Filename Pattern: xG_shots_players_per_team_csv/1_to_19_{TEAM-Id}_xG.csv")
+filename = input("\r\nFilename")
+team_id = input("\r\nTeam ID: ")
 # CSV-Daten einlesen
-df = pd.read_csv("1_to_19_ARM_xG.csv")
+
+try:
+    # Datei lesen
+    df = pd.read_csv(filename)
+
+    # Prüfen, ob die Datei erfolgreich gelesen wurde und nicht leer ist
+    if df.empty:
+        print("Die Datei wurde gelesen, aber sie ist leer.")
+    else:
+        print("Die Datei wurde erfolgreich geöffnet.")
+        print(df.head())  # Optionale Ausgabe der ersten Zeilen
+except FileNotFoundError:
+    print(f"Die Datei '{filename}' wurde nicht gefunden.")
+except pd.errors.EmptyDataError:
+    print(f"Die Datei '{filename}' ist leer oder enthält keine Daten.")
+except pd.errors.ParserError:
+    print(f"Die Datei '{filename}' konnte nicht korrekt geparst werden.")
+except Exception as e:
+    print(f"Ein unbekannter Fehler ist aufgetreten: {e}")
 
 # Mapping-Tabelle für die Positionen
 position_mapping = {
@@ -64,14 +85,15 @@ max_minutes = df['Round'].nunique() * 90
 unique_players['Appearances'] = unique_players['Id'].map(player_appearances)
 unique_players['Rating'] = unique_players['Id'].map(player_ratings)
 
-
 # Zeilen mit 'penalty' ausschließen, bevor die xG kumuliert werden
 df_no_penalty = df[df['GoalType'] != 'penalty'].copy()
 
-# Cumulative values all data sets
-xg_cum_all = df_no_penalty['xG'].sum().round(2)
 # Spalte 'xGOT' fehlende Werte durch NaN ersetzen, um Berechnungen zu ermöglichen
 df_no_penalty['xGOT'] = pd.to_numeric(df['xGOT'], errors='coerce')  # Konvertiert '-' zu NaN 
+df_no_penalty['xG'] = pd.to_numeric(df['xG'], errors='coerce')  # Konvertiert '-' zu NaN
+
+# Cumulative values all data sets
+xg_cum_all = df_no_penalty['xG'].sum().round(2)
 xgot_cum_all = df_no_penalty['xGOT'].sum().round(2)
 shots_all = len(df_no_penalty)
 # Count shots on target 
@@ -93,6 +115,9 @@ unique_players['xGOT_per_90'] = unique_players.apply(
     axis=1
 ).round(2)
 
+if unique_players['Player'].duplicated().any():
+    unique_players.drop_duplicates(subset='Player')
+
 # Anzahl der Schüsse pro Spieler ermitteln
 shots_per_player = df_no_penalty.groupby('Player').size()
 
@@ -109,13 +134,6 @@ goals_sum = goals_cumulative.sum()
 
 
 xg_per_shot = df_no_penalty.groupby('Player')['xG'].mean().round(2)
-
-# 3. xG/xGOT Verhältnis, nur wenn xGOT vorhanden
-""" def calculate_xg_xgot_ratio(group):
-    ratio = group['xG'].sum() / group['xGOT'].sum() if group['xGOT'].sum() > 0 else None
-    return ratio
-
-xg_xgot_ratio = df.groupby('Player').apply(calculate_xg_xgot_ratio) """
 
 # Filtern der Zeilen, bei denen 'xGOT' ein gültiger Zahlenwert ist
 
@@ -179,12 +197,12 @@ print("\nResults per Player:")
 print(results_sorted)
 
 # Als CSV speichern
-results_sorted.to_csv('ARM_players_shots.csv', index=True, sep=',')
+results_sorted.to_csv(f"xG_players_per_team_results/{team_id}_players_shots.csv", index=True, sep=',')
 # Als TXT speichern
-results_sorted.to_csv('ARM_players_shots.txt', index=True, sep='\t')
+results_sorted.to_csv(f"xG_players_per_team_results/{team_id}_players_shots.txt", index=True, sep='\t')
 # HTML-Tabelle
 # Ergebnisse in HTML speichern
-results_sorted.to_html("ARM_players_shots.html", index=True, border=1)
+results_sorted.to_html(f"xG_players_per_team_results/{team_id}_players_shots.html", index=True, border=1)
 
 
 

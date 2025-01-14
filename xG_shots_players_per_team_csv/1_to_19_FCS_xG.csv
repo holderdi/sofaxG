@@ -1,0 +1,246 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,P. Schmidt,142189,F,39,0.01811,-,miss,-,throw-in-set-piece,right-foot,close-high,90,3
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,S. Stehle,1006823,F,22,0.01945,-,miss,-,regular,right-foot,close-left,81,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,P. Schmidt,142189,F,39,0.3339,0.7891,goal,regular,regular,head,low-left,71,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,P. Schmidt,142189,F,39,0.2643,0.5973,save,-,regular,right-foot,low-right,70,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,S. Stehle,1006823,F,22,0.001467,-,block,-,regular,right-foot,low-centre,66,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,K. Rabihic,271067,M,10,0.241,0.704,save,-,regular,head,low-right,65,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,S. Sonnenberg,836713,D,4,0.1443,0.4226,save,-,regular,head,high-left,56,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,S. Vasiliadis,809541,M,19,0.09979,-,miss,-,regular,right-foot,close-high-right,20,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,K. Brünker,802325,F,9,0.4589,-,block,-,regular,right-foot,low-centre,14,0
+1,TSV 1860 München : 1. FC Saarbrücken,0 : 1,S. Stehle,1006823,F,22,0.0791,-,miss,-,set-piece,right-foot,close-high-right,10,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,A. Naïfi,1502033,F,25,0.0725,-,block,-,regular,right-foot,low-centre,90,6
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,K. Brünker,802325,F,9,0.2946,-,miss,-,regular,head,close-left,90,3
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,A. Naïfi,1502033,F,25,0.3086,-,miss,-,regular,head,close-high-left,77,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,C. Rizzuto,136930,D,7,0.003886,-,block,-,throw-in-set-piece,right-foot,low-centre,76,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,K. Rabihic,271067,M,10,0.2313,-,block,-,regular,right-foot,low-centre,66,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,R. Neudecker,573308,M,31,0.02537,-,block,-,regular,left-foot,low-centre,59,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,K. Brünker,802325,F,9,0.1873,-,miss,-,throw-in-set-piece,left-foot,close-left,57,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,P. Schmidt,142189,F,39,0.2355,-,miss,-,throw-in-set-piece,head,close-high-left,51,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,P. Schmidt,142189,F,39,0.1041,0.1466,save,-,regular,right-foot,low-left,30,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,S. Stehle,1006823,F,22,0.3804,-,block,-,regular,right-foot,low-centre,18,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,K. Rabihic,271067,M,10,0.2172,-,miss,-,throw-in-set-piece,left-foot,close-right,16,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,M. Zeitz,84223,D,8,0.0173,-,block,-,throw-in-set-piece,right-foot,low-centre,16,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,P. Schmidt,142189,F,39,0.2054,0.149,save,-,regular,right-foot,high-centre,11,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,C. Rizzuto,136930,D,7,0.004866,-,miss,-,corner,right-foot,close-high-right,10,0
+2,1. FC Saarbrücken : SV Sandhausen,0 : 1,S. Vasiliadis,809541,M,19,0.1247,-,block,-,regular,right-foot,low-centre,9,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Stehle,1006823,F,22,0.0507,0.3275,save,-,regular,head,low-left,90,3
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,J. Günther-Schmidt,169071,M,20,0.202,-,block,-,regular,right-foot,low-centre,85,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Stehle,1006823,F,22,0.005387,-,miss,-,regular,right-foot,close-high-right,82,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,J. Günther-Schmidt,169071,M,20,0.1729,0.7537,save,-,regular,left-foot,low-left,81,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,T. Civeja,989957,M,23,0.07212,0.1184,save,-,regular,right-foot,low-left,78,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,T. Civeja,989957,M,23,0.03006,-,block,-,regular,left-foot,low-centre,76,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Sonnenberg,836713,D,4,0.08718,-,miss,-,corner,head,close-right,72,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,C. Rizzuto,136930,D,7,0.005748,-,block,-,set-piece,right-foot,low-centre,48,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,T. Civeja,989957,M,23,0.1872,-,goal,regular,regular,right-foot,low-right,45,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,T. Civeja,989957,M,23,0.1288,0.08759,save,-,regular,right-foot,low-centre,37,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,K. Brünker,802325,F,9,0.1754,0.1787,goal,regular,regular,head,low-centre,26,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,A. Naïfi,1502033,F,25,0.3281,0.5435,save,-,regular,right-foot,high-centre,21,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Sonnenberg,836713,D,4,0.05736,-,miss,-,corner,head,close-right,14,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,C. Rizzuto,136930,D,7,0.76,0.81,save,-,penalty,right-foot,low-right,8,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,T. Civeja,989957,M,23,0.4955,0.729,save,-,regular,right-foot,high-centre,8,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Stehle,1006823,F,22,0.2174,-,miss,-,regular,head,close-high,4,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,T. Civeja,989957,M,23,0.06781,-,block,-,regular,right-foot,low-centre,1,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,C. Rizzuto,136930,D,7,0.03492,-,miss,-,regular,left-foot,close-high,87,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,A. Naïfi,1502033,F,25,0.2783,-,miss,-,regular,head,close-high,80,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,J. Günther-Schmidt,169071,M,20,0.08987,0.1367,save,-,throw-in-set-piece,left-foot,low-centre,79,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,A. Naïfi,1502033,F,25,0.02622,-,miss,-,throw-in-set-piece,right-foot,close-high,75,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,T. Civeja,989957,M,23,0.00489,-,miss,-,regular,left-foot,close-high-left,68,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,A. Naïfi,1502033,F,25,0.76,-,miss,-,penalty,right-foot,close-left,67,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,P. Schmidt,142189,F,39,0.006996,-,block,-,regular,left-foot,low-centre,47,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,S. Vasiliadis,809541,M,19,0.06525,0.3756,goal,regular,regular,head,high-right,41,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,T. Civeja,989957,M,23,0.05348,0.1588,save,-,regular,right-foot,low-right,36,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,S. Vasiliadis,809541,M,19,0.01339,-,miss,-,regular,left-foot,close-high-left,35,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,K. Brünker,802325,F,9,0.1924,-,block,-,corner,left-foot,low-centre,27,0
+4,SV Waldhof Mannheim : 1. FC Saarbrücken,0 : 1,K. Brünker,802325,F,9,0.2662,-,miss,-,regular,head,close-left,24,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,K. Rabihic,271067,M,10,0.1363,-,block,-,regular,right-foot,low-centre,84,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,C. Rizzuto,136930,D,7,0.05877,-,miss,-,regular,head,close-right,73,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,M. Zeitz,84223,D,8,0.1273,0.07448,save,-,set-piece,right-foot,low-centre,70,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,K. Rabihic,271067,M,10,0.1012,-,miss,-,regular,right-foot,close-left,64,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,S. Vasiliadis,809541,M,19,0.06901,0.2991,save,-,throw-in-set-piece,left-foot,low-left,54,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,K. Brünker,802325,F,9,0.04617,-,block,-,regular,right-foot,low-centre,51,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,S. Stehle,1006823,F,22,0.008993,-,block,-,regular,left-foot,low-centre,50,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,T. Civeja,989957,M,23,0.0241,0.0172,save,-,regular,right-foot,low-centre,45,2
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,S. Vasiliadis,809541,M,19,0.1383,0.4701,save,-,regular,head,high-left,45,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,S. Sonnenberg,836713,D,4,0.101,0.5211,goal,regular,corner,right-foot,low-left,38,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,K. Brünker,802325,F,9,0.06218,-,miss,-,regular,head,close-left,37,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,P. Sontheimer,856077,M,6,0.0004563,-,miss,-,regular,right-foot,close-high,25,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,P. Sontheimer,856077,M,6,0.01149,-,miss,-,regular,left-foot,close-high-left,23,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,T. Civeja,989957,M,23,0.0009465,-,block,-,regular,right-foot,low-centre,15,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,S. Stehle,1006823,F,22,0.0843,-,miss,-,regular,head,close-left,10,0
+5,1. FC Saarbrücken : SpVgg Unterhaching,1 : 1,S. Stehle,1006823,F,22,0.1658,0.1218,save,-,regular,right-foot,low-centre,8,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,T. Civeja,989957,M,23,0.3158,-,miss,-,regular,right-foot,close-left,89,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,P. Schmidt,142189,F,39,0.07113,0.1154,save,-,regular,right-foot,high-centre,88,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,P. Sontheimer,856077,M,6,0.05304,0.3576,save,-,corner,right-foot,high-left,84,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,D. Becker,877833,D,17,0.06808,-,block,-,corner,right-foot,low-centre,84,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,T. Civeja,989957,M,23,0.008818,-,block,-,corner,right-foot,low-centre,82,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,T. Civeja,989957,M,23,0.1107,-,miss,-,regular,head,close-left,71,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Rabihic,271067,M,10,0.01425,-,miss,-,corner,right-foot,close-right,69,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,R. Neudecker,573308,M,31,0.207,0.6007,goal,regular,regular,left-foot,low-right,67,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Rabihic,271067,M,10,0.0956,-,post,-,throw-in-set-piece,head,left,64,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,D. Becker,877833,D,17,0.181,-,miss,-,corner,right-foot,close-right,52,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,E. Krahn,1164171,M,5,0.0575,0.5309,save,-,throw-in-set-piece,right-foot,low-right,50,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,R. Neudecker,573308,M,31,0.2547,0.1541,save,-,corner,left-foot,low-centre,47,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,D. Becker,877833,D,17,0.01789,-,block,-,corner,left-foot,low-centre,46,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Rabihic,271067,M,10,0.1589,-,miss,-,throw-in-set-piece,left-foot,close-high-left,42,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Brünker,802325,F,9,0.3336,0.6706,goal,regular,regular,left-foot,high-centre,38,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Rabihic,271067,M,10,0.09597,0.02757,save,-,regular,right-foot,low-centre,35,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,R. Neudecker,573308,M,31,0.2804,0.2343,save,-,regular,left-foot,low-centre,31,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,P. Sontheimer,856077,M,6,0.2574,-,miss,-,set-piece,head,close-high-left,18,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Brünker,802325,F,9,0.2904,0.7071,goal,regular,regular,right-foot,high-right,4,0
+6,Hannover 96 II : 1. FC Saarbrücken,1 : 3,K. Rabihic,271067,M,10,0.05822,-,miss,-,throw-in-set-piece,right-foot,close-right,2,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,S. Vasiliadis,809541,M,19,0.08324,-,miss,-,set-piece,head,close-high-right,90,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,K. Rabihic,271067,M,10,0.001831,-,block,-,free-kick,right-foot,low-centre,86,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,K. Rabihic,271067,M,10,0.138,0.1543,goal,regular,corner,head,low-centre,76,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,S. Vasiliadis,809541,M,19,0.1456,-,miss,-,regular,right-foot,close-right,73,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,K. Rabihic,271067,M,10,0.04369,0.01256,save,-,regular,right-foot,low-centre,73,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,K. Rabihic,271067,M,10,0.002262,-,miss,-,free-kick,right-foot,close-high-right,71,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,T. Schumacher,817958,D,33,0.04537,-,block,-,throw-in-set-piece,left-foot,low-centre,62,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,T. Civeja,989957,M,23,0.3678,-,miss,-,regular,right-foot,close-high-left,59,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,A. Naïfi,1502033,F,25,0.05713,0.2548,save,-,corner,right-foot,low-left,55,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,P. Sontheimer,856077,M,6,0.02167,0.0305,save,-,regular,right-foot,high-centre,54,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,A. Naïfi,1502033,F,25,0.08982,0.01899,save,-,regular,right-foot,low-centre,54,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,S. Stehle,1006823,F,22,0.1373,0.08019,save,-,regular,left-foot,high-centre,50,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,C. Rizzuto,136930,D,7,0.015,-,miss,-,regular,right-foot,close-high-right,41,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,A. Naïfi,1502033,F,25,0.04634,0.1882,save,-,regular,right-foot,low-right,32,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,A. Naïfi,1502033,F,25,0.1708,0.6734,save,-,throw-in-set-piece,left-foot,low-left,30,0
+7,1. FC Saarbrücken : FC Viktoria Köln,1 : 0,K. Brünker,802325,F,9,0.4389,-,block,-,regular,right-foot,low-centre,25,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,K. Rabihic,271067,M,10,0.001483,-,block,-,regular,right-foot,low-centre,90,2
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,P. Schmidt,142189,F,39,0.05758,0.03598,save,-,regular,right-foot,low-right,90,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,K. Rabihic,271067,M,10,0.01671,-,block,-,regular,right-foot,low-centre,83,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,A. Naïfi,1502033,F,25,0.01667,-,miss,-,regular,right-foot,close-high-left,70,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,K. Rabihic,271067,M,10,0.03166,0.1236,save,-,regular,right-foot,low-right,60,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,R. Neudecker,573308,M,31,0.0508,0.0244,save,-,regular,left-foot,low-centre,57,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,K. Rabihic,271067,M,10,0.07857,0.5833,save,-,throw-in-set-piece,right-foot,low-left,45,2
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,T. Civeja,989957,M,23,0.05089,0.2463,goal,regular,regular,left-foot,low-right,45,1
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,K. Rabihic,271067,M,10,0.0004361,-,miss,-,free-kick,right-foot,close-high-left,39,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,D. Becker,877833,D,17,0.05854,0.04509,save,-,corner,head,low-centre,31,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,P. Sontheimer,856077,M,6,0.01993,-,block,-,throw-in-set-piece,right-foot,low-centre,29,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,R. Neudecker,573308,M,31,0.212,-,miss,-,regular,left-foot,close-high-left,11,0
+8,Energie Cottbus : 1. FC Saarbrücken,4 : 1,K. Rabihic,271067,M,10,0.01953,-,block,-,regular,left-foot,low-centre,9,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,K. Rabihic,271067,M,10,0.06783,-,miss,-,regular,right-foot,close-high-right,89,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,P. Schmidt,142189,F,39,0.03713,-,miss,-,regular,left-foot,close-right,88,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,T. Civeja,989957,M,23,0.1565,0.129,save,-,regular,head,low-centre,83,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,R. Neudecker,573308,M,31,0.02771,-,miss,-,throw-in-set-piece,left-foot,close-high-right,70,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,C. Rizzuto,136930,D,7,0.02737,-,block,-,regular,right-foot,low-centre,58,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,S. Stehle,1006823,F,22,0.2728,0.6776,save,-,set-piece,head,low-centre,33,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,R. Neudecker,573308,M,31,0.06453,-,block,-,regular,left-foot,low-centre,20,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,C. Rizzuto,136930,D,7,0.02367,-,miss,-,corner,right-foot,close-high-left,16,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,J. Bichsel,999266,D,27,0.1209,-,block,-,set-piece,left-foot,low-centre,9,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,K. Brünker,802325,F,9,0.1581,0.4477,save,-,corner,head,low-right,2,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,P. Sontheimer,856077,M,6,0.0868,-,block,-,regular,left-foot,low-centre,1,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Rabihic,271067,M,10,0.01077,-,block,-,set-piece,right-foot,low-centre,87,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Brünker,802325,F,9,0.05616,0.02408,save,-,set-piece,head,high-centre,82,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Rabihic,271067,M,10,0.1199,0.06325,save,-,regular,right-foot,high-centre,63,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,R. Neudecker,573308,M,31,0.3068,0.8011,goal,regular,free-kick,left-foot,low-left,57,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Rabihic,271067,M,10,0.05909,0.02909,save,-,regular,right-foot,high-centre,55,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,L. Wilhelm,1124289,D,18,0.756,0.8959,goal,regular,corner,right-foot,low-left,50,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Brünker,802325,F,9,0.09603,0.1073,save,-,corner,head,low-centre,50,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,P. Sontheimer,856077,M,6,0.009716,-,block,-,regular,right-foot,low-centre,45,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Brünker,802325,F,9,0.4837,-,miss,-,regular,left-foot,close-right,36,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,C. Rizzuto,136930,D,7,0.005927,-,miss,-,set-piece,right-foot,close-high-right,34,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,S. Vasiliadis,809541,M,19,0.592,0.7894,goal,regular,throw-in-set-piece,right-foot,high-right,31,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,P. Sontheimer,856077,M,6,0.007942,-,block,-,throw-in-set-piece,right-foot,low-centre,31,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,K. Brünker,802325,F,9,0.0314,-,miss,-,set-piece,head,close-high,29,0
+10,VfB Stuttgart II : 1. FC Saarbrücken,2 : 3,R. Neudecker,573308,M,31,0.02272,-,block,-,regular,left-foot,low-centre,3,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,T. Civeja,989957,M,23,0.05366,-,miss,-,regular,right-foot,close-high-right,90,3
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,P. Schmidt,142189,F,39,0.1755,-,miss,-,regular,left-foot,close-right,90,1
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,E. Krahn,1164171,M,5,0.09894,-,miss,-,regular,head,close-high-left,85,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,T. Civeja,989957,M,23,0.0583,0.1141,goal,regular,regular,right-foot,low-centre,80,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,C. Rizzuto,136930,D,7,0.003769,-,block,-,regular,right-foot,low-centre,65,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,A. Naïfi,1502033,F,25,0.08269,0.04904,save,-,regular,left-foot,low-centre,61,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,C. Rizzuto,136930,D,7,0.00953,-,miss,-,corner,right-foot,close-left,35,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,K. Brünker,802325,F,9,0.0514,0.0216,save,-,regular,left-foot,low-centre,34,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,J. Bichsel,999266,D,27,0.09231,0.324,goal,regular,corner,head,high-left,33,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,C. Rizzuto,136930,D,7,0.004792,-,miss,-,set-piece,right-foot,close-high-right,20,0
+11,1. FC Saarbrücken : F.C. Hansa Rostock,2 : 0,S. Vasiliadis,809541,M,19,0.05495,-,miss,-,regular,right-foot,close-left,11,0
+12,VfL Osnabrück : 1. FC Saarbrücken,1 : 1,P. Sontheimer,856077,M,6,0.02933,-,block,-,regular,right-foot,low-centre,90,4
+12,VfL Osnabrück : 1. FC Saarbrücken,1 : 1,K. Rabihic,271067,M,10,0.76,0.81,save,-,penalty,right-foot,low-centre,67,0
+12,VfL Osnabrück : 1. FC Saarbrücken,1 : 1,S. Vasiliadis,809541,M,19,0.1538,0.158,goal,regular,regular,right-foot,low-centre,41,0
+12,VfL Osnabrück : 1. FC Saarbrücken,1 : 1,R. Neudecker,573308,M,31,0.0386,-,miss,-,throw-in-set-piece,left-foot,close-left,15,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,C. Rizzuto,136930,D,7,0.002149,-,miss,-,set-piece,right-foot,close-left,90,2
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,M. Multhaup,281275,M,11,0.05492,-,miss,-,regular,right-foot,close-high-left,88,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,K. Rabihic,271067,M,10,0.002483,-,miss,-,regular,right-foot,close-high-right,86,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.4458,0.6828,goal,regular,regular,head,low-centre,81,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,T. Civeja,989957,M,23,0.02854,-,block,-,regular,right-foot,low-centre,80,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.1723,0.4166,save,-,corner,head,high-centre,79,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,M. Multhaup,281275,M,11,0.03243,-,miss,-,regular,right-foot,close-right,62,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,E. Krahn,1164171,M,5,0.2216,-,block,-,regular,right-foot,low-centre,58,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,A. Naïfi,1502033,F,25,0.03554,-,block,-,regular,right-foot,low-centre,58,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,S. Stehle,1006823,F,22,0.2927,-,miss,-,regular,head,close-high-right,35,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,C. Rizzuto,136930,D,7,0.1246,-,miss,-,regular,right-foot,close-right,34,0
+13,Erzgebirge Aue : 1. FC Saarbrücken,1 : 1,R. Neudecker,573308,M,31,0.1887,0.2975,save,-,throw-in-set-piece,left-foot,high-centre,33,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,P. Schmidt,142189,F,39,0.76,0.81,goal,penalty,penalty,right-foot,low-left,88,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,J. Günther-Schmidt,169071,M,20,0.02397,-,miss,-,throw-in-set-piece,right-foot,close-left,83,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,P. Schmidt,142189,F,39,0.005008,-,block,-,throw-in-set-piece,right-foot,low-centre,80,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,A. Naïfi,1502033,F,25,0.0648,0.06642,save,-,regular,right-foot,low-right,75,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,R. Neudecker,573308,M,31,0.0033,-,miss,-,regular,left-foot,close-high-right,60,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,A. Naïfi,1502033,F,25,0.3323,-,miss,-,regular,right-foot,close-high-left,58,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,K. Brünker,802325,F,9,0.08139,0.3412,goal,regular,throw-in-set-piece,right-foot,high-right,48,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,C. Rizzuto,136930,D,7,0.001668,-,block,-,throw-in-set-piece,right-foot,low-centre,48,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,K. Brünker,802325,F,9,0.07417,0.07965,save,-,regular,right-foot,low-centre,47,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,A. Naïfi,1502033,F,25,0.3473,0.1959,goal,regular,regular,right-foot,high-centre,42,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,A. Naïfi,1502033,F,25,0.1861,-,miss,-,regular,left-foot,close-high-right,39,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,A. Naïfi,1502033,F,25,0.02392,-,block,-,corner,right-foot,low-centre,39,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,S. Vasiliadis,809541,M,19,0.002218,-,block,-,throw-in-set-piece,right-foot,low-centre,37,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,K. Brünker,802325,F,9,0.1468,-,miss,-,regular,head,close-high,25,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,C. Rizzuto,136930,D,7,0.01885,-,block,-,regular,left-foot,low-centre,25,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,S. Stehle,1006823,F,22,0.2268,0.3182,save,-,regular,left-foot,low-centre,25,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,C. Rizzuto,136930,D,7,0.003319,-,block,-,regular,right-foot,low-centre,17,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,S. Vasiliadis,809541,M,19,0.0119,-,block,-,regular,right-foot,low-centre,9,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,P. Sontheimer,856077,M,6,0.02136,-,miss,-,corner,right-foot,close-high-right,6,0
+14,1. FC Saarbrücken : SV Wehen Wiesbaden,3 : 1,A. Naïfi,1502033,F,25,0.002654,-,block,-,regular,left-foot,low-centre,6,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.1196,-,block,-,regular,right-foot,low-centre,90,3
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.1882,0.7396,goal,regular,regular,right-foot,high-centre,61,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.08738,-,miss,-,regular,right-foot,close-left,57,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,P. Fahrner,1131745,D,2,0.1779,-,block,-,corner,right-foot,low-centre,54,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,C. Rizzuto,136930,D,7,0.01298,0.09742,save,-,corner,right-foot,low-right,54,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,P. Sontheimer,856077,M,6,0.008314,-,block,-,corner,left-foot,low-centre,54,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,P. Fahrner,1131745,D,2,0.07689,-,miss,-,regular,right-foot,close-high-right,40,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,J. Bichsel,999266,D,27,0.7125,-,post,-,corner,right-foot,high,33,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,J. Günther-Schmidt,169071,M,20,0.6837,0.8563,save,-,corner,right-foot,low-left,33,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,E. Krahn,1164171,M,5,0.0505,-,block,-,corner,left-foot,low-centre,33,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,S. Stehle,1006823,F,22,0.1157,-,block,-,regular,right-foot,low-centre,32,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,J. Günther-Schmidt,169071,M,20,0.2557,0.2203,save,-,regular,right-foot,low-centre,32,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,S. Stehle,1006823,F,22,0.1828,-,miss,-,regular,left-foot,close-right,27,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,R. Neudecker,573308,M,31,0.05782,0.07735,save,-,regular,left-foot,low-left,20,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,E. Krahn,1164171,M,5,0.2256,0.5501,save,-,regular,right-foot,low-right,15,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,C. Rizzuto,136930,D,7,0.05586,-,post,-,regular,right-foot,high,78,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,C. Rizzuto,136930,D,7,0.001194,-,block,-,free-kick,right-foot,low-centre,70,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,R. Neudecker,573308,M,31,0.09149,0.2238,save,-,regular,left-foot,low-right,55,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,P. Fahrner,1131745,D,2,0.08721,-,block,-,regular,left-foot,low-centre,50,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,C. Rizzuto,136930,D,7,0.4348,0.42,save,-,regular,left-foot,high-left,49,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,J. Günther-Schmidt,169071,M,20,0.05004,0.0792,save,-,regular,right-foot,low-left,49,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,R. Neudecker,573308,M,31,0.001355,-,miss,-,free-kick,left-foot,close-high,40,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,E. Krahn,1164171,M,5,0.01289,-,block,-,regular,right-foot,low-centre,38,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,E. Krahn,1164171,M,5,0.002655,-,miss,-,regular,left-foot,close-left,34,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,P. Fahrner,1131745,D,2,0.008193,-,miss,-,corner,right-foot,close-high-right,18,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,C. Rizzuto,136930,D,7,0.003748,-,miss,-,regular,right-foot,close-left,10,0
+16,1. FC Saarbrücken : Rot-Weiss Essen,1 : 0,R. Neudecker,573308,M,31,0.0008609,-,miss,-,free-kick,left-foot,close-high-left,7,0
+17,SC Verl : 1. FC Saarbrücken,1 : 1,M. Multhaup,281275,M,11,0.03234,-,block,-,regular,left-foot,low-centre,90,0
+17,SC Verl : 1. FC Saarbrücken,1 : 1,T. Civeja,989957,M,23,0.02952,-,block,-,regular,right-foot,low-centre,86,0
+17,SC Verl : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.1193,0.2173,save,-,regular,left-foot,low-centre,86,0
+17,SC Verl : 1. FC Saarbrücken,1 : 1,K. Brünker,802325,F,9,0.02246,-,miss,-,throw-in-set-piece,left-foot,close-high,64,0
+17,SC Verl : 1. FC Saarbrücken,1 : 1,R. Neudecker,573308,M,31,0.4853,0.6501,goal,regular,regular,left-foot,low-centre,37,0
+17,SC Verl : 1. FC Saarbrücken,1 : 1,R. Neudecker,573308,M,31,0.07728,0.02358,save,-,regular,left-foot,low-centre,18,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,M. Multhaup,281275,M,11,0.3233,-,miss,-,regular,right-foot,close-left,86,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,J. Günther-Schmidt,169071,M,20,0.1438,0.6795,save,-,corner,head,low-right,84,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,S. Stehle,1006823,F,22,0.0008253,-,block,-,regular,right-foot,low-centre,76,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,R. Neudecker,573308,M,31,0.76,0.81,goal,penalty,penalty,left-foot,high-left,74,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,P. Sontheimer,856077,M,6,0.0092,-,miss,-,throw-in-set-piece,right-foot,close-high-right,65,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,M. Multhaup,281275,M,11,0.161,0.08828,save,-,regular,left-foot,low-centre,60,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,T. Civeja,989957,M,23,0.01633,-,miss,-,regular,left-foot,close-high-left,53,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,R. Neudecker,573308,M,31,0.033,0.01834,save,-,regular,left-foot,low-centre,34,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,K. Brünker,802325,F,9,0.2061,-,miss,-,regular,head,close-high,31,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,J. Günther-Schmidt,169071,M,20,0.0477,-,block,-,regular,right-foot,low-centre,25,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,R. Neudecker,573308,M,31,0.2111,-,miss,-,corner,head,close-high,24,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,R. Neudecker,573308,M,31,0.2518,-,block,-,regular,left-foot,low-centre,23,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,R. Neudecker,573308,M,31,0.006422,-,block,-,regular,left-foot,low-centre,23,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,R. Neudecker,573308,M,31,0.0917,-,block,-,regular,left-foot,low-centre,10,0
+18,1. FC Saarbrücken : Alemannia Aachen,1 : 1,P. Sontheimer,856077,M,6,0.1622,-,post,-,regular,right-foot,left,6,0
+19,Borussia Dortmund II : 1. FC Saarbrücken,0 : 0,R. Neudecker,573308,M,31,0.03552,-,miss,-,regular,head,close-left,86,0
+19,Borussia Dortmund II : 1. FC Saarbrücken,0 : 0,K. Rabihic,271067,M,10,0.2121,-,miss,-,corner,head,close-left,78,0
+19,Borussia Dortmund II : 1. FC Saarbrücken,0 : 0,T. Civeja,989957,M,23,0.03903,0.022,save,-,regular,right-foot,low-centre,77,0
+19,Borussia Dortmund II : 1. FC Saarbrücken,0 : 0,E. Krahn,1164171,M,5,0.01784,-,miss,-,set-piece,head,close-high-left,43,0
+19,Borussia Dortmund II : 1. FC Saarbrücken,0 : 0,T. Civeja,989957,M,23,0.004711,-,miss,-,regular,right-foot,close-high-right,34,0
+19,Borussia Dortmund II : 1. FC Saarbrücken,0 : 0,J. Günther-Schmidt,169071,M,20,0.0558,-,miss,-,regular,right-foot,close-left,14,0

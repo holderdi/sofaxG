@@ -1,0 +1,243 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,D. Borkowski,997016,F,7,0.2167,-,miss,-,throw-in-set-piece,right-foot,close-left,85,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,D. Kopacz,851257,M,29,0.00399,-,miss,-,corner,right-foot,close-left,78,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,D. Kopacz,851257,M,29,0.07558,0.02754,save,-,regular,right-foot,low-centre,77,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,S. Grønning,842368,F,11,0.121,-,goal,regular,set-piece,head,low-left,70,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,D. Borkowski,997016,F,7,0.01383,-,miss,-,corner,right-foot,close-left,68,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,D. Borkowski,997016,F,7,0.007335,-,miss,-,corner,right-foot,close-right,68,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,L. Fröde,187435,M,34,0.09037,0.1156,save,-,corner,head,high-centre,67,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,P. Testroet,37631,F,37,0.0526,-,miss,-,corner,head,close-left,58,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,D. Borkowski,997016,F,7,0.03243,-,miss,-,corner,left-foot,close-high,45,1
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,B. Kanuric,1064762,M,8,0.2128,-,miss,-,regular,head,close-right,27,0
+1,FC Ingolstadt 04 : SV Waldhof Mannheim,2 : 1,F. Keidel,1215028,M,43,0.1043,0.4347,goal,regular,regular,right-foot,low-left,8,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,S. Grønning,842368,F,11,0.3118,-,miss,-,regular,right-foot,close-left,81,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,T. Heike,951706,F,9,0.1099,0.09185,save,-,regular,right-foot,low-centre,78,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,M. Dittgen,187427,M,10,0.005627,-,block,-,set-piece,left-foot,low-centre,67,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,P. Testroet,37631,F,37,0.05562,-,block,-,throw-in-set-piece,left-foot,low-centre,54,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,B. Kanuric,1064762,M,8,0.08871,0.04534,save,-,free-kick,right-foot,high-centre,53,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,P. Testroet,37631,F,37,0.07734,0.1508,goal,regular,regular,left-foot,low-centre,45,1
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,S. Lorenz,802864,D,32,0.03892,0.0703,save,-,throw-in-set-piece,head,low-left,42,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,D. Borkowski,997016,F,7,0.0426,-,block,-,regular,left-foot,low-centre,28,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,M. Plath,1862751,D,14,0.01061,-,miss,-,throw-in-set-piece,right-foot,close-high-right,24,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,P. Testroet,37631,F,37,0.3871,-,miss,-,regular,left-foot,close-right,21,0
+2,SpVgg Unterhaching : FC Ingolstadt 04,2 : 1,P. Testroet,37631,F,37,0.03441,-,miss,-,regular,right-foot,close-high,2,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,L. Fröde,187435,M,34,0.1056,0.4351,goal,regular,corner,head,low-left,84,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,M. Costly,537268,D,22,0.003042,-,block,-,regular,right-foot,low-centre,83,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,R. Malone,799211,D,16,0.1499,-,miss,-,corner,head,close-high-left,65,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,D. Borkowski,997016,F,7,0.07378,-,block,-,corner,right-foot,low-centre,60,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,R. Malone,799211,D,16,0.1112,0.04937,save,-,set-piece,head,low-centre,55,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,D. Borkowski,997016,F,7,0.5763,-,post,-,corner,right-foot,high,45,5
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Grønning,842368,F,11,0.08855,2.82e-05,post,-,corner,head,high,45,5
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,R. Malone,799211,D,16,0.1539,0.5191,save,-,corner,head,low-right,45,2
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,D. Borkowski,997016,F,7,0.08142,-,block,-,regular,left-foot,low-centre,42,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,B. Kanuric,1064762,M,8,0.216,-,miss,-,regular,left-foot,close-left,41,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,L. Fröde,187435,M,34,0.458,-,miss,-,set-piece,right-foot,close-right,39,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,B. Kanuric,1064762,M,8,0.002379,-,miss,-,regular,right-foot,close-high-right,33,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Lorenz,802864,D,32,0.08946,0.2309,save,-,corner,right-foot,low-centre,23,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,B. Kanuric,1064762,M,8,0.07962,-,miss,-,regular,right-foot,close-right,22,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,M. Costly,537268,D,22,0.0506,0.2121,goal,regular,regular,left-foot,low-right,20,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,B. Kanuric,1064762,M,8,0.009099,0.02326,save,-,regular,left-foot,low-right,13,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,S. Grønning,842368,F,11,0.04039,0.3891,goal,regular,throw-in-set-piece,head,high-left,11,0
+3,1. FC Saarbrücken : FC Ingolstadt 04,2 : 3,M. N. Dühring,1140582,D,18,0.005668,-,block,-,corner,left-foot,low-centre,11,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,D. Zeitler,1604187,F,38,0.02854,0.06788,save,-,regular,right-foot,high-left,89,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,P. Testroet,37631,F,37,0.76,0.81,goal,penalty,penalty,right-foot,low-right,86,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,P. Testroet,37631,F,37,0.124,0.08123,save,-,regular,right-foot,low-centre,82,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,R. Malone,799211,D,16,0.1899,-,miss,-,corner,head,close-high,82,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,D. Zeitler,1604187,F,38,0.06093,0.03125,save,-,regular,head,low-centre,74,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,P. Testroet,37631,F,37,0.1184,-,miss,-,regular,right-foot,close-left,61,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,D. Kopacz,851257,M,29,0.4949,-,miss,-,regular,right-foot,close-high-right,58,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,B. Kanuric,1064762,M,8,0.3028,0.2723,save,-,regular,left-foot,low-centre,58,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,M. N. Dühring,1140582,D,18,0.006791,-,miss,-,regular,left-foot,close-high-left,55,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,L. Fröde,187435,M,34,0.004749,-,block,-,regular,left-foot,low-centre,41,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,D. Kopacz,851257,M,29,0.02658,-,miss,-,set-piece,right-foot,close-left,38,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,D. Kopacz,851257,M,29,0.005603,-,miss,-,corner,right-foot,close-high-left,20,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,R. Malone,799211,D,16,0.06458,-,miss,-,corner,head,close-high-right,11,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,B. Kanuric,1064762,M,8,0.07148,-,block,-,throw-in-set-piece,left-foot,low-centre,10,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,R. Malone,799211,D,16,0.0582,0.05947,save,-,corner,head,low-centre,10,0
+4,FC Ingolstadt 04 : TSV 1860 München,1 : 2,B. Kanuric,1064762,M,8,0.02021,0.007083,save,-,regular,left-foot,low-centre,9,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,S. Grønning,842368,F,11,0.08221,0.05433,save,-,regular,head,low-centre,87,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,Y. Deichmann,168975,M,20,0.03934,-,miss,-,regular,left-foot,close-left,85,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,Y. Deichmann,168975,M,20,0.004144,-,block,-,regular,right-foot,low-centre,85,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,M. Besuschkow,548092,M,17,0.02189,0.5542,goal,regular,throw-in-set-piece,right-foot,high-left,79,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,M. Costly,537268,D,22,0.06857,-,block,-,regular,right-foot,low-centre,75,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,S. Lorenz,802864,D,32,0.03645,0.4856,goal,regular,throw-in-set-piece,head,low-left,39,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,M. Costly,537268,D,22,0.01237,-,block,-,regular,left-foot,low-centre,34,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,D. Kopacz,851257,M,29,0.03881,-,miss,-,regular,right-foot,close-high-right,21,0
+6,FC Ingolstadt 04 : Rot-Weiss Essen,2 : 2,D. Borkowski,997016,F,7,0.004152,-,block,-,throw-in-set-piece,right-foot,low-centre,13,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,D. Kopacz,851257,M,29,0.1799,-,block,-,regular,right-foot,low-centre,90,4
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,M. Costly,537268,D,22,0.02364,-,block,-,regular,right-foot,low-centre,90,3
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,B. Kanuric,1064762,M,8,0.08468,0.3335,goal,regular,regular,right-foot,low-right,90,2
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,B. Kanuric,1064762,M,8,0.004868,-,miss,-,set-piece,right-foot,close-high-right,82,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,P. Testroet,37631,F,37,0.08135,0.5599,save,-,set-piece,head,low-left,80,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,M. Besuschkow,548092,M,17,0.1721,-,block,-,free-kick,right-foot,low-centre,70,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,L. Fröde,187435,M,34,0.1377,0.4912,goal,regular,corner,head,low-right,53,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,R. Malone,799211,D,16,0.001506,-,block,-,set-piece,left-foot,low-centre,52,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,Y. Deichmann,168975,M,20,0.002975,-,block,-,regular,right-foot,low-centre,26,0
+7,SV Sandhausen : FC Ingolstadt 04,4 : 3,D. Borkowski,997016,F,7,0.05653,0.8833,goal,regular,regular,right-foot,high-left,19,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,S. Grønning,842368,F,11,0.3172,-,miss,-,regular,right-foot,close-left,90,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,F. Keidel,1215028,M,43,0.02445,-,block,-,regular,left-foot,low-centre,90,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,D. Kopacz,851257,M,29,0.1789,0.4156,save,-,regular,right-foot,low-left,74,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,S. Grønning,842368,F,11,0.08913,0.3145,goal,regular,throw-in-set-piece,head,low-right,70,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,P. Testroet,37631,F,37,0.07854,0.05312,save,-,regular,head,low-centre,45,1
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,M. Besuschkow,548092,M,17,0.005792,-,block,-,throw-in-set-piece,right-foot,low-centre,44,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,M. Besuschkow,548092,M,17,0.03791,-,block,-,regular,right-foot,low-centre,39,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,M. Dittgen,187427,M,10,0.00185,-,miss,-,throw-in-set-piece,left-foot,close-high,37,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,P. Testroet,37631,F,37,0.2066,0.249,goal,regular,regular,right-foot,low-centre,33,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,R. Malone,799211,D,16,0.1085,-,miss,-,corner,head,close-right,23,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,M. Costly,537268,D,22,0.02868,-,block,-,regular,left-foot,low-centre,11,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,S. Lorenz,802864,D,32,0.04256,-,miss,-,throw-in-set-piece,head,close-left,8,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,M. N. Dühring,1140582,D,18,0.00417,-,miss,-,throw-in-set-piece,left-foot,close-right,7,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,M. Costly,537268,D,22,0.03123,0.0138,save,-,regular,left-foot,low-centre,6,0
+8,FC Ingolstadt 04 : F.C. Hansa Rostock,2 : 1,R. Malone,799211,D,16,0.01423,-,miss,-,regular,right-foot,close-right,2,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,B. Kanuric,1064762,M,8,0.007725,-,block,-,throw-in-set-piece,left-foot,low-centre,88,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,P. Testroet,37631,F,37,0.03004,-,block,-,throw-in-set-piece,right-foot,low-centre,85,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,B. Kanuric,1064762,M,8,0.002766,-,miss,-,throw-in-set-piece,left-foot,close-right,83,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,F. Keidel,1215028,M,43,0.0467,-,miss,-,corner,left-foot,close-high-left,81,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,S. Grønning,842368,F,11,0.2251,0.7079,save,-,corner,head,low-centre,81,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,D. Kopacz,851257,M,29,0.02479,0.02185,save,-,regular,left-foot,low-centre,79,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,L. Fröde,187435,M,34,0.07279,0.1432,goal,regular,regular,right-foot,low-right,76,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,P. Testroet,37631,F,37,0.06056,0.2077,save,-,regular,right-foot,low-left,45,4
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,M. Costly,537268,D,22,0.0006873,-,miss,-,regular,right-foot,close-high-right,35,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,M. Dittgen,187427,M,10,0.004783,-,miss,-,throw-in-set-piece,left-foot,close-high-left,28,0
+9,Alemannia Aachen : FC Ingolstadt 04,1 : 1,M. Besuschkow,548092,M,17,0.006572,-,block,-,regular,right-foot,low-centre,11,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,S. Grønning,842368,F,11,0.1204,0.132,goal,regular,regular,head,high-centre,64,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,B. Kanuric,1064762,M,8,0.0006389,-,miss,-,corner,left-foot,close-high-right,57,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,M. Besuschkow,548092,M,17,0.02349,-,block,-,regular,left-foot,low-centre,56,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,Y. Deichmann,168975,M,20,0.278,-,miss,-,regular,right-foot,close-high,54,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,S. Grønning,842368,F,11,0.4457,-,block,-,regular,right-foot,low-centre,48,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,Y. Deichmann,168975,M,20,0.1718,-,post,-,regular,right-foot,high,48,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,F. Keidel,1215028,M,43,0.003792,-,block,-,regular,right-foot,low-centre,47,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,P. Testroet,37631,F,37,0.09483,0.1016,save,-,corner,head,low-centre,15,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,M. Besuschkow,548092,M,17,0.01723,-,block,-,throw-in-set-piece,right-foot,low-centre,9,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,P. Testroet,37631,F,37,0.2362,-,miss,-,regular,head,close-high,7,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,Y. Deichmann,168975,M,20,0.0158,-,block,-,regular,right-foot,low-centre,7,0
+10,FC Ingolstadt 04 : SC Verl,1 : 1,M. Besuschkow,548092,M,17,0.05222,-,block,-,regular,right-foot,low-centre,6,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,M. Dittgen,187427,M,10,0.04281,0.0256,save,-,regular,left-foot,high-centre,90,2
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,B. Kanuric,1064762,M,8,0.0236,-,block,-,regular,right-foot,low-centre,90,1
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,B. Kanuric,1064762,M,8,0.2068,0.4492,goal,regular,regular,head,low-centre,87,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,B. Kanuric,1064762,M,8,0.001393,-,block,-,free-kick,right-foot,low-centre,75,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,B. Kanuric,1064762,M,8,0.01397,-,miss,-,regular,right-foot,close-high-right,66,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,D. Kopacz,851257,M,29,0.1206,-,post,-,regular,right-foot,right,56,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,S. Grønning,842368,F,11,0.3592,0.8535,goal,regular,corner,head,low-left,54,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,D. Kopacz,851257,M,29,0.02926,-,block,-,regular,left-foot,low-centre,53,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,Y. Deichmann,168975,M,20,0.04478,0.06311,save,-,regular,right-foot,low-centre,50,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,S. Grønning,842368,F,11,0.311,0.7954,goal,regular,regular,head,high-right,49,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,M. Costly,537268,D,22,0.002488,-,miss,-,regular,right-foot,close-left,48,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,M. Besuschkow,548092,M,17,0.04774,0.04904,save,-,regular,left-foot,low-left,45,3
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,M. Costly,537268,D,22,0.02967,0.05201,save,-,regular,left-foot,low-right,30,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,M. Besuschkow,548092,M,17,0.0112,-,miss,-,regular,right-foot,close-left,27,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,P. Testroet,37631,F,37,0.0004334,-,miss,-,regular,right-foot,close-high-right,21,0
+11,FC Viktoria Köln : FC Ingolstadt 04,4 : 4,D. Kopacz,851257,M,29,0.1437,0.1133,goal,regular,regular,right-foot,low-centre,6,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Kopacz,851257,M,29,0.3224,0.455,goal,regular,regular,right-foot,low-centre,90,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,M. Cvjetinović,1131179,D,19,0.05005,-,block,-,corner,right-foot,low-centre,87,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,M. Besuschkow,548092,M,17,0.5954,0.6701,goal,regular,regular,right-foot,low-centre,79,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Kopacz,851257,M,29,0.1305,0.09728,save,-,regular,right-foot,low-centre,79,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,Y. Deichmann,168975,M,20,0.07232,0.2897,goal,regular,regular,head,low-left,74,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Zeitler,1604187,F,38,0.04066,0.04905,save,-,regular,right-foot,high-left,62,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,M. Besuschkow,548092,M,17,0.02046,-,block,-,regular,right-foot,low-centre,56,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,F. Keidel,1215028,M,43,0.02171,-,block,-,regular,right-foot,low-centre,56,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Zeitler,1604187,F,38,0.07015,0.05045,save,-,regular,right-foot,low-centre,55,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,S. Grønning,842368,F,11,0.0892,-,block,-,regular,right-foot,low-centre,47,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,Y. Deichmann,168975,M,20,0.00744,-,block,-,regular,right-foot,low-centre,45,2
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,Y. Deichmann,168975,M,20,0.05535,0.03197,goal,regular,regular,right-foot,low-centre,45,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,F. Keidel,1215028,M,43,0.01855,-,block,-,corner,right-foot,low-centre,40,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Kopacz,851257,M,29,0.004202,-,block,-,set-piece,right-foot,low-centre,39,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,S. Grønning,842368,F,11,0.2474,-,miss,-,regular,left-foot,close-high,36,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Zeitler,1604187,F,38,0.1608,0.5579,save,-,regular,left-foot,low-right,32,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Zeitler,1604187,F,38,0.05589,0.3266,goal,regular,regular,right-foot,low-right,28,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,M. Costly,537268,D,22,0.0449,-,miss,-,regular,right-foot,close-right,12,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,S. Grønning,842368,F,11,0.05465,-,miss,-,throw-in-set-piece,head,close-high,10,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,M. Plath,1862751,D,14,0.09123,-,miss,-,corner,right-foot,close-left,9,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,Y. Deichmann,168975,M,20,0.008992,-,block,-,throw-in-set-piece,right-foot,low-centre,6,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,M. Costly,537268,D,22,0.001193,-,block,-,regular,left-foot,low-centre,5,0
+12,FC Ingolstadt 04 : Borussia Dortmund II,5 : 3,D. Kopacz,851257,M,29,0.006663,-,block,-,regular,right-foot,low-centre,4,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,S. Grønning,842368,F,11,0.171,-,miss,-,set-piece,head,close-left,90,7
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,S. Grønning,842368,F,11,0.05085,-,miss,-,regular,right-foot,close-right,90,4
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,D. Borkowski,997016,F,7,0.1229,-,block,-,regular,left-foot,low-centre,90,4
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Besuschkow,548092,M,17,0.05406,-,miss,-,throw-in-set-piece,right-foot,close-high-right,90,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Plath,1862751,D,14,0.04004,-,miss,-,corner,right-foot,close-high,83,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,B. Kanuric,1064762,M,8,0.04889,0.06579,save,-,regular,right-foot,low-left,83,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,S. Lorenz,802864,D,32,0.1129,-,miss,-,corner,head,close-right,82,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,B. Kanuric,1064762,M,8,0.03201,-,miss,-,regular,left-foot,close-left,78,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,L. Fröde,187435,M,34,0.003039,-,block,-,set-piece,right-foot,low-centre,60,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,D. Kopacz,851257,M,29,0.03224,-,miss,-,set-piece,right-foot,close-left,52,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Besuschkow,548092,M,17,0.2929,0.7521,goal,regular,free-kick,right-foot,high-left,44,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,D. Zeitler,1604187,F,38,0.05042,-,miss,-,regular,right-foot,close-left,33,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Costly,537268,D,22,0.01863,0.04025,save,-,set-piece,right-foot,low-right,31,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,D. Zeitler,1604187,F,38,0.0622,0.1632,save,-,regular,right-foot,low-centre,25,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Besuschkow,548092,M,17,0.2991,0.3001,save,-,regular,right-foot,low-centre,22,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Costly,537268,D,22,0.03369,-,miss,-,regular,right-foot,close-left,21,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,F. Keidel,1215028,M,43,0.03152,0.02322,save,-,free-kick,right-foot,low-centre,17,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,D. Kopacz,851257,M,29,0.09171,-,block,-,regular,right-foot,low-centre,16,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,M. Besuschkow,548092,M,17,0.1405,-,miss,-,regular,head,close-left,1,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,B. Ozturk,1978375,M,39,0.0241,0.04473,save,-,regular,right-foot,high-right,90,1
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Zeitler,1604187,F,38,0.4732,0.6867,save,-,regular,right-foot,low-centre,90,1
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,S. Grønning,842368,F,11,0.405,-,block,-,regular,right-foot,low-centre,89,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Zeitler,1604187,F,38,0.2103,0.2106,save,-,regular,left-foot,low-centre,89,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,B. Ozturk,1978375,M,39,0.06001,-,miss,-,regular,right-foot,close-left,86,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,B. Kanuric,1064762,M,8,0.0007316,-,miss,-,free-kick,right-foot,close-high-left,67,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,M. Plath,1862751,D,14,0.07415,0.02539,save,-,regular,left-foot,high-centre,64,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Zeitler,1604187,F,38,0.2174,0.6107,goal,regular,regular,right-foot,low-left,57,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,S. Lorenz,802864,D,32,0.06776,-,miss,-,throw-in-set-piece,right-foot,close-high-right,54,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Zeitler,1604187,F,38,0.06121,0.08229,save,-,regular,right-foot,low-left,54,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,M. Besuschkow,548092,M,17,0.1328,-,block,-,free-kick,right-foot,low-centre,39,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,S. Grønning,842368,F,11,0.7941,0.8787,goal,regular,set-piece,right-foot,low-left,39,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,M. Costly,537268,D,22,0.08193,-,miss,-,regular,right-foot,close-right,31,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Borkowski,997016,F,7,0.1667,0.1608,save,-,set-piece,head,low-centre,30,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,S. Lorenz,802864,D,32,0.178,0.4704,goal,regular,throw-in-set-piece,right-foot,low-right,24,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,B. Kanuric,1064762,M,8,0.1537,0.6546,goal,regular,throw-in-set-piece,right-foot,low-left,14,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Borkowski,997016,F,7,0.0839,-,block,-,regular,right-foot,low-centre,9,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Borkowski,997016,F,7,0.01247,-,block,-,regular,right-foot,low-centre,9,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,D. Borkowski,997016,F,7,0.1684,0.3345,save,-,regular,right-foot,low-left,6,0
+14,Hannover 96 II : FC Ingolstadt 04,0 : 4,B. Kanuric,1064762,M,8,0.03519,-,miss,-,corner,right-foot,close-right,1,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,M. Costly,537268,D,22,0.03287,0.0163,save,-,regular,left-foot,low-centre,90,1
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,B. Ozturk,1978375,M,39,0.1454,-,miss,-,regular,left-foot,close-left,81,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,B. Ozturk,1978375,M,39,0.01624,-,miss,-,regular,right-foot,close-high-right,71,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,D. Kopacz,851257,M,29,0.01969,-,block,-,regular,right-foot,low-centre,71,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,D. Kopacz,851257,M,29,0.1091,0.02605,save,-,regular,left-foot,low-centre,66,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,L. Fröde,187435,M,34,0.08439,-,miss,-,regular,right-foot,close-high-left,64,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,F. Keidel,1215028,M,43,0.01285,-,block,-,regular,right-foot,low-centre,64,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,D. Kopacz,851257,M,29,0.3143,0.3616,goal,regular,regular,right-foot,low-centre,56,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,M. Costly,537268,D,22,0.006454,-,miss,-,regular,left-foot,close-right,51,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,S. Grønning,842368,F,11,0.1508,0.64,goal,regular,regular,right-foot,low-left,48,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,B. Kanuric,1064762,M,8,0.01469,-,miss,-,regular,right-foot,close-high-left,47,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,S. Grønning,842368,F,11,0.4,0.6485,goal,regular,regular,right-foot,low-right,33,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,D. Zeitler,1604187,F,38,0.3151,0.7525,save,-,throw-in-set-piece,left-foot,low-right,33,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,D. Kopacz,851257,M,29,0.02375,-,block,-,regular,right-foot,low-centre,22,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,S. Grønning,842368,F,11,0.2782,0.6608,goal,regular,regular,right-foot,high-left,20,0
+15,FC Ingolstadt 04 : VfL Osnabrück,4 : 2,S. Lorenz,802864,D,32,0.2625,0.6128,save,-,set-piece,head,low-right,17,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,T. Heike,951706,F,9,0.1602,-,miss,-,throw-in-set-piece,head,close-high,90,4
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,S. Grønning,842368,F,11,0.2446,0.2744,save,-,corner,head,high-centre,51,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,D. Kopacz,851257,M,29,0.03498,-,miss,-,regular,right-foot,close-high-right,26,0
+17,FC Ingolstadt 04 : Erzgebirge Aue,1 : 0,B. Kanuric,1064762,M,8,0.000732,-,miss,-,free-kick,right-foot,close-high-left,74,0
+17,FC Ingolstadt 04 : Erzgebirge Aue,1 : 0,S. Grønning,842368,F,11,0.008946,-,miss,-,throw-in-set-piece,left-foot,close-left,53,0
+17,FC Ingolstadt 04 : Erzgebirge Aue,1 : 0,S. Grønning,842368,F,11,0.3793,0.687,save,-,regular,right-foot,high-centre,51,0
+17,FC Ingolstadt 04 : Erzgebirge Aue,1 : 0,M. Besuschkow,548092,M,17,0.23,0.7276,goal,regular,regular,right-foot,low-left,48,0
+17,FC Ingolstadt 04 : Erzgebirge Aue,1 : 0,D. Kopacz,851257,M,29,0.0286,-,post,-,regular,right-foot,right,8,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,M. Besuschkow,548092,M,17,0.05326,-,block,-,free-kick,right-foot,low-centre,88,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,S. Grønning,842368,F,11,0.76,0.81,goal,penalty,penalty,right-foot,high-centre,77,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,S. Grønning,842368,F,11,0.02408,0.3978,goal,regular,regular,right-foot,high-right,74,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,D. Zeitler,1604187,F,38,0.2671,0.6473,goal,regular,regular,right-foot,low-left,57,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,B. Kanuric,1064762,M,8,0.08689,-,miss,-,regular,left-foot,close-high-left,51,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,S. Grønning,842368,F,11,0.05046,-,miss,-,regular,right-foot,close-high-right,39,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,D. Zeitler,1604187,F,38,0.1375,0.6004,goal,regular,regular,right-foot,low-right,33,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,B. Kanuric,1064762,M,8,0.3445,0.7304,goal,regular,regular,right-foot,low-right,25,0
+18,SV Wehen Wiesbaden : FC Ingolstadt 04,2 : 5,D. Zeitler,1604187,F,38,0.007268,-,block,-,regular,left-foot,low-centre,25,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,T. Heike,951706,F,9,0.1567,-,miss,-,regular,left-foot,close-right,90,2
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,P. Testroet,37631,F,37,0.1922,0.05162,save,-,regular,right-foot,low-centre,90,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,B. Kanuric,1064762,M,8,0.01666,-,miss,-,throw-in-set-piece,right-foot,close-high,87,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,B. Kanuric,1064762,M,8,0.002666,-,block,-,throw-in-set-piece,right-foot,low-centre,87,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Grønning,842368,F,11,0.1924,0.1387,save,-,regular,right-foot,low-centre,71,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,M. Plath,1862568,M,14,0.03436,-,miss,-,corner,right-foot,close-high-left,71,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,L. Fröde,187435,M,34,0.02045,-,block,-,corner,head,low-centre,71,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,D. Zeitler,1604187,F,38,0.1783,-,block,-,throw-in-set-piece,right-foot,low-centre,70,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Grønning,842368,F,11,0.2282,-,goal,regular,regular,right-foot,low-left,59,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Grønning,842368,F,11,0.1253,-,miss,-,set-piece,head,close-high,57,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Lorenz,802864,D,32,0.03261,0.02027,save,-,regular,right-foot,high-centre,44,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,D. Kopacz,851257,M,29,0.1546,0.088,save,-,regular,right-foot,low-centre,35,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,B. Kanuric,1064762,M,8,0.003586,-,miss,-,throw-in-set-piece,right-foot,close-high-right,32,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Grønning,842368,F,11,0.1909,0.2058,save,-,regular,head,high-centre,29,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Lorenz,802864,D,32,0.1521,0.1404,save,-,corner,head,high-centre,26,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Grønning,842368,F,11,0.06213,0.135,save,-,throw-in-set-piece,right-foot,high-right,26,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,Y. Deichmann,168975,M,20,0.03338,-,miss,-,regular,right-foot,close-left,11,0
+19,FC Ingolstadt 04 : Energie Cottbus,1 : 1,S. Lorenz,802864,D,32,0.1241,0.1783,save,-,throw-in-set-piece,head,high-centre,7,0

@@ -1,12 +1,34 @@
-
 import requests
 import csv
-print()
+print("\r\n")
+
 # The team ID we are searching for
-team_id = "ARM"
+# ARM = Arminia 
+# SGD = Dresden 
+# M60 = 1860 München 
+# FCS = Saarbrücken 
+# BVB = Borussia Dortmund II
+# UHA = Unterhachingen 
+# ERZ = Aue  
+# H96 = Hannover 96 II 
+# RWE = Essen 
+# AAC = Aachen
+# SCV = Verl 
+# WEH = Wiesbaden
+# SVS = Sandhausen 
+# OSN = Osnabrück 
+# HAN = Rostock 
+# VFB = Stuttgart II 
+# VIK = Viktoria Köln 
+# COT = Cottbus
+# FCI = Ingolstadt 
+# WAM = Mannheim
+
 start = int(input("\r\nSpieltag von: "))
 end = int(input("\r\nSpieltag bis: "))
-csv_filename = f"{start}_to_{end}_{team_id}_xG.csv"
+team_id = str(input("\r\nTeam ID: "))
+# CSV-Daten einlesen
+csv_filename = f"xG_shots_players_per_team_csv/{start}_to_{end}_{team_id}_xG.csv"
 file_created = False
 with open(csv_filename, mode="w", newline="", encoding="utf-8") as csvfile:
     csv_writer = csv.writer(csvfile)
@@ -87,10 +109,7 @@ with open(csv_filename, mode="w", newline="", encoding="utf-8") as csvfile:
                                          "BodyPart", "goalMouthLocation","Time", "Overtime"])  # Kopfzeile
                     file_created = True
                 if entry["isHome"] == team["homeTeam"]:
-                    """       print( round,",",game["match"],",",game["result"],",",entry["player"]["shortName"],",Id",entry["player"]["id"],",xG:",entry["xg"],
-                    ",xGOT:",entry.get("xgot", "-" ),
-                    ",result:",entry["shotType"],""","Tor Typ:" """, 
-                    entry.get("goalType", "-" ),",Situation:",entry["situation"] )  """
+
                     data_row = [
                     round,
                     game["match"],
@@ -98,8 +117,8 @@ with open(csv_filename, mode="w", newline="", encoding="utf-8") as csvfile:
                     entry["player"]["shortName"],
                     entry["player"]["id"],
                     entry["player"]["position"],
-                    entry["player"]["jerseyNumber"],
-                    entry["xg"],
+                    entry["player"].get("jerseyNumber", "-"),
+                    entry.get("xg", "-"),
                     entry.get("xgot", "-"),
                     entry["shotType"],
                     entry.get("goalType", "-"),
