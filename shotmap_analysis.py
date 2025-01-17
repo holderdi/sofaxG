@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 print("\r\n")
 print("Filename Pattern: xG_shots_players_per_team_csv/1_to_19_{TEAM-Id}_xG.csv")
-filename = input("\r\nFilename")
+filename = input("\r\nFilename: ")
 team_id = input("\r\nTeam ID: ")
 # CSV-Daten einlesen
 
@@ -24,6 +24,9 @@ except pd.errors.ParserError:
     print(f"Die Datei '{filename}' konnte nicht korrekt geparst werden.")
 except Exception as e:
     print(f"Ein unbekannter Fehler ist aufgetreten: {e}")
+
+# Get Rounds ( some match datasets are missing )    
+num_rounds = df['Round'].nunique()
 
 # Mapping-Tabelle für die Positionen
 position_mapping = {
@@ -182,15 +185,27 @@ results = results[desired_order]
 results_sorted = results.sort_values(by=['Position','xG_cum'], ascending=[True,False])
 # Overall values
 results_all = pd.Series({
+    'Rounds': num_rounds,
     'xG_cum': xg_cum_all,
+    'xG per Game': pd.Series(xg_cum_all / num_rounds).round(2).iloc[0],
     'xGOT_cum': xgot_cum_all,
+    'xGOT per Game': (xgot_cum_all / num_rounds).round(2),
     'Shots': shots_all,
+    'Shots per Game': pd.Series(shots_all / num_rounds).round(2).iloc[0],
     'Shots_on_target': shots_on_target_all,
-    'Goals': goals_sum
+    'SoT per game': pd.Series(shots_on_target_all / num_rounds).round(2).iloc[0],
+    'Goals': goals_sum,
+    'Goals per Game': pd.Series(goals_sum / num_rounds).round(2).iloc[0]
 },dtype=object)
 # Ausgabe
 print("\nOverall:")
 print(results_all.to_string())
+
+# Als CSV speichern
+results_all.to_csv(f"xG_team_results/{team_id}_xG_overall.csv", header=False, sep=',')
+# Ergebnisse in HTML speichern
+results_sorted.to_html(f"xG_team_results/{team_id}_xG_overall.html", index=True, border=1)
+
 
 # Ausgabe
 print("\nResults per Player:")
