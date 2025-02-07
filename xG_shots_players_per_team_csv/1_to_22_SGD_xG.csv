@@ -1,0 +1,366 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,D. Bogdanov,1568506,F,34,0.03173,0.1036,save,-,regular,right-foot,high-left,90,6
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,J. Lemmer,992144,F,10,0.00301,-,block,-,throw-in-set-piece,left-foot,low-centre,88,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,S. Kutschke,38923,F,30,0.1731,0.6191,goal,regular,regular,right-foot,low-left,78,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,S. Kutschke,38923,F,30,0.2438,0.6901,save,-,regular,right-foot,low-right,77,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,O. B. Meier,907685,M,21,0.2878,0.4706,save,-,regular,right-foot,high-centre,65,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,C. Daferner,843133,F,33,0.76,0.81,goal,penalty,penalty,right-foot,low-left,47,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,O. B. Meier,907685,M,21,0.05575,-,miss,-,regular,right-foot,close-left,45,1
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,C. Daferner,843133,F,33,0.02592,0.2919,save,-,regular,right-foot,low-right,40,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,N. Hauptmann,798154,M,27,0.01467,-,block,-,regular,left-foot,low-centre,37,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,O. B. Meier,907685,M,21,0.0139,0.01371,save,-,regular,right-foot,low-centre,36,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,P. Heise,124743,D,16,0.05562,0.1612,save,-,free-kick,left-foot,low-left,23,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,J. Lemmer,992144,F,10,0.03519,-,miss,-,regular,right-foot,close-left,12,0
+1,FC Viktoria Köln : SG Dynamo Dresden,1 : 2,C. Daferner,843133,F,33,0.1232,-,block,-,regular,left-foot,low-centre,5,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,P. Heise,124743,D,16,0.0609,0.3564,goal,regular,regular,left-foot,high-centre,90,1
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,R. Meißner,899284,F,21,0.3201,0.4707,goal,regular,corner,head,low-centre,78,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,P. Heise,124743,D,16,0.01427,0.07102,save,-,throw-in-set-piece,left-foot,high-centre,77,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,V. Šapina,566918,M,5,0.03314,0.01135,save,-,regular,right-foot,low-centre,68,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,V. Šapina,566918,M,5,0.05712,-,miss,-,regular,left-foot,close-left,62,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Menzel,1511779,M,24,0.2762,-,miss,-,regular,right-foot,close-high,60,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,A. Casar,988274,M,17,0.2078,-,block,-,regular,right-foot,low-centre,60,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Menzel,1511779,M,24,0.1282,-,miss,-,corner,right-foot,close-left,55,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,A. Casar,988274,M,17,0.004191,-,miss,-,regular,right-foot,close-high-left,46,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,A. Casar,988274,M,17,0.1498,0.2027,save,-,corner,head,low-centre,45,1
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,T. Menzel,1511779,M,24,0.3745,0.7182,goal,regular,regular,left-foot,low-centre,31,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,S. Kutschke,38923,F,30,0.76,0.81,goal,penalty,penalty,right-foot,low-left,27,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,N. Hauptmann,798154,M,27,0.006566,-,block,-,corner,left-foot,low-centre,24,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,S. Kutschke,38923,F,30,0.5761,-,block,-,regular,right-foot,low-centre,24,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,O. B. Meier,907685,M,21,0.03948,0.0179,save,-,regular,right-foot,low-centre,24,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,R. Meißner,899284,F,21,0.01128,-,block,-,regular,right-foot,low-centre,14,0
+2,SG Dynamo Dresden : Energie Cottbus,4 : 2,R. Meißner,899284,F,21,0.2181,0.5465,save,-,regular,right-foot,low-left,2,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,A. Casar,988274,M,17,0.1003,-,post,-,corner,head,high,90,4
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,O. B. Meier,907685,M,21,0.04845,0.2205,save,-,regular,right-foot,low-left,90,1
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,O. B. Meier,907685,M,21,0.02942,0.08851,save,-,regular,right-foot,low-left,72,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,J. Lemmer,992144,F,10,0.005323,-,miss,-,corner,left-foot,close-high-left,70,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,S. Kutschke,38923,F,30,0.1126,-,miss,-,corner,head,close-high,68,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,P. Heise,124743,D,16,0.008769,0.06586,save,-,throw-in-set-piece,left-foot,low-left,64,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,C. Daferner,843133,F,33,0.05748,-,block,-,throw-in-set-piece,right-foot,low-centre,56,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,V. Šapina,566918,M,5,0.1938,-,miss,-,regular,left-foot,close-high,51,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,J. Lemmer,992144,F,10,0.1288,-,miss,-,regular,left-foot,close-left,42,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,T. Menzel,1511779,M,24,0.00734,-,block,-,set-piece,left-foot,low-centre,39,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,T. Menzel,1511779,M,24,0.07552,-,miss,-,corner,left-foot,close-right,38,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,N. Hauptmann,798154,M,27,0.01548,-,miss,-,regular,left-foot,close-high-left,36,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,R. Meißner,899284,F,21,0.01292,-,block,-,regular,left-foot,low-centre,29,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,P. Heise,124743,D,16,0.001781,-,block,-,free-kick,left-foot,low-centre,26,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,A. Casar,988274,M,17,0.1629,-,miss,-,corner,head,close-high,26,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,P. Heise,124743,D,16,0.08036,0.07604,save,-,free-kick,left-foot,low-centre,24,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,C. Daferner,843133,F,33,0.0221,-,block,-,corner,left-foot,low-centre,14,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,R. Meißner,899284,F,21,0.06198,-,miss,-,regular,right-foot,close-left,2,0
+3,Erzgebirge Aue : SG Dynamo Dresden,2 : 0,C. Daferner,843133,F,33,0.06454,0.3071,save,-,regular,right-foot,low-right,1,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,J. Sterner,1033202,D,32,0.07695,0.04754,save,-,regular,right-foot,low-centre,90,4
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,J. Zickler,1500775,F,38,0.03186,-,miss,-,regular,left-foot,close-high-left,90,3
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,V. Šapina,566918,M,5,0.01055,-,miss,-,regular,right-foot,close-high-left,86,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,T. Menzel,1511779,M,24,0.171,0.3892,goal,regular,regular,head,low-centre,72,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,J. Sterner,1033202,D,32,0.009983,-,block,-,regular,right-foot,low-centre,70,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,A. Casar,988274,M,17,0.01302,-,block,-,regular,right-foot,low-centre,70,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,N. Hauptmann,798154,M,27,0.02558,-,block,-,regular,right-foot,low-centre,69,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,R. Meißner,899284,F,21,0.04231,-,miss,-,regular,head,close-right,63,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,R. Meißner,899284,F,21,0.1699,-,post,-,regular,right-foot,left,55,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,R. Meißner,899284,F,21,0.01978,-,block,-,throw-in-set-piece,right-foot,low-centre,48,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,T. Menzel,1511779,M,24,0.00505,-,miss,-,regular,right-foot,close-right,45,1
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,J. Lemmer,992144,F,10,0.1121,-,miss,-,regular,right-foot,close-left,40,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,N. Hauptmann,798154,M,27,0.01501,-,block,-,regular,left-foot,low-centre,35,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,V. Šapina,566918,M,5,0.1838,0.3642,save,-,corner,head,low-centre,31,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,O. B. Meier,907685,M,21,0.05951,-,block,-,regular,left-foot,low-centre,30,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,C. Daferner,843133,F,33,0.04662,0.1504,save,-,regular,right-foot,low-right,27,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,N. Hauptmann,798154,M,27,0.05677,-,miss,-,regular,left-foot,close-right,19,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,C. Daferner,843133,F,33,0.119,0.08153,goal,regular,regular,left-foot,low-centre,15,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,V. Šapina,566918,M,5,0.006047,-,block,-,regular,right-foot,low-centre,5,0
+4,SG Dynamo Dresden : VfB Stuttgart II,2 : 0,N. Hauptmann,798154,M,27,0.1385,0.2012,save,-,regular,left-foot,low-left,3,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,P. Heise,124743,D,16,0.03961,0.1252,save,-,corner,right-foot,low-right,89,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,S. Kutschke,38923,F,30,0.008185,0.009289,save,-,regular,right-foot,high-centre,88,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,R. Meißner,899284,F,21,0.05547,-,block,-,regular,right-foot,low-centre,87,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,J. Sterner,1033202,D,32,0.002859,-,block,-,throw-in-set-piece,right-foot,low-centre,80,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,P. Heise,124743,D,16,0.005131,-,miss,-,corner,left-foot,close-high-right,73,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,J. Sterner,1033202,D,32,0.04186,-,block,-,regular,right-foot,low-centre,70,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,T. Menzel,1511779,M,24,0.6201,0.7,goal,regular,regular,right-foot,low-centre,68,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,T. Menzel,1511779,M,24,0.09289,0.4187,save,-,regular,right-foot,low-right,57,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,R. Meißner,899284,F,21,0.2186,0.1654,goal,regular,regular,right-foot,low-centre,51,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,T. Menzel,1511779,M,24,0.00136,-,block,-,regular,left-foot,low-centre,48,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,N. Hauptmann,798154,M,27,0.07404,-,miss,-,regular,right-foot,close-left,38,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,T. Menzel,1511779,M,24,0.5142,0.6681,goal,regular,regular,right-foot,low-right,30,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,O. B. Meier,907685,M,21,0.02838,-,block,-,regular,right-foot,low-centre,30,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,T. Menzel,1511779,M,24,0.1637,-,miss,-,corner,right-foot,close-high-left,29,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,R. Meißner,899284,F,21,0.01941,-,block,-,regular,right-foot,low-centre,29,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,R. Meißner,899284,F,21,0.02053,-,block,-,regular,right-foot,low-centre,16,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,O. B. Meier,907685,M,21,0.005332,-,miss,-,regular,right-foot,close-high-right,13,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,C. Daferner,843133,F,33,0.118,0.04546,save,-,regular,right-foot,high-centre,13,0
+5,TSV 1860 München : SG Dynamo Dresden,2 : 3,R. Meißner,899284,F,21,0.02072,-,miss,-,regular,head,close-right,9,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,S. Risch,1064672,D,28,0.03338,-,miss,-,set-piece,left-foot,close-left,86,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,O. B. Meier,907685,M,21,0.08742,0.06546,save,-,regular,right-foot,low-centre,78,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,T. Menzel,1511779,M,24,0.08099,0.322,save,-,regular,head,high-right,62,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,A. Casar,988274,M,17,0.08743,0.2634,save,-,regular,head,low-right,61,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,A. Casar,988274,M,17,0.01543,-,block,-,regular,right-foot,low-centre,60,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,S. Kutschke,38923,F,30,0.06831,-,block,-,regular,right-foot,low-centre,60,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,S. Kutschke,38923,F,30,0.1218,-,block,-,regular,right-foot,low-centre,60,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,O. B. Meier,907685,M,21,0.08163,0.2065,save,-,free-kick,right-foot,high-right,58,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,N. Hauptmann,798154,M,27,0.02122,-,block,-,corner,left-foot,low-centre,31,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,A. Casar,988274,M,17,0.02078,0.09495,save,-,regular,right-foot,low-left,30,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,L. Bünning,888731,D,23,0.1424,0.1572,save,-,corner,head,high-centre,27,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,C. Daferner,843133,F,33,0.1484,0.2528,save,-,regular,right-foot,high-right,27,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,O. B. Meier,907685,M,21,0.0176,-,block,-,regular,right-foot,low-centre,21,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,O. B. Meier,907685,M,21,0.001315,-,block,-,free-kick,right-foot,low-centre,17,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,C. Daferner,843133,F,33,0.7094,0.916,goal,regular,regular,right-foot,high-centre,9,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,S. Kutschke,38923,F,30,0.05066,0.02044,save,-,regular,right-foot,low-centre,9,0
+6,SG Dynamo Dresden : F.C. Hansa Rostock,1 : 1,A. Casar,988274,M,17,0.0247,-,block,-,regular,left-foot,low-centre,6,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,S. Kutschke,38923,F,30,0.2638,0.1766,save,-,regular,right-foot,low-centre,89,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.76,0.81,goal,penalty,penalty,right-foot,high-centre,62,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.05431,0.103,save,-,regular,right-foot,low-left,60,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,P. Heise,124743,D,16,0.0389,-,miss,-,regular,left-foot,close-right,56,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.6055,0.7465,goal,regular,regular,right-foot,high-right,45,2
+7,SC Verl : SG Dynamo Dresden,0 : 3,J. H. Marx,599378,M,26,0.1758,-,miss,-,regular,right-foot,close-high-right,34,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.1044,-,block,-,set-piece,head,low-centre,32,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.3863,0.2568,goal,regular,throw-in-set-piece,right-foot,high-centre,13,0
+7,SC Verl : SG Dynamo Dresden,0 : 3,O. B. Meier,907685,M,21,0.1883,-,block,-,regular,right-foot,low-centre,2,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,D. Bogdanov,1568506,F,34,0.09041,0.1827,save,-,regular,left-foot,low-right,90,4
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,C. Daferner,843133,F,33,0.05938,0.2535,save,-,regular,head,low-right,89,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,J. Sterner,1033202,D,32,0.03662,-,miss,-,regular,right-foot,close-high-left,87,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,T. Menzel,1511779,M,24,0.5036,0.478,save,-,set-piece,right-foot,low-centre,86,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,C. Kammerknecht,940870,D,15,0.04386,-,block,-,set-piece,right-foot,low-centre,86,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,T. Menzel,1511779,M,24,0.06941,0.3003,save,-,regular,right-foot,low-left,78,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,O. B. Meier,907685,M,21,0.1731,-,miss,-,set-piece,head,close-high,73,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,C. Kammerknecht,940870,D,15,0.0507,-,miss,-,set-piece,head,close-right,57,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,R. Meißner,899284,F,21,0.2189,-,miss,-,regular,head,close-high-left,4,0
+8,SG Dynamo Dresden : Alemannia Aachen,0 : 0,J. Lemmer,992144,F,10,0.0165,-,block,-,regular,left-foot,low-centre,4,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.006314,-,block,-,corner,left-foot,low-centre,90,3
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,T. Menzel,1511779,M,24,0.004121,-,miss,-,regular,right-foot,close-right,90,1
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,T. Menzel,1511779,M,24,0.001165,-,block,-,regular,left-foot,low-centre,89,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,T. Menzel,1511779,M,24,0.0205,-,miss,-,regular,right-foot,close-left,76,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,A. Casar,988274,M,17,0.06504,0.03695,save,-,corner,right-foot,low-centre,74,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.1458,-,block,-,regular,right-foot,low-centre,73,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,A. Casar,988274,M,17,0.09177,0.1806,save,-,set-piece,head,low-left,72,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.09247,0.5387,goal,regular,set-piece,head,high-right,66,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.04765,-,miss,-,regular,head,close-right,57,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,O. B. Meier,907685,M,21,0.06029,0.4103,save,-,regular,left-foot,low-left,52,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.1241,0.1778,save,-,regular,right-foot,low-left,51,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,P. Heise,124743,D,16,0.001558,-,miss,-,free-kick,left-foot,close-high-right,45,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,P. Heise,124743,D,16,0.04619,0.1481,save,-,corner,left-foot,high-centre,44,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,V. Šapina,566918,M,5,0.00987,-,block,-,regular,right-foot,low-centre,43,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,A. Casar,988274,M,17,0.03625,0.02483,save,-,regular,right-foot,low-centre,42,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,P. Heise,124743,D,16,0.03528,0.04303,save,-,regular,left-foot,low-right,38,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,N. Hauptmann,798154,M,27,0.04518,-,miss,-,throw-in-set-piece,left-foot,close-right,32,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.009523,-,block,-,regular,left-foot,low-centre,18,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,C. Daferner,843133,F,33,0.06047,0.04047,save,-,regular,head,low-centre,16,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,A. Casar,988274,M,17,0.1461,-,miss,-,corner,head,close-high-right,15,0
+9,Borussia Dortmund II : SG Dynamo Dresden,2 : 1,O. B. Meier,907685,M,21,0.002671,-,miss,-,corner,right-foot,close-high-right,9,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,S. Kutschke,38923,F,30,0.03492,0.3216,goal,regular,throw-in-set-piece,head,low-left,90,6
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.06413,0.1144,save,-,regular,head,low-centre,89,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,J. Sterner,1033202,D,32,0.1544,0.4573,goal,regular,regular,left-foot,low-left,78,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.05122,-,miss,-,corner,head,close-high-right,77,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.01887,-,block,-,corner,head,low-centre,76,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,S. Kutschke,38923,F,30,0.1222,-,miss,-,regular,head,close-right,73,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Kammerknecht,940870,D,15,0.02094,-,block,-,regular,right-foot,low-centre,69,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.01348,-,block,-,regular,right-foot,low-centre,64,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,A. Casar,988274,M,17,0.00393,-,miss,-,regular,right-foot,close-left,61,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,V. Šapina,566918,M,5,0.005805,-,block,-,regular,right-foot,low-centre,55,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,L. Boeder,295111,D,29,0.1392,-,miss,-,corner,head,close-right,53,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,A. Casar,988274,M,17,0.01082,-,block,-,regular,right-foot,low-centre,52,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,N. Hauptmann,798154,M,27,0.2215,0.2046,goal,regular,regular,left-foot,high-centre,47,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.3622,-,miss,-,regular,head,close-left,45,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,N. Hauptmann,798154,M,27,0.05102,-,miss,-,regular,left-foot,close-right,41,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,N. Hauptmann,798154,M,27,0.001162,-,block,-,throw-in-set-piece,left-foot,low-centre,41,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.07009,-,block,-,corner,right-foot,low-centre,36,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,J. Lemmer,992144,F,10,0.05987,-,block,-,regular,left-foot,low-centre,36,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,V. Šapina,566918,M,5,0.03295,-,miss,-,regular,right-foot,close-left,33,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,P. Heise,124743,D,16,0.002145,-,block,-,corner,left-foot,low-centre,29,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,V. Šapina,566918,M,5,0.008841,-,block,-,regular,left-foot,low-centre,28,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,T. Menzel,1511779,M,24,0.04965,-,miss,-,throw-in-set-piece,head,close-right,25,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,T. Menzel,1511779,M,24,0.1928,-,miss,-,regular,head,close-high-left,10,0
+10,SG Dynamo Dresden : Rot-Weiss Essen,3 : 3,C. Daferner,843133,F,33,0.09938,-,miss,-,corner,head,close-high-left,6,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,P. Heise,124743,D,16,0.02289,-,miss,-,corner,left-foot,close-high-left,88,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,R. Meißner,899284,F,21,0.2779,-,block,-,regular,right-foot,low-centre,87,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,C. Daferner,843133,F,33,0.1657,-,miss,-,regular,right-foot,close-right,49,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,P. Heise,124743,D,16,0.001566,-,miss,-,free-kick,left-foot,close-high,39,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,C. Daferner,843133,F,33,0.1575,0.1339,save,-,set-piece,head,high-centre,31,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,J. Sterner,1033202,D,32,0.01956,0.004738,save,-,regular,right-foot,low-centre,28,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,J. Sterner,1033202,D,32,0.01608,0.01921,save,-,regular,right-foot,low-centre,27,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,C. Daferner,843133,F,33,0.06224,0.05439,save,-,regular,head,low-centre,7,0
+11,SV Wehen Wiesbaden : SG Dynamo Dresden,1 : 0,N. Hauptmann,798154,M,27,0.04605,-,block,-,regular,left-foot,low-centre,6,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,O. B. Meier,907685,M,21,0.1202,-,goal,regular,regular,head,low-left,90,2
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,V. Šapina,566918,M,5,0.06325,-,miss,-,set-piece,head,close-high-left,89,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,R. Meißner,899284,F,21,0.01637,0.01353,save,-,regular,right-foot,low-right,80,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,R. Meißner,899284,F,21,0.134,0.08607,goal,regular,regular,head,high-centre,78,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,J. Sterner,1033202,D,32,0.02355,-,block,-,regular,left-foot,low-centre,78,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,C. Daferner,843133,F,33,0.01616,-,block,-,regular,right-foot,low-centre,77,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,R. Meißner,899284,F,21,0.1206,0.5243,save,-,throw-in-set-piece,right-foot,low-right,75,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,O. B. Meier,907685,M,21,0.04101,-,block,-,throw-in-set-piece,right-foot,low-centre,69,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,C. Daferner,843133,F,33,0.115,-,block,-,regular,right-foot,low-centre,68,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,A. Casar,988274,M,17,0.1442,-,miss,-,regular,head,close-left,53,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,N. Hauptmann,798154,M,27,0.002551,-,block,-,corner,left-foot,low-centre,51,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,C. Daferner,843133,F,33,0.06445,-,post,-,corner,right-foot,right,50,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,L. Boeder,295111,D,29,0.137,-,block,-,corner,head,low-centre,50,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,A. Casar,988274,M,17,0.03927,-,miss,-,throw-in-set-piece,left-foot,close-high,43,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,A. Casar,988274,M,17,0.1707,-,block,-,throw-in-set-piece,right-foot,low-centre,41,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,C. Daferner,843133,F,33,0.123,-,miss,-,regular,right-foot,close-right,25,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,J. Lemmer,992144,F,10,0.04021,-,miss,-,regular,left-foot,close-right,23,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,A. Casar,988274,M,17,0.05572,0.08032,save,-,regular,head,high-centre,10,0
+12,SG Dynamo Dresden : Hannover 96 II,2 : 1,N. Hauptmann,798154,M,27,0.01078,-,block,-,regular,left-foot,low-centre,7,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,J. Lemmer,992144,F,10,0.04921,0.04388,save,-,regular,right-foot,low-right,88,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,R. Meißner,899284,F,21,0.04094,-,miss,-,regular,head,close-right,86,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,A. Casar,988274,M,17,0.01833,-,miss,-,regular,right-foot,close-right,71,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,O. B. Meier,907685,M,21,0.1284,-,miss,-,regular,head,close-left,69,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,J. Lemmer,992144,F,10,0.04489,0.04567,save,-,throw-in-set-piece,right-foot,high-centre,63,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,J. Oehmichen,1121903,M,25,0.5933,0.8567,goal,regular,regular,head,low-left,58,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,J. Lemmer,992144,F,10,0.2192,0.5181,save,-,regular,left-foot,low-right,58,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,R. Meißner,899284,F,21,0.002399,-,block,-,regular,right-foot,low-centre,47,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,C. Daferner,843133,F,33,0.1432,-,block,-,regular,left-foot,low-centre,45,2
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,V. Šapina,566918,M,5,0.002714,-,miss,-,regular,right-foot,close-high,45,1
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,A. Casar,988274,M,17,0.3479,-,miss,-,regular,left-foot,close-right,40,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,O. B. Meier,907685,M,21,0.1207,-,miss,-,regular,right-foot,close-right,29,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,A. Casar,988274,M,17,0.1121,-,miss,-,regular,left-foot,close-right,24,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,O. B. Meier,907685,M,21,0.001584,-,miss,-,free-kick,right-foot,close-high-right,9,0
+13,FC Ingolstadt 04 : SG Dynamo Dresden,1 : 1,J. Oehmichen,1121903,M,25,0.001879,-,block,-,corner,left-foot,low-centre,6,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,J. Lemmer,992144,F,10,0.07655,-,post,-,regular,right-foot,high,81,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,V. Šapina,566918,M,5,0.01107,-,miss,-,regular,right-foot,close-left,76,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.4473,0.8399,goal,regular,corner,right-foot,low-left,67,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.004106,-,block,-,regular,right-foot,low-centre,65,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.02331,-,block,-,regular,right-foot,low-centre,56,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,J. Oehmichen,1121903,M,25,0.2188,0.1116,save,-,regular,left-foot,low-centre,52,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.02636,-,block,-,regular,right-foot,low-centre,52,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.04497,0.0621,save,-,regular,right-foot,low-centre,50,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.03436,-,block,-,regular,right-foot,low-centre,47,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,J. Lemmer,992144,F,10,0.2905,0.7437,goal,regular,throw-in-set-piece,right-foot,low-left,45,2
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.03342,0.3594,goal,regular,throw-in-set-piece,right-foot,low-right,42,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,L. Bünning,888731,D,23,0.003701,-,miss,-,regular,left-foot,close-right,39,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,V. Šapina,566918,M,5,0.01785,-,block,-,corner,right-foot,low-centre,37,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.002821,-,block,-,regular,left-foot,low-centre,36,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,V. Šapina,566918,M,5,0.01819,0.009331,save,-,regular,left-foot,low-centre,25,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.252,-,miss,-,set-piece,left-foot,close-right,21,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.2964,-,miss,-,corner,head,close-high-right,18,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.08274,-,miss,-,regular,right-foot,close-left,13,0
+14,VfL Osnabrück : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.0848,-,miss,-,regular,left-foot,close-right,1,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,D. Kubatta,1168503,D,39,0.7543,0.8842,goal,regular,set-piece,left-foot,low-left,90,1
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,J. Oehmichen,1121903,M,25,0.02043,-,miss,-,regular,right-foot,close-high-right,90,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,J. Oehmichen,1121903,M,25,0.1451,-,miss,-,corner,head,close-high-left,80,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,J. Oehmichen,1121903,M,25,0.09139,0.02533,save,-,regular,right-foot,low-centre,79,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,C. Daferner,843133,F,33,0.3073,0.6507,save,-,regular,right-foot,low-right,71,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,R. Meißner,899284,F,21,0.01348,-,miss,-,throw-in-set-piece,right-foot,close-high-right,64,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,L. Bünning,888731,D,23,0.1611,-,miss,-,corner,head,close-high,49,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,C. Daferner,843133,F,33,0.04827,0.218,save,-,regular,head,low-right,49,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,N. Hauptmann,798154,M,27,0.3753,-,miss,-,corner,head,close-high-left,45,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,C. Daferner,843133,F,33,0.161,-,miss,-,regular,left-foot,close-high-left,37,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,N. Hauptmann,798154,M,27,0.1487,-,block,-,regular,left-foot,low-centre,34,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,N. Hauptmann,798154,M,27,0.02067,-,block,-,regular,left-foot,low-centre,34,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,N. Hauptmann,798154,M,27,0.07228,0.03585,save,-,regular,head,high-centre,22,0
+15,SG Dynamo Dresden : 1. FC Saarbrücken,1 : 1,O. B. Meier,907685,M,21,0.001195,-,block,-,regular,right-foot,low-centre,16,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,V. Šapina,566918,M,5,0.005847,-,miss,-,regular,right-foot,close-high-left,90,6
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,O. B. Meier,907685,M,21,0.02886,0.05167,save,-,throw-in-set-piece,right-foot,low-centre,90,6
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,S. Kutschke,38923,F,30,0.07139,-,post,-,corner,head,high,81,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,V. Šapina,566918,M,5,0.001831,-,block,-,free-kick,right-foot,low-centre,80,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,J. Oehmichen,1121903,M,25,0.7411,0.8143,goal,regular,corner,right-foot,low-centre,61,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,A. Casar,988274,M,17,0.08573,0.0759,save,-,corner,head,low-centre,61,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,C. Daferner,843133,F,33,0.09845,-,block,-,regular,left-foot,low-centre,61,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,V. Šapina,566918,M,5,0.1044,0.4622,goal,regular,set-piece,head,low-right,59,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,C. Daferner,843133,F,33,0.3685,0.7833,goal,regular,regular,right-foot,low-left,53,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,J. Oehmichen,1121903,M,25,0.2949,-,miss,-,regular,right-foot,close-left,47,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,J. Lemmer,992144,F,10,0.008348,-,miss,-,regular,left-foot,close-high-left,44,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,C. Daferner,843133,F,33,0.05158,0.0359,save,-,set-piece,head,low-left,43,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,C. Daferner,843133,F,33,0.7557,0.9296,goal,regular,regular,left-foot,low-centre,29,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,J. Oehmichen,1121903,M,25,0.2547,-,block,-,regular,right-foot,low-centre,17,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,C. Daferner,843133,F,33,0.1035,-,miss,-,regular,right-foot,close-high-right,10,0
+16,SV Sandhausen : SG Dynamo Dresden,2 : 4,N. Hauptmann,798154,M,27,0.008255,-,block,-,regular,left-foot,low-centre,5,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,S. Kutschke,38923,F,30,0.07872,0.09648,save,-,throw-in-set-piece,right-foot,low-centre,85,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,J. Sterner,1033202,D,32,0.04231,-,miss,-,regular,right-foot,close-high,82,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,V. Šapina,566918,M,5,0.03746,0.01683,save,-,regular,left-foot,low-centre,76,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,R. Meißner,899284,F,21,0.1715,0.3406,goal,regular,regular,right-foot,low-centre,64,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,C. Daferner,843133,F,33,0.4374,0.3787,save,-,regular,right-foot,low-centre,64,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,C. Daferner,843133,F,33,0.03552,0.01958,save,-,throw-in-set-piece,right-foot,low-centre,58,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,J. Lemmer,992144,F,10,0.01431,-,block,-,regular,left-foot,low-centre,54,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,A. Casar,988274,M,17,0.01392,0.02598,save,-,regular,right-foot,high-centre,48,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,C. Daferner,843133,F,33,0.3164,0.6079,goal,regular,regular,right-foot,low-centre,41,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,N. Hauptmann,798154,M,27,0.04959,-,block,-,regular,right-foot,low-centre,36,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,J. Oehmichen,1121903,M,25,0.3312,0.4436,goal,regular,regular,right-foot,low-centre,19,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,A. Casar,988274,M,17,0.002581,-,miss,-,regular,right-foot,close-high-right,9,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,D. Kubatta,1168503,D,39,0.1316,-,miss,-,corner,head,close-high-right,88,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,R. Meißner,899284,F,21,0.3499,-,miss,-,regular,left-foot,close-high,83,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,J. Lemmer,992144,F,10,0.04422,0.04899,goal,regular,regular,right-foot,high-centre,65,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,C. Daferner,843133,F,33,0.1715,-,block,-,regular,left-foot,low-centre,59,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,J. Oehmichen,1121903,M,25,0.2131,-,block,-,regular,right-foot,low-centre,57,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,N. Hauptmann,798154,M,27,0.1935,0.1548,save,-,regular,left-foot,low-centre,45,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,C. Daferner,843133,F,33,0.1696,0.2148,save,-,regular,head,high-centre,42,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,C. Daferner,843133,F,33,0.07491,-,miss,-,regular,head,close-right,40,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,S. Risch,1064672,D,28,0.01003,-,block,-,corner,left-foot,low-centre,32,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,V. Šapina,566918,M,5,0.3329,-,miss,-,corner,head,close-high,24,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,J. Oehmichen,1121903,M,25,0.05593,-,miss,-,regular,head,close-high-right,20,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,N. Hauptmann,798154,M,27,0.1131,0.8168,goal,regular,regular,left-foot,low-left,10,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,C. Daferner,843133,F,33,0.09779,-,miss,-,regular,head,close-right,8,0
+18,SG Dynamo Dresden : SV Waldhof Mannheim,2 : 1,V. Šapina,566918,M,5,0.02408,-,miss,-,regular,left-foot,close-high-right,5,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,S. Kutschke,38923,F,30,0.06255,-,miss,-,regular,head,close-right,90,2
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,T. K. Berger,1006392,M,6,0.01529,0.01526,save,-,regular,left-foot,low-centre,90,1
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.07761,-,miss,-,regular,head,close-high-right,90,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,T. K. Berger,1006392,M,6,0.06138,-,block,-,corner,left-foot,low-centre,87,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,T. K. Berger,1006392,M,6,0.006532,-,block,-,corner,right-foot,low-centre,87,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,D. Kubatta,1168503,D,39,0.6312,-,miss,-,regular,left-foot,close-left,82,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,R. Meißner,899284,F,21,0.3333,0.1735,save,-,regular,left-foot,high-centre,82,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,V. Šapina,566918,M,5,0.003115,-,block,-,regular,right-foot,low-centre,82,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,J. Lemmer,992144,F,10,0.1349,0.05662,save,-,regular,right-foot,low-centre,78,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,S. Kutschke,38923,F,30,0.76,0.81,goal,penalty,penalty,right-foot,high-left,74,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,S. Kutschke,38923,F,30,0.08631,-,block,-,regular,right-foot,low-centre,73,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,D. Kubatta,1168503,D,39,0.2769,0.7486,goal,regular,corner,head,high-left,68,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.04097,-,block,-,throw-in-set-piece,left-foot,low-centre,66,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.07418,-,miss,-,regular,head,close-right,61,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,D. Kubatta,1168503,D,39,0.02437,-,block,-,regular,left-foot,low-centre,59,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,C. Daferner,843133,F,33,0.112,-,block,-,set-piece,right-foot,low-centre,57,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.00505,-,block,-,set-piece,right-foot,low-centre,57,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.04106,-,miss,-,regular,right-foot,close-left,46,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,J. Lemmer,992144,F,10,0.0618,0.08838,save,-,corner,right-foot,low-left,43,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,J. Oehmichen,1121903,M,25,0.0324,-,block,-,regular,right-foot,low-centre,39,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,N. Hauptmann,798154,M,27,0.004367,-,block,-,regular,left-foot,low-centre,39,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,J. Oehmichen,1121903,M,25,0.1345,-,miss,-,regular,head,close-right,35,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,V. Šapina,566918,M,5,0.1408,-,block,-,regular,right-foot,low-centre,26,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,J. Oehmichen,1121903,M,25,0.003226,-,block,-,regular,right-foot,low-centre,26,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,J. Oehmichen,1121903,M,25,0.205,-,miss,-,regular,right-foot,close-high-right,15,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,A. Casar,988274,M,17,0.3922,0.7979,goal,regular,regular,head,high-left,8,0
+19,SpVgg Unterhaching : SG Dynamo Dresden,0 : 3,A. Casar,988274,M,17,0.09804,-,block,-,regular,right-foot,low-centre,8,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,D. Kother,987600,M,11,0.125,-,miss,-,regular,right-foot,close-high-left,90,3
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,M. Baur,1172815,M,22,0.3469,-,miss,-,regular,head,close-high,89,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,S. Kutschke,38923,F,30,0.06837,0.1189,goal,regular,regular,left-foot,low-centre,86,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,N. Hauptmann,798154,M,27,0.2052,0.1939,save,-,regular,head,low-centre,84,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,C. Daferner,843133,F,33,0.4212,-,block,-,regular,right-foot,low-centre,82,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,D. Kother,987600,M,11,0.02887,0.08027,save,-,regular,right-foot,high-centre,69,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,C. Kammerknecht,940870,D,15,0.1349,0.3149,save,-,set-piece,head,low-right,65,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,C. Daferner,843133,F,33,0.005942,-,block,-,regular,right-foot,low-centre,61,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,A. Casar,988274,M,17,0.0595,0.04058,save,-,regular,head,low-centre,48,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,J. Lemmer,992144,F,10,0.5458,0.6351,save,-,regular,right-foot,low-centre,45,4
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,N. Hauptmann,798154,M,27,0.006449,-,block,-,corner,left-foot,low-centre,45,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,J. Lemmer,992144,F,10,0.1468,0.2954,save,-,regular,left-foot,high-right,44,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,C. Daferner,843133,F,33,0.07698,0.03884,save,-,free-kick,right-foot,low-centre,43,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,A. Casar,988274,M,17,0.006203,-,block,-,regular,right-foot,low-centre,42,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,J. Lemmer,992144,F,10,0.2822,0.7189,goal,regular,regular,left-foot,low-left,40,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,T. Menzel,1511779,M,24,0.08145,0.3949,save,-,regular,left-foot,low-right,35,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,A. Casar,988274,M,17,0.001784,-,block,-,regular,left-foot,low-centre,31,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,S. Risch,1064672,D,28,0.05247,0.04882,save,-,regular,left-foot,low-centre,24,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,A. Casar,988274,M,17,0.04012,-,block,-,regular,right-foot,low-centre,14,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,A. Casar,988274,M,17,0.1888,-,miss,-,regular,left-foot,close-right,11,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,J. Lemmer,992144,F,10,0.05242,-,block,-,regular,left-foot,low-centre,11,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,A. Casar,988274,M,17,0.02907,-,block,-,throw-in-set-piece,right-foot,low-centre,7,0
+20,SG Dynamo Dresden : FC Viktoria Köln,2 : 3,C. Daferner,843133,F,33,0.06241,-,block,-,regular,right-foot,low-centre,4,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,T. Menzel,1511779,M,24,0.189,0.3161,save,-,regular,left-foot,low-right,83,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,S. Kutschke,38923,F,30,0.7393,0.8643,goal,regular,regular,right-foot,high-centre,60,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,J. Lemmer,992144,F,10,0.1668,0.2372,save,-,corner,head,low-centre,39,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,S. Risch,1064672,D,28,0.01122,-,block,-,regular,left-foot,low-centre,39,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,M. Baur,1172815,M,22,0.02098,-,block,-,regular,right-foot,low-centre,39,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,S. Kutschke,38923,F,30,0.03221,-,block,-,corner,left-foot,low-centre,26,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,S. Kutschke,38923,F,30,0.08566,-,miss,-,regular,head,close-high-left,14,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,M. Baur,1172815,M,22,0.6005,-,miss,-,regular,right-foot,close-left,6,0
+21,Energie Cottbus : SG Dynamo Dresden,1 : 1,D. Kother,987600,M,11,0.13,-,miss,-,regular,left-foot,close-right,3,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,J. Lemmer,992144,F,10,0.1935,-,post,-,regular,left-foot,right,90,4
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Casar,988274,M,17,0.1137,-,miss,-,regular,right-foot,close-left,82,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Casar,988274,M,17,0.1766,0.1175,save,-,set-piece,right-foot,low-centre,68,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Casar,988274,M,17,0.1377,-,miss,-,corner,head,close-right,66,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,D. Kother,987600,M,11,0.2918,0.6116,goal,regular,regular,right-foot,low-right,64,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,D. Kother,987600,M,11,0.6756,-,miss,-,regular,right-foot,close-high,57,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,J. Lemmer,992144,F,10,0.03052,-,miss,-,regular,right-foot,close-left,55,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,T. Menzel,1511779,M,24,0.06601,-,miss,-,set-piece,right-foot,close-high-right,49,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,J. Lemmer,992144,F,10,0.04898,0.1453,save,-,throw-in-set-piece,right-foot,low-centre,47,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Casar,988274,M,17,0.003266,-,miss,-,throw-in-set-piece,right-foot,close-high-right,43,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,C. Daferner,843133,F,33,0.76,0.81,save,-,penalty,right-foot,high-left,32,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,T. Menzel,1511779,M,24,0.3154,0.6402,save,-,regular,left-foot,low-left,32,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,C. Daferner,843133,F,33,0.185,-,block,-,regular,right-foot,low-centre,31,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,C. Daferner,843133,F,33,0.1247,-,block,-,regular,head,low-centre,30,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Casar,988274,M,17,0.08177,0.05023,save,-,regular,left-foot,low-centre,29,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,T. Menzel,1511779,M,24,0.01516,-,miss,-,corner,left-foot,close-high-left,16,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Hoti,1000541,D,20,0.142,-,miss,-,corner,head,close-high-left,6,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,A. Casar,988274,M,17,0.1264,-,block,-,corner,left-foot,low-centre,5,0
+22,SG Dynamo Dresden : Erzgebirge Aue,2 : 1,C. Daferner,843133,F,33,0.1801,0.7514,goal,regular,regular,right-foot,low-right,2,0
