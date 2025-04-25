@@ -33,7 +33,7 @@ position_mapping = {
     'F': 'Forward',
     'D': 'Defense',
     'M': 'Midfield',
-    'G': 'Goalkeeper'  # Beispiel für Torwart
+    'G': 'Goalkeeper',
 }
 
 # Positionen umwandeln, bevor sie in das DataFrame übernommen werden
