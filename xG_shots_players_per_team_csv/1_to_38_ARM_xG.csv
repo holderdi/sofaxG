@@ -1,0 +1,587 @@
+Round,Match,Result,Player,Id,Position,Jersey No,xG,xGOT,ShotType,GoalType,Situation,BodyPart,goalMouthLocation,Time,Overtime
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Großer,1014486,D,19,0.147,0.578,goal,regular,corner,head,high-left,90,3
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.01973,-,miss,-,set-piece,left-foot,close-right,82,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Wörl,1387705,M,38,0.04757,0.6462,save,-,throw-in-set-piece,right-foot,low-left,79,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Corboz,829211,M,6,0.3185,0.4013,save,-,regular,right-foot,low-centre,77,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,K. Mizuta,1066020,M,24,0.04712,0.1279,save,-,regular,right-foot,low-left,77,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Corboz,829211,M,6,0.2054,-,block,-,regular,left-foot,low-centre,76,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Corboz,829211,M,6,0.01048,-,block,-,throw-in-set-piece,right-foot,low-centre,70,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.07974,0.1926,goal,regular,regular,right-foot,low-left,68,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,A. Becker,826270,F,39,0.1523,-,miss,-,regular,left-foot,close-high-left,65,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,C. Lannert,886258,D,24,0.1027,-,miss,-,throw-in-set-piece,left-foot,close-high-left,61,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,K. Mizuta,1066020,M,24,0.132,-,post,-,throw-in-set-piece,right-foot,high,61,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,J. Felix,836092,D,3,0.3012,-,miss,-,corner,head,close-high-right,52,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.005504,-,block,-,regular,left-foot,low-centre,47,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,A. Becker,826270,F,39,0.2197,-,miss,-,corner,left-foot,close-high-left,41,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.0004291,-,block,-,free-kick,left-foot,low-centre,40,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Biankadi,254185,M,17,0.1043,0.2331,save,-,regular,right-foot,low-right,18,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,C. Lannert,886258,D,24,0.07314,0.01784,save,-,free-kick,right-foot,low-centre,14,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,M. Biankadi,254185,M,17,0.07179,-,block,-,regular,left-foot,low-centre,10,0
+1,Energie Cottbus : Arminia Bielefeld,1 : 2,L. Kunze,892527,M,13,0.05597,0.06253,save,-,regular,head,low-centre,4,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,L. Oppie,1137900,D,4,0.001019,-,miss,-,free-kick,left-foot,close-high,90,7
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,K. Mizuta,1066020,M,24,0.1555,0.1358,goal,regular,regular,head,high-centre,88,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,L. Oppie,1137900,D,4,0.1027,0.182,save,-,regular,right-foot,low-left,87,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,K. Mizuta,1066020,M,24,0.0473,-,block,-,regular,right-foot,low-centre,86,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,M. Corboz,829211,M,6,0.01084,-,miss,-,corner,right-foot,close-high-right,84,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,K. Mizuta,1066020,M,24,0.01738,-,miss,-,regular,left-foot,close-high-left,81,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,L. Oppie,1137900,D,4,0.01103,-,block,-,regular,left-foot,low-centre,77,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,M. Wörl,1387705,M,38,0.2099,-,post,-,regular,right-foot,right,75,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,M. Wörl,1387705,M,38,0.0006164,-,block,-,regular,right-foot,low-centre,75,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,M. Biankadi,254185,M,17,0.03516,0.1041,save,-,regular,left-foot,low-right,45,3
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,M. Corboz,829211,M,6,0.003183,-,miss,-,throw-in-set-piece,left-foot,close-high-right,27,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,M. Biankadi,254185,M,17,0.05266,0.1897,save,-,regular,right-foot,low-right,26,0
+2,Arminia Bielefeld : Borussia Dortmund II U23,1 : 0,C. Lannert,886258,D,24,0.01077,-,block,-,regular,left-foot,low-centre,20,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,L. Kunze,892527,M,13,0.005462,-,block,-,set-piece,head,low-centre,89,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,L. Kunze,892527,M,13,0.02473,0.02657,save,-,regular,right-foot,low-centre,73,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Wörl,1387705,M,38,0.05539,-,miss,-,regular,right-foot,close-high,60,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Corboz,829211,M,6,0.04401,-,block,-,regular,right-foot,low-centre,60,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,L. Oppie,1137900,D,4,0.0238,-,block,-,regular,left-foot,low-centre,46,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Biankadi,254185,M,17,0.01668,-,block,-,regular,left-foot,low-centre,43,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Corboz,829211,M,6,0.1243,-,miss,-,regular,left-foot,close-high-left,40,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Biankadi,254185,M,17,0.1097,-,miss,-,throw-in-set-piece,right-foot,close-left,34,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,A. Becker,826270,F,39,0.05338,-,miss,-,corner,head,close-high,1,0
+3,Rot-Weiss Essen : Arminia Bielefeld,0 : 0,M. Wörl,1387705,M,38,0.08453,0.04557,save,-,regular,right-foot,low-centre,1,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Großer,1014486,D,19,0.2088,0.1058,save,-,regular,head,low-centre,90,7
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,I. Young,886154,F,30,0.1037,0.6476,goal,regular,regular,left-foot,low-right,90,4
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,J. Felix,836092,D,3,0.05868,-,miss,-,throw-in-set-piece,head,close-high-right,90,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Wörl,1387705,M,38,0.1244,0.5253,save,-,corner,head,low-right,87,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,K. Mizuta,1066020,M,24,0.07918,0.04106,save,-,free-kick,right-foot,high-centre,82,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Biankadi,254185,M,17,0.09763,-,block,-,regular,right-foot,low-centre,81,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Wörl,1387705,M,38,0.07858,-,block,-,regular,right-foot,low-centre,71,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,L. Kunze,892527,M,13,0.1603,-,miss,-,set-piece,right-foot,close-high-right,63,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,L. Kunze,892527,M,13,0.0135,-,block,-,set-piece,right-foot,low-centre,63,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,L. Oppie,1137900,D,4,0.0266,-,block,-,regular,left-foot,low-centre,58,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,J. Felix,836092,D,3,0.04296,-,miss,-,corner,head,close-high,57,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,S. Russo,984804,M,21,0.00653,-,miss,-,throw-in-set-piece,left-foot,close-high-left,52,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Corboz,829211,M,6,0.02444,-,miss,-,throw-in-set-piece,right-foot,close-right,51,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,L. Oppie,1137900,D,4,0.06069,-,block,-,regular,right-foot,low-centre,50,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,A. Becker,826270,F,39,0.2491,-,block,-,regular,right-foot,low-centre,43,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,N. J. S. Bazee,801378,F,37,0.02169,0.05318,save,-,regular,left-foot,low-right,39,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Biankadi,254185,M,17,0.2894,0.7016,save,-,regular,right-foot,low-left,37,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,A. Becker,826270,F,39,0.1151,-,miss,-,regular,head,close-left,37,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Corboz,829211,M,6,0.2756,-,block,-,regular,right-foot,low-centre,33,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Biankadi,254185,M,17,0.04089,-,miss,-,regular,right-foot,close-left,19,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,C. Lannert,886258,D,24,0.0389,0.01297,save,-,regular,left-foot,low-centre,16,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,M. Corboz,829211,M,6,0.2105,-,miss,-,corner,head,close-right,13,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,C. Lannert,886258,D,24,0.03223,-,miss,-,regular,right-foot,close-left,12,0
+4,Arminia Bielefeld : SV Sandhausen,1 : 1,L. Kunze,892527,M,13,0.05761,0.3073,save,-,regular,right-foot,low-left,10,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,M. Biankadi,254185,M,17,0.06291,-,miss,-,regular,right-foot,close-high,90,4
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,M. Corboz,829211,M,6,0.00507,-,block,-,regular,right-foot,low-centre,90,4
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,J. Kania,1514419,F,7,0.02601,0.2317,save,-,throw-in-set-piece,head,low-left,90,3
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,M. Corboz,829211,M,6,0.01246,-,block,-,regular,right-foot,low-centre,87,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,K. Mizuta,1066020,M,24,0.3198,-,miss,-,regular,left-foot,close-left,75,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,C. Lannert,886258,D,24,0.07099,-,miss,-,regular,left-foot,close-right,74,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,M. Wörl,1387705,M,38,0.03175,-,block,-,regular,right-foot,low-centre,74,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,C. Lannert,886258,D,24,0.01383,0.02724,save,-,regular,left-foot,low-right,72,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,S. Russo,984804,M,21,0.03916,0.0224,save,-,free-kick,right-foot,high-centre,70,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,M. Wörl,1387705,M,38,0.04225,0.3223,save,-,regular,right-foot,low-left,69,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,L. Kunze,892527,M,13,0.03588,-,block,-,regular,left-foot,low-centre,62,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,I. Young,886154,F,30,0.156,0.3108,save,-,regular,right-foot,low-centre,49,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,S. Russo,984804,M,21,0.007169,-,block,-,regular,left-foot,low-centre,27,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,M. Wörl,1387705,M,38,0.01314,0.137,save,-,throw-in-set-piece,right-foot,low-left,26,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,I. Young,886154,F,30,0.1616,-,miss,-,regular,head,close-high-left,22,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,A. Becker,826270,F,39,0.0999,0.7366,save,-,regular,right-foot,low-left,16,0
+6,Arminia Bielefeld : TSV 1860 München,0 : 1,L. Kunze,892527,M,13,0.001245,-,block,-,throw-in-set-piece,left-foot,low-centre,15,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,S. Schreck,836708,M,8,0.008391,-,miss,-,corner,right-foot,close-high-right,90,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,M. Schroers,1010072,F,22,0.128,-,block,-,regular,right-foot,low-centre,90,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,J. Kania,1514419,F,7,0.05128,-,miss,-,throw-in-set-piece,right-foot,close-high-right,78,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,K. Mizuta,1066020,M,24,0.01265,-,miss,-,throw-in-set-piece,right-foot,close-high-right,72,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,M. Schroers,1010072,F,22,0.1624,0.3762,save,-,throw-in-set-piece,head,high-centre,61,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,M. Schroers,1010072,F,22,0.3917,-,miss,-,throw-in-set-piece,right-foot,close-right,52,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,L. Kunze,892527,M,13,0.0137,-,block,-,throw-in-set-piece,right-foot,low-centre,27,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,M. Großer,1014486,D,19,0.3147,-,miss,-,corner,head,close-high-right,25,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,M. Wörl,1387705,M,38,0.02736,-,post,-,throw-in-set-piece,right-foot,high,8,0
+7,VfB Stuttgart II U21 : Arminia Bielefeld,3 : 0,L. Oppie,1137900,D,4,0.1924,-,block,-,regular,left-foot,low-centre,4,0
+8,Arminia Bielefeld : SC Verl,2 : 1,J. Felix,836092,D,3,0.07546,0.2977,goal,regular,corner,head,high-left,90,2
+8,Arminia Bielefeld : SC Verl,2 : 1,J. Felix,836092,D,3,0.288,-,miss,-,corner,head,close-high,51,0
+8,Arminia Bielefeld : SC Verl,2 : 1,J. Kania,1514419,F,7,0.0006065,-,block,-,free-kick,right-foot,low-centre,45,4
+8,Arminia Bielefeld : SC Verl,2 : 1,J. Kania,1514419,F,7,0.1456,0.0763,goal,regular,regular,left-foot,low-centre,45,0
+8,Arminia Bielefeld : SC Verl,2 : 1,L. Kunze,892527,M,13,0.00786,-,miss,-,regular,right-foot,close-high-right,37,0
+8,Arminia Bielefeld : SC Verl,2 : 1,M. Wörl,1387705,M,38,0.02828,-,miss,-,throw-in-set-piece,right-foot,close-high-right,35,0
+8,Arminia Bielefeld : SC Verl,2 : 1,S. Russo,984804,M,21,0.006769,3.85e-05,block,-,regular,right-foot,low-centre,32,0
+8,Arminia Bielefeld : SC Verl,2 : 1,J. Felix,836092,D,3,0.03546,-,miss,-,set-piece,head,close-right,29,0
+8,Arminia Bielefeld : SC Verl,2 : 1,S. Russo,984804,M,21,0.003692,-,block,-,throw-in-set-piece,right-foot,low-centre,25,0
+8,Arminia Bielefeld : SC Verl,2 : 1,J. Felix,836092,D,3,0.07746,0.3735,save,-,corner,head,high-right,19,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,C. Lannert,886258,D,24,0.004833,-,miss,-,corner,right-foot,close-right,85,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,M. Großer,1014486,D,19,0.1026,0.3033,save,-,corner,head,high-right,80,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,L. Oppie,1137900,D,4,0.03184,0.08591,save,-,free-kick,left-foot,low-left,78,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,M. Großer,1014486,D,19,0.08405,-,miss,-,corner,head,close-high,54,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,C. Lannert,886258,D,24,0.00574,-,block,-,regular,right-foot,low-centre,34,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,J. Kania,1514419,F,7,0.1598,0.1467,save,-,regular,right-foot,low-centre,14,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,J. Kania,1514419,F,7,0.08125,-,block,-,regular,right-foot,low-centre,14,0
+9,1. FC Saarbrücken : Arminia Bielefeld,0 : 0,J. Felix,836092,D,3,0.04246,-,miss,-,corner,head,close-high-right,13,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,M. Schroers,1010072,F,22,0.3941,0.415,goal,regular,regular,right-foot,low-centre,85,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,L. Oppie,1137900,D,4,0.07219,0.3236,goal,regular,free-kick,left-foot,high-left,81,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,M. Corboz,829211,M,6,0.0269,-,miss,-,regular,right-foot,close-high-right,66,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,N. J. S. Bazee,801378,F,37,0.4299,-,block,-,regular,right-foot,low-centre,57,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,N. J. S. Bazee,801378,F,37,0.1311,0.4835,goal,regular,regular,right-foot,low-right,52,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,M. Corboz,829211,M,6,0.07846,-,block,-,regular,left-foot,low-centre,51,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,A. Becker,826270,F,39,0.6256,-,miss,-,regular,left-foot,close-high-right,45,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,M. Corboz,829211,M,6,0.0651,-,block,-,regular,right-foot,low-centre,43,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,N. J. S. Bazee,801378,F,37,0.3016,0.205,save,-,regular,right-foot,low-centre,18,0
+10,Arminia Bielefeld : VfL Osnabrück,3 : 1,A. Becker,826270,F,39,0.05179,-,block,-,regular,right-foot,low-centre,2,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,M. Biankadi,254185,M,17,0.1891,0.2629,goal,regular,regular,right-foot,low-centre,88,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,J. Kania,1514419,F,7,0.2522,0.7323,goal,regular,regular,right-foot,low-right,82,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,J. Kania,1514419,F,7,0.1614,0.3622,save,-,corner,head,low-centre,75,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,M. Großer,1014486,D,19,0.4486,-,miss,-,corner,right-foot,close-high-right,69,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,M. Biankadi,254185,M,17,0.05071,-,miss,-,throw-in-set-piece,right-foot,close-left,60,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,J. Kania,1514419,F,7,0.7141,0.8794,goal,regular,corner,head,high-centre,42,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,M. Corboz,829211,M,6,0.002381,-,block,-,throw-in-set-piece,left-foot,low-centre,7,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,L. Oppie,1137900,D,4,0.01986,-,miss,-,regular,right-foot,close-left,6,0
+11,Hannover 96 II U23 : Arminia Bielefeld,1 : 4,J. Kania,1514419,F,7,0.08956,0.4949,goal,regular,regular,head,high-left,2,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,S. Russo,984804,M,21,0.007527,-,miss,-,regular,right-foot,close-high,90,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,K. Mizuta,1066020,M,24,0.1704,-,miss,-,regular,left-foot,close-high-left,82,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,C. Lannert,886258,D,24,0.007973,-,miss,-,corner,right-foot,close-high-right,77,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,L. Schneider,901416,D,23,0.007086,-,miss,-,throw-in-set-piece,right-foot,close-right,75,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,M. Großer,1014486,D,19,0.3861,0.5315,save,-,throw-in-set-piece,head,low-centre,63,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,M. Großer,1014486,D,19,0.03356,0.4589,save,-,throw-in-set-piece,head,low-right,63,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,M. Schroers,1010072,F,22,0.09555,-,miss,-,regular,left-foot,close-high-left,45,2
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,J. Kania,1514419,F,7,0.1098,0.06167,save,-,regular,head,low-centre,32,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,A. Becker,826270,F,39,0.1284,0.3546,save,-,regular,head,low-left,25,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,M. Schroers,1010072,F,22,0.01254,-,miss,-,regular,right-foot,close-high-right,17,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,A. Becker,826270,F,39,0.122,-,miss,-,regular,head,close-high-right,15,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,A. Becker,826270,F,39,0.1414,-,post,-,regular,head,left,8,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,M. Wörl,1387705,M,38,0.02049,-,block,-,regular,left-foot,low-centre,8,0
+12,Arminia Bielefeld : Alemannia Aachen,1 : 1,L. Oppie,1137900,D,4,0.02596,-,miss,-,regular,left-foot,close-high-left,1,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,J. Hilterman,887618,F,99,0.2771,-,miss,-,regular,right-foot,close-left,88,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,K. Mizuta,1066020,M,24,0.1015,-,miss,-,regular,right-foot,close-high,47,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,K. Mizuta,1066020,M,24,0.03489,-,miss,-,regular,right-foot,close-high,35,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,I. Young,886154,F,30,0.03254,-,block,-,regular,left-foot,low-centre,34,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,M. Wörl,1387705,M,38,0.06468,0.07044,save,-,regular,right-foot,high-centre,34,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,C. Lannert,886258,D,24,0.01423,-,miss,-,regular,right-foot,close-high,10,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,M. Corboz,829211,M,6,0.00597,-,miss,-,throw-in-set-piece,left-foot,close-high-left,10,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,M. Großer,1014486,D,19,0.1328,-,miss,-,corner,right-foot,close-right,6,0
+13,SV Wehen Wiesbaden : Arminia Bielefeld,0 : 0,K. Mizuta,1066020,M,24,0.01784,-,block,-,corner,right-foot,low-centre,5,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,L. Oppie,1137900,D,4,0.03697,-,block,-,regular,right-foot,low-centre,90,4
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,J. Kania,1514419,F,7,0.1212,-,miss,-,regular,right-foot,close-high-right,90,1
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,M. Schroers,1010072,F,22,0.08344,0.08121,save,-,regular,right-foot,low-centre,77,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,J. Kania,1514419,F,7,0.76,0.81,goal,penalty,penalty,right-foot,low-right,75,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,M. Schroers,1010072,F,22,0.1424,-,miss,-,regular,right-foot,close-high-right,73,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,M. Großer,1014486,D,19,0.1405,-,miss,-,regular,right-foot,close-right,52,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,J. Hilterman,887618,F,99,0.1158,-,miss,-,corner,right-foot,close-right,50,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,S. Schreck,836708,M,8,0.1687,0.3633,save,-,regular,right-foot,high-centre,49,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,L. Oppie,1137900,D,4,0.005119,-,miss,-,regular,left-foot,close-right,48,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,L. Oppie,1137900,D,4,0.06444,-,block,-,regular,left-foot,low-centre,39,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,M. Corboz,829211,M,6,0.1882,-,miss,-,regular,left-foot,close-high-right,37,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,M. Wörl,1387705,M,38,0.04546,-,miss,-,regular,right-foot,close-left,23,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,I. Young,886154,F,30,0.04016,0.03529,goal,regular,regular,left-foot,high-left,18,0
+14,Arminia Bielefeld : FC Viktoria Köln,2 : 0,J. Hilterman,887618,F,99,0.2939,-,miss,-,set-piece,head,close-right,5,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,C. Lannert,886258,D,24,0.008257,-,block,-,set-piece,right-foot,low-centre,90,3
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,S. Russo,984804,M,21,0.05237,0.02479,save,-,regular,left-foot,low-centre,89,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,J. Kania,1514419,F,7,0.4372,0.6154,goal,regular,regular,right-foot,low-right,86,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.004711,-,block,-,regular,left-foot,low-centre,86,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.003824,-,block,-,throw-in-set-piece,right-foot,low-centre,83,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.3823,-,block,-,corner,left-foot,low-centre,81,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,L. Oppie,1137900,D,4,0.01078,-,miss,-,regular,right-foot,close-left,80,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.04366,-,miss,-,throw-in-set-piece,right-foot,close-high-right,72,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,S. Russo,984804,M,21,0.01436,-,block,-,free-kick,right-foot,low-centre,62,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.08503,0.3875,save,-,regular,right-foot,low-right,51,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Großer,1014486,D,19,0.1074,-,miss,-,set-piece,head,close-high-right,48,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.1443,-,miss,-,regular,right-foot,close-right,45,1
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,L. Oppie,1137900,D,4,0.1137,0.7913,save,-,regular,left-foot,high-left,39,0
+15,F.C. Hansa Rostock : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.002724,-,block,-,set-piece,left-foot,low-centre,26,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Biankadi,254185,M,17,0.02749,-,block,-,regular,right-foot,low-centre,83,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Corboz,829211,M,6,0.008872,-,miss,-,regular,right-foot,close-left,77,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,L. Oppie,1137900,D,4,0.01254,0.05446,goal,regular,throw-in-set-piece,left-foot,low-left,76,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,C. Lannert,886258,D,24,0.01933,-,miss,-,regular,left-foot,close-left,71,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,L. Oppie,1137900,D,4,0.1084,0.05887,save,-,free-kick,left-foot,high-right,69,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Wörl,1387705,M,38,0.1207,-,miss,-,regular,right-foot,close-left,65,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Großer,1014486,D,19,0.04061,0.05738,save,-,throw-in-set-piece,head,low-centre,59,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Corboz,829211,M,6,0.01206,-,miss,-,regular,right-foot,close-high,56,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,I. Young,886154,F,30,0.1449,-,block,-,throw-in-set-piece,right-foot,low-centre,44,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Schroers,1010072,F,22,0.1383,-,miss,-,regular,right-foot,close-high-right,40,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,S. Russo,984804,M,21,0.01858,-,miss,-,regular,right-foot,close-right,38,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Schroers,1010072,F,22,0.03112,-,block,-,regular,left-foot,low-centre,38,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Schroers,1010072,F,22,0.04141,0.06249,save,-,regular,right-foot,low-left,36,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,C. Lannert,886258,D,24,0.04918,-,block,-,regular,left-foot,low-centre,22,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Corboz,829211,M,6,0.3151,-,block,-,regular,right-foot,low-centre,20,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Wörl,1387705,M,38,0.183,0.09072,save,-,regular,right-foot,low-centre,20,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,M. Wörl,1387705,M,38,0.03241,-,miss,-,corner,right-foot,close-high-right,16,0
+16,Arminia Bielefeld : FC Ingolstadt 04,1 : 0,I. Young,886154,F,30,0.2169,-,block,-,regular,right-foot,low-centre,13,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,S. Russo,984804,M,21,0.04107,-,miss,-,regular,right-foot,close-left,90,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,D. Sumbu,1972903,F,45,0.1169,0.1039,save,-,corner,head,low-centre,89,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,M. Biankadi,254185,M,17,0.03883,-,block,-,corner,right-foot,low-centre,88,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,A. Becker,826270,F,39,0.04553,-,miss,-,corner,head,close-right,88,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,S. Russo,984804,M,21,0.002608,-,block,-,regular,right-foot,low-centre,88,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,D. Sumbu,1972903,F,45,0.3857,-,miss,-,throw-in-set-piece,right-foot,close-right,81,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,L. Oppie,1137900,D,4,0.1255,0.06835,save,-,regular,right-foot,low-centre,75,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,M. Wörl,1387705,M,38,0.4987,-,block,-,regular,left-foot,low-centre,67,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,M. Biankadi,254185,M,17,0.1888,-,block,-,regular,left-foot,low-centre,67,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,L. Oppie,1137900,D,4,0.007685,-,block,-,regular,right-foot,low-centre,66,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,M. Corboz,829211,M,6,0.01067,-,block,-,set-piece,right-foot,low-centre,32,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,M. Corboz,829211,M,6,0.001294,-,miss,-,throw-in-set-piece,right-foot,close-high,27,0
+17,SG Dynamo Dresden : Arminia Bielefeld,3 : 0,M. Großer,1014486,D,19,0.03509,-,miss,-,throw-in-set-piece,right-foot,close-left,15,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Großer,1014486,D,19,0.1152,-,miss,-,corner,head,close-high-right,90,6
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,S. Russo,984804,M,21,0.006175,-,block,-,corner,right-foot,low-centre,90,5
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,L. Oppie,1137900,D,4,0.01299,-,block,-,regular,left-foot,low-centre,90,4
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Biankadi,254185,M,17,0.1279,0.4415,goal,regular,regular,left-foot,low-left,90,2
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Biankadi,254185,M,17,0.02187,-,block,-,regular,right-foot,low-centre,90,2
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Corboz,829211,M,6,0.06946,-,miss,-,throw-in-set-piece,right-foot,close-left,83,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,C. Lannert,886258,D,24,0.01255,-,miss,-,corner,left-foot,close-high-left,81,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Corboz,829211,M,6,0.09944,0.318,goal,regular,corner,head,low-left,79,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Biankadi,254185,M,17,0.01351,-,block,-,corner,right-foot,low-centre,76,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,L. Schneider,901416,D,23,0.174,-,miss,-,corner,head,close-right,74,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,S. Russo,984804,M,21,0.1363,-,post,-,free-kick,right-foot,high,73,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,S. Russo,984804,M,21,0.1116,-,miss,-,set-piece,right-foot,close-high-right,63,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,F. Hagmann,1197579,D,2,0.01429,-,block,-,corner,right-foot,low-centre,52,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Schroers,1010072,F,22,0.0471,0.06768,save,-,throw-in-set-piece,left-foot,low-centre,44,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,L. Oppie,1137900,D,4,0.0008459,-,miss,-,free-kick,left-foot,close-high,38,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,I. Young,886154,F,30,0.4788,0.7711,save,-,regular,left-foot,low-right,36,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Wörl,1387705,M,38,0.4356,0.3924,goal,regular,regular,right-foot,high-centre,34,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Corboz,829211,M,6,0.007077,-,block,-,set-piece,right-foot,low-centre,30,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,I. Young,886154,F,30,0.04136,0.01921,save,-,regular,left-foot,high-centre,25,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Schroers,1010072,F,22,0.03677,-,block,-,regular,right-foot,low-centre,21,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,M. Wörl,1387705,M,38,0.05247,-,miss,-,regular,right-foot,close-right,15,0
+18,Arminia Bielefeld : SpVgg Unterhaching,3 : 3,L. Oppie,1137900,D,4,0.007033,-,miss,-,free-kick,left-foot,close-high,11,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Corboz,829211,M,6,0.09441,-,miss,-,regular,left-foot,close-right,90,2
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,N. J. S. Bazee,801378,F,37,0.05952,-,block,-,regular,right-foot,low-centre,90,2
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Corboz,829211,M,6,0.09916,-,miss,-,corner,left-foot,close-left,90,1
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,A. Becker,826270,F,39,0.5282,0.5306,save,-,set-piece,right-foot,low-centre,88,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,D. Sumbu,1972903,F,45,0.04323,-,block,-,set-piece,right-foot,low-centre,88,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,C. Lannert,886258,D,24,0.003138,-,block,-,throw-in-set-piece,left-foot,low-centre,83,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,D. Sumbu,1972903,F,45,0.3289,0.8483,goal,regular,corner,head,low-left,79,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,N. J. S. Bazee,801378,F,37,0.6789,0.8579,save,-,regular,left-foot,low-right,73,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,D. Sumbu,1972903,F,45,0.2452,0.578,save,-,regular,left-foot,low-right,72,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,A. Becker,826270,F,39,0.1046,0.08953,save,-,regular,right-foot,low-centre,70,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Biankadi,254185,M,17,0.2415,-,miss,-,throw-in-set-piece,right-foot,close-high-left,63,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Großer,1014486,D,19,0.1759,0.6676,save,-,throw-in-set-piece,head,low-right,48,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Corboz,829211,M,6,0.2774,0.5741,save,-,regular,left-foot,low-right,45,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Biankadi,254185,M,17,0.02034,-,block,-,regular,right-foot,low-centre,45,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,L. Oppie,1137900,D,4,0.03541,-,miss,-,corner,left-foot,close-high-left,37,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,I. Young,886154,F,30,0.002257,-,block,-,regular,right-foot,low-centre,34,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,J. Kania,1514419,F,7,0.1436,-,post,-,throw-in-set-piece,right-foot,high,26,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,S. Russo,984804,M,21,0.01711,-,block,-,regular,right-foot,low-centre,25,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,L. Oppie,1137900,D,4,0.03526,-,block,-,regular,right-foot,low-centre,13,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Corboz,829211,M,6,0.004652,-,block,-,throw-in-set-piece,left-foot,low-centre,12,0
+19,SV Waldhof Mannheim : Arminia Bielefeld,1 : 1,M. Biankadi,254185,M,17,0.04485,0.04991,save,-,regular,right-foot,high-centre,10,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,L. Oppie,1137900,D,4,0.02981,-,miss,-,regular,left-foot,close-right,90,5
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,M. Corboz,829211,M,6,0.1155,-,miss,-,regular,left-foot,close-left,90,3
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,L. Kunze,892527,M,13,0.005348,-,block,-,regular,left-foot,low-centre,90,3
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,M. Wörl,1387705,M,38,0.1126,-,block,-,regular,left-foot,low-centre,81,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,N. J. S. Bazee,801378,F,37,0.1308,-,block,-,regular,right-foot,low-centre,81,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,J. Felix,836092,D,3,0.008302,-,miss,-,corner,head,close-high-right,73,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,C. Lannert,886258,D,24,0.03112,-,miss,-,regular,left-foot,close-left,55,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,N. J. S. Bazee,801378,F,37,0.019,0.06128,save,-,regular,right-foot,high-right,51,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,S. Schreck,836708,M,8,0.02817,-,miss,-,regular,right-foot,close-right,45,4
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,M. Wörl,1387705,M,38,0.007395,-,block,-,corner,left-foot,low-centre,45,1
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,I. Young,886154,F,30,0.06254,-,block,-,regular,left-foot,low-centre,45,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,D. Sumbu,1972903,F,45,0.174,-,miss,-,corner,head,close-high-right,32,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,M. Corboz,829211,M,6,0.103,-,miss,-,regular,head,close-high,25,0
+20,Arminia Bielefeld : Energie Cottbus,0 : 2,L. Oppie,1137900,D,4,0.02505,-,block,-,corner,left-foot,low-centre,6,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,M. Wörl,1387705,M,38,0.1449,0.1172,goal,regular,regular,right-foot,low-centre,83,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,L. Schneider,901416,D,23,0.1654,-,miss,-,corner,right-foot,close-right,77,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,M. Wörl,1387705,M,38,0.2492,0.7265,goal,regular,regular,right-foot,low-left,74,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,S. Russo,984804,M,21,0.003809,-,block,-,corner,right-foot,low-centre,65,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,N. J. S. Bazee,801378,F,37,0.1552,-,block,-,regular,right-foot,low-centre,64,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,N. J. S. Bazee,801378,F,37,0.6539,0.7122,save,-,regular,left-foot,low-centre,64,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,R. Uldriķis,883327,F,28,0.6721,-,post,-,regular,left-foot,left,64,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,C. Lannert,886258,D,24,0.01189,0.0233,save,-,corner,right-foot,low-right,53,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,M. Corboz,829211,M,6,0.1319,0.1334,save,-,regular,right-foot,high-centre,52,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,I. Young,886154,F,30,0.7249,0.8734,goal,regular,regular,left-foot,low-centre,46,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,M. Corboz,829211,M,6,0.02378,2.38e-05,block,-,regular,right-foot,low-centre,33,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,N. J. S. Bazee,801378,F,37,0.0308,-,block,-,regular,right-foot,low-centre,27,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,M. Corboz,829211,M,6,0.1094,-,miss,-,regular,left-foot,close-high-left,22,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,N. J. S. Bazee,801378,F,37,0.3199,-,miss,-,regular,left-foot,close-right,13,0
+21,Borussia Dortmund II U23 : Arminia Bielefeld,0 : 4,I. Young,886154,F,30,0.05641,-,block,-,regular,right-foot,low-centre,11,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,J. T. Kersken,951531,G,1,0.09907,-,miss,-,corner,head,close-right,90,5
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,J. Kania,1514419,F,7,0.1389,-,block,-,regular,left-foot,low-centre,90,5
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,N. J. S. Bazee,801378,F,37,0.1623,0.3249,save,-,regular,right-foot,low-centre,90,4
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,L. Oppie,1137900,D,4,0.03836,-,miss,-,regular,left-foot,close-left,89,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,S. Russo,984804,M,21,0.006913,-,block,-,corner,right-foot,low-centre,88,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Biankadi,254185,M,17,0.02766,-,miss,-,regular,right-foot,close-high-left,86,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,S. Russo,984804,M,21,0.01532,-,miss,-,corner,right-foot,close-high-right,83,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,N. J. S. Bazee,801378,F,37,0.8259,0.9129,goal,regular,corner,left-foot,low-centre,79,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,J. Felix,836092,D,3,0.602,-,post,-,corner,left-foot,left,79,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,N. J. S. Bazee,801378,F,37,0.07916,0.1918,save,-,corner,head,low-left,79,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Corboz,829211,M,6,0.07005,-,block,-,regular,right-foot,low-centre,78,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,L. Oppie,1137900,D,4,0.01362,-,miss,-,corner,left-foot,close-right,77,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Biankadi,254185,M,17,0.003734,-,block,-,regular,right-foot,low-centre,76,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,C. Lannert,886258,D,24,0.00343,-,block,-,regular,right-foot,low-centre,75,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,C. Lannert,886258,D,24,0.006449,-,miss,-,corner,right-foot,close-high-right,72,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Corboz,829211,M,6,0.01715,-,miss,-,corner,left-foot,close-high-left,70,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,R. Uldriķis,883327,F,28,0.2025,0.6866,save,-,corner,head,low-right,62,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Wörl,1387705,M,38,0.009448,-,block,-,throw-in-set-piece,left-foot,low-centre,59,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,R. Uldriķis,883327,F,28,0.1434,-,miss,-,corner,head,close-high-right,55,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Corboz,829211,M,6,0.0005665,-,block,-,regular,right-foot,low-centre,54,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,M. Corboz,829211,M,6,0.1678,0.1738,save,-,regular,left-foot,low-centre,46,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,L. Schneider,901416,D,23,0.0006746,-,miss,-,throw-in-set-piece,right-foot,close-high-right,38,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,S. Russo,984804,M,21,0.005219,-,miss,-,regular,right-foot,close-left,32,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,J. Grodowski,886973,F,11,0.06654,-,miss,-,regular,right-foot,close-right,22,0
+22,Arminia Bielefeld : Rot-Weiss Essen,1 : 2,J. Grodowski,886973,F,11,0.01074,0.01137,save,-,regular,right-foot,low-centre,14,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,L. Oppie,1137900,D,4,0.08297,-,miss,-,corner,left-foot,close-left,90,4
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. T. Kersken,951531,G,1,0.1213,-,miss,-,corner,head,close-high-left,90,2
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Felix,836092,D,3,0.1293,-,miss,-,corner,head,close-right,90,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,L. Oppie,1137900,D,4,0.005928,-,block,-,corner,left-foot,low-centre,90,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.2136,0.6503,save,-,regular,head,low-left,89,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,L. Oppie,1137900,D,4,0.005652,-,block,-,regular,left-foot,low-centre,87,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Kania,1514419,F,7,0.08709,-,block,-,regular,left-foot,low-centre,80,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,L. Oppie,1137900,D,4,0.009902,-,miss,-,regular,left-foot,close-left,77,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,M. Biankadi,254185,M,17,0.03403,0.01261,save,-,regular,right-foot,low-centre,74,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.02734,-,miss,-,regular,right-foot,close-right,73,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,M. Wörl,1387705,M,38,0.01556,-,block,-,regular,right-foot,low-centre,72,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,S. Russo,984804,M,21,0.02356,-,miss,-,regular,right-foot,close-left,70,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.6593,0.7281,save,-,corner,head,high-centre,70,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Felix,836092,D,3,0.03764,-,post,-,corner,head,right,70,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.02568,0.167,save,-,regular,head,low-left,65,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.1459,-,block,-,throw-in-set-piece,right-foot,low-centre,56,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,M. Corboz,829211,M,6,0.001248,-,block,-,throw-in-set-piece,right-foot,low-centre,56,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,S. Russo,984804,M,21,0.005865,-,block,-,regular,right-foot,low-centre,53,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,F. Hagmann,1197579,D,2,0.005147,-,block,-,set-piece,right-foot,low-centre,51,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Grodowski,886973,F,11,0.1444,0.07142,save,-,regular,head,low-centre,46,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Felix,836092,D,3,0.07398,-,miss,-,corner,head,close-high,43,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Grodowski,886973,F,11,0.3626,-,block,-,regular,right-foot,low-centre,41,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,M. Corboz,829211,M,6,0.02437,-,post,-,regular,right-foot,left,41,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,M. Corboz,829211,M,6,0.0114,-,miss,-,throw-in-set-piece,left-foot,close-right,25,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,J. Grodowski,886973,F,11,0.3287,-,miss,-,throw-in-set-piece,left-foot,close-left,11,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,M. Wörl,1387705,M,38,0.007259,-,miss,-,set-piece,left-foot,close-high-right,10,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.4543,0.3938,save,-,regular,left-foot,high-centre,7,0
+23,SV Sandhausen : Arminia Bielefeld,1 : 0,R. Uldriķis,883327,F,28,0.2774,0.2425,save,-,regular,right-foot,low-centre,1,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,J. Kania,1514419,F,7,0.2474,0.8742,goal,regular,regular,right-foot,high-left,85,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,M. Corboz,829211,M,6,0.06008,0.2132,goal,regular,regular,right-foot,low-left,82,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,L. Schneider,901416,D,23,0.02296,-,miss,-,corner,head,close-high,77,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,M. Wörl,1387705,M,38,0.6125,0.841,save,-,regular,left-foot,high-left,73,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,N. J. S. Bazee,801378,F,37,0.07129,-,miss,-,corner,right-foot,close-left,61,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,M. Corboz,829211,M,6,0.0007465,-,block,-,throw-in-set-piece,right-foot,low-centre,60,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,M. Wörl,1387705,M,38,0.01061,-,block,-,regular,right-foot,low-centre,58,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,J. Felix,836092,D,3,0.09707,-,block,-,throw-in-set-piece,left-foot,low-centre,53,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,N. J. S. Bazee,801378,F,37,0.09593,-,miss,-,corner,head,close-high-right,48,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,R. Uldriķis,883327,F,28,0.3276,-,miss,-,corner,head,close-left,34,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,M. Wörl,1387705,M,38,0.02801,-,miss,-,regular,right-foot,close-high-right,14,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,M. Corboz,829211,M,6,0.04615,-,miss,-,throw-in-set-piece,right-foot,close-left,13,0
+24,Arminia Bielefeld : Erzgebirge Aue,2 : 1,J. Grodowski,886973,F,11,0.09683,0.1667,save,-,regular,right-foot,low-left,8,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,J. Kania,1514419,F,7,0.3921,0.2683,goal,regular,regular,right-foot,low-centre,90,3
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,R. Uldriķis,883327,F,28,0.2335,0.7143,goal,regular,regular,right-foot,low-left,83,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,J. Grodowski,886973,F,11,0.09156,-,miss,-,regular,right-foot,close-high-left,77,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,N. J. S. Bazee,801378,F,37,0.2509,-,miss,-,regular,right-foot,close-left,57,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,C. Lannert,886258,D,24,0.01787,0.07443,save,-,regular,right-foot,low-left,55,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,F. Hagmann,1197579,D,2,0.02092,0.02019,save,-,corner,right-foot,high-centre,40,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,J. Grodowski,886973,F,11,0.1669,0.6401,goal,regular,regular,right-foot,high-right,36,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,M. Corboz,829211,M,6,0.1438,-,block,-,regular,right-foot,low-centre,32,0
+25,TSV 1860 München : Arminia Bielefeld,0 : 3,J. Felix,836092,D,3,0.05703,0.2029,save,-,set-piece,head,low-left,16,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,N. Boujellab,948184,M,10,0.1212,-,block,-,regular,right-foot,low-centre,90,3
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,M. Corboz,829211,M,6,0.1594,0.7969,goal,regular,regular,left-foot,high-left,78,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Grodowski,886973,F,11,0.08398,-,post,-,regular,left-foot,right,78,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,S. Russo,984804,M,21,0.02895,0.1084,save,-,free-kick,right-foot,high-right,77,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,M. Corboz,829211,M,6,0.003504,-,block,-,throw-in-set-piece,right-foot,low-centre,70,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Kania,1514419,F,7,0.4002,0.4264,save,-,regular,left-foot,low-centre,62,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,M. Wörl,1387705,M,38,0.1878,0.2158,save,-,regular,right-foot,low-left,62,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,S. Schreck,836708,M,8,0.1131,0.4094,save,-,regular,right-foot,high-left,62,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Grodowski,886973,F,11,0.0154,-,block,-,throw-in-set-piece,right-foot,low-centre,59,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,M. Wörl,1387705,M,38,0.4185,0.2944,save,-,regular,right-foot,low-centre,51,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,S. Russo,984804,M,21,0.004605,-,block,-,regular,right-foot,low-centre,51,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,L. Oppie,1137900,D,4,0.04817,-,block,-,throw-in-set-piece,left-foot,low-centre,50,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Kania,1514419,F,7,0.01942,-,block,-,throw-in-set-piece,left-foot,low-centre,50,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,M. Wörl,1387705,M,38,0.003906,-,miss,-,regular,right-foot,close-high-right,49,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Grodowski,886973,F,11,0.07607,0.03686,save,-,regular,right-foot,high-right,43,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Grodowski,886973,F,11,0.08632,0.485,goal,regular,regular,right-foot,low-left,39,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Kania,1514419,F,7,0.01169,-,miss,-,regular,right-foot,close-high-left,39,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,S. Schreck,836708,M,8,0.04661,0.02535,save,-,regular,left-foot,low-centre,33,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Grodowski,886973,F,11,0.1533,0.3185,goal,regular,corner,left-foot,high-centre,30,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,L. Oppie,1137900,D,4,0.03753,-,block,-,throw-in-set-piece,left-foot,low-centre,29,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,L. Oppie,1137900,D,4,0.004448,-,miss,-,throw-in-set-piece,left-foot,close-left,23,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Kania,1514419,F,7,0.76,0.81,goal,penalty,penalty,right-foot,low-left,14,0
+26,Arminia Bielefeld : VfB Stuttgart II U21,4 : 1,J. Grodowski,886973,F,11,0.003967,-,block,-,regular,left-foot,low-centre,13,0
+27,SC Verl : Arminia Bielefeld,2 : 1,M. Großer,1014486,D,19,0.1438,0.09638,goal,regular,regular,head,high-centre,90,9
+27,SC Verl : Arminia Bielefeld,2 : 1,N. Boujellab,948184,M,10,0.02758,-,block,-,regular,right-foot,low-centre,90,9
+27,SC Verl : Arminia Bielefeld,2 : 1,I. Young,886154,F,30,0.04903,0.01415,save,-,regular,right-foot,low-centre,90,1
+27,SC Verl : Arminia Bielefeld,2 : 1,L. Oppie,1137900,D,4,0.0237,-,miss,-,throw-in-set-piece,left-foot,close-left,85,0
+27,SC Verl : Arminia Bielefeld,2 : 1,N. J. S. Bazee,801378,F,37,0.02696,-,miss,-,throw-in-set-piece,head,close-high-right,75,0
+27,SC Verl : Arminia Bielefeld,2 : 1,S. Russo,984804,M,21,0.002314,-,block,-,free-kick,right-foot,low-centre,71,0
+27,SC Verl : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.49,-,miss,-,regular,left-foot,close-high-left,58,0
+27,SC Verl : Arminia Bielefeld,2 : 1,M. Wörl,1387705,M,38,0.001883,-,block,-,corner,right-foot,low-centre,57,0
+27,SC Verl : Arminia Bielefeld,2 : 1,M. Wörl,1387705,M,38,0.002751,-,block,-,throw-in-set-piece,left-foot,low-centre,56,0
+27,SC Verl : Arminia Bielefeld,2 : 1,S. Schreck,836708,M,8,0.003008,-,block,-,throw-in-set-piece,right-foot,low-centre,43,0
+27,SC Verl : Arminia Bielefeld,2 : 1,S. Schreck,836708,M,8,0.04344,-,miss,-,corner,right-foot,close-right,21,0
+27,SC Verl : Arminia Bielefeld,2 : 1,M. Corboz,829211,M,6,0.1069,0.04835,save,-,regular,right-foot,high-centre,15,0
+27,SC Verl : Arminia Bielefeld,2 : 1,M. Wörl,1387705,M,38,0.006368,-,block,-,regular,right-foot,low-centre,15,0
+27,SC Verl : Arminia Bielefeld,2 : 1,F. Hagmann,1197579,D,2,0.06633,-,miss,-,corner,right-foot,close-right,13,0
+27,SC Verl : Arminia Bielefeld,2 : 1,L. Oppie,1137900,D,4,0.01175,0.005767,save,-,corner,left-foot,low-centre,13,0
+27,SC Verl : Arminia Bielefeld,2 : 1,S. Schreck,836708,M,8,0.08242,0.02248,save,-,regular,right-foot,high-centre,4,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,S. Russo,984804,M,21,0.0006994,-,miss,-,free-kick,right-foot,close-high-right,90,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,F. Hagmann,1197579,D,2,0.02975,0.01178,goal,regular,regular,right-foot,low-centre,84,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,S. Schreck,836708,M,8,0.008198,-,miss,-,regular,right-foot,close-high-right,71,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,J. Kania,1514419,F,7,0.1057,0.3664,save,-,regular,left-foot,low-right,55,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,J. Kania,1514419,F,7,0.1228,-,miss,-,regular,head,close-right,52,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,M. Wörl,1387705,M,38,0.006042,-,block,-,regular,right-foot,low-centre,49,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,J. Grodowski,886973,F,11,0.08309,0.151,save,-,regular,right-foot,low-left,41,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,S. Russo,984804,M,21,0.0003509,-,miss,-,free-kick,right-foot,close-high-right,37,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,F. Hagmann,1197579,D,2,0.02916,0.1805,save,-,regular,right-foot,high-centre,35,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,M. Wörl,1387705,M,38,0.02641,0.0168,save,-,regular,right-foot,low-centre,33,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,J. Kania,1514419,F,7,0.4922,0.8641,goal,regular,regular,right-foot,high-centre,26,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,L. Schneider,901416,D,23,0.1136,-,miss,-,corner,head,close-right,21,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,J. Kania,1514419,F,7,0.09911,0.05225,goal,regular,regular,right-foot,low-centre,8,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,F. Hagmann,1197579,D,2,0.1171,-,miss,-,corner,head,close-left,3,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,S. Russo,984804,M,21,0.02462,0.2368,save,-,regular,right-foot,high-left,2,0
+28,Arminia Bielefeld : 1. FC Saarbrücken,3 : 1,I. Young,886154,F,30,0.234,-,miss,-,throw-in-set-piece,right-foot,close-right,1,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,S. Schreck,836708,M,8,0.003949,-,block,-,set-piece,right-foot,low-centre,60,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,J. Kania,1514419,F,7,0.2354,-,block,-,regular,left-foot,low-centre,49,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,M. Corboz,829211,M,6,0.1845,-,miss,-,throw-in-set-piece,right-foot,close-right,48,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,L. Oppie,1137900,D,4,0.06062,0.08231,save,-,free-kick,left-foot,low-right,45,1
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,L. Schneider,901416,D,23,0.04877,-,block,-,throw-in-set-piece,right-foot,low-centre,37,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,M. Corboz,829211,M,6,0.04942,-,block,-,regular,left-foot,low-centre,24,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,J. Kania,1514419,F,7,0.4591,-,miss,-,regular,right-foot,close-right,20,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,J. Kania,1514419,F,7,0.1304,0.1093,save,-,regular,right-foot,low-centre,16,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,S. Russo,984804,M,21,0.05001,0.31,goal,regular,corner,left-foot,low-left,14,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,M. Wörl,1387705,M,38,0.1328,0.4566,save,-,set-piece,right-foot,low-left,7,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,J. Kania,1514419,F,7,0.2705,-,block,-,regular,left-foot,low-centre,6,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,M. Wörl,1387705,M,38,0.3399,-,block,-,throw-in-set-piece,right-foot,low-centre,6,0
+29,VfL Osnabrück : Arminia Bielefeld,0 : 1,L. Schneider,901416,D,23,0.07765,0.1127,save,-,throw-in-set-piece,head,low-centre,6,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,L. Oppie,1137900,D,4,0.09328,-,miss,-,regular,left-foot,close-high-left,90,5
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Biankadi,254185,M,17,0.03631,-,block,-,regular,right-foot,low-centre,90,3
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,I. Young,886154,F,30,0.1746,-,block,-,regular,right-foot,low-centre,90,2
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,N. J. S. Bazee,801378,F,37,0.0257,-,block,-,regular,right-foot,low-centre,90,2
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,N. Boujellab,948184,M,10,0.003593,-,block,-,regular,right-foot,low-centre,90,1
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Corboz,829211,M,6,0.209,0.6898,goal,regular,regular,left-foot,low-right,86,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Wörl,1387705,M,38,0.05178,-,block,-,throw-in-set-piece,right-foot,low-centre,85,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,N. J. S. Bazee,801378,F,37,0.1136,-,miss,-,regular,head,close-high-left,79,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Biankadi,254185,M,17,0.03857,-,block,-,regular,right-foot,low-centre,78,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,N. J. S. Bazee,801378,F,37,0.198,-,miss,-,regular,right-foot,close-high-right,74,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Corboz,829211,M,6,0.1198,-,block,-,regular,left-foot,low-centre,68,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Corboz,829211,M,6,0.09782,-,block,-,corner,right-foot,low-centre,68,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Corboz,829211,M,6,0.1265,0.4183,save,-,regular,left-foot,high-centre,67,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,L. Schneider,901416,D,23,0.04339,-,miss,-,throw-in-set-piece,head,close-high-left,62,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,J. Kania,1514419,F,7,0.01696,1.393e-05,post,-,regular,head,high,60,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,L. Oppie,1137900,D,4,0.001373,-,miss,-,regular,left-foot,close-high-right,50,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,S. Schreck,836708,M,8,0.02096,-,miss,-,throw-in-set-piece,right-foot,close-right,49,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,L. Oppie,1137900,D,4,0.02605,0.5585,save,-,regular,left-foot,low-right,35,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,S. Russo,984804,M,21,0.005706,-,block,-,corner,right-foot,low-centre,23,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,J. Grodowski,886973,F,11,0.4035,-,block,-,regular,right-foot,low-centre,22,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,S. Russo,984804,M,21,0.0003076,-,miss,-,free-kick,right-foot,close-left,15,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,J. Kania,1514419,F,7,0.76,0.81,goal,penalty,penalty,right-foot,low-centre,7,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,S. Russo,984804,M,21,0.1349,-,block,-,regular,left-foot,low-centre,6,0
+30,Arminia Bielefeld : Hannover 96 II U23,2 : 2,M. Corboz,829211,M,6,0.1003,0.07097,save,-,regular,right-foot,low-centre,6,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,C. Lannert,886258,D,24,0.09113,-,block,-,throw-in-set-piece,right-foot,low-centre,90,7
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,N. J. S. Bazee,801378,F,37,0.2775,-,block,-,throw-in-set-piece,right-foot,low-centre,90,7
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,L. Schneider,901416,D,23,0.1273,-,miss,-,corner,head,close-high-left,83,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,N. J. S. Bazee,801378,F,37,0.2599,-,miss,-,regular,right-foot,close-left,81,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,M. Wörl,1387705,M,38,0.005125,-,miss,-,corner,right-foot,close-high-right,74,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,M. Großer,1014486,D,19,0.11,0.1337,save,-,corner,head,low-centre,71,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,C. Lannert,886258,D,24,0.01052,0.104,save,-,corner,right-foot,high-left,70,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,M. Biankadi,254185,M,17,0.04108,0.1471,goal,regular,throw-in-set-piece,right-foot,low-right,56,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,C. Lannert,886258,D,24,0.121,0.2008,save,-,regular,right-foot,high-centre,49,0
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,M. Corboz,829211,M,6,0.2703,-,miss,-,set-piece,head,close-right,45,2
+31,Alemannia Aachen : Arminia Bielefeld,0 : 1,M. Wörl,1387705,M,38,0.006098,-,miss,-,throw-in-set-piece,right-foot,close-high-right,25,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Biankadi,254185,M,17,0.1204,-,miss,-,regular,right-foot,close-right,90,3
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,C. Lannert,886258,D,24,0.09831,-,block,-,regular,left-foot,low-centre,90,3
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,J. Lukas,1627319,D,36,0.004855,-,block,-,regular,left-foot,low-centre,90,1
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,C. Lannert,886258,D,24,0.03598,-,miss,-,regular,right-foot,close-high-right,90,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,J. Kania,1514419,F,7,0.1974,-,miss,-,regular,head,close-high-left,83,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Großer,1014486,D,19,0.1707,-,miss,-,set-piece,head,close-left,81,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,J. Kania,1514419,F,7,0.09034,0.375,save,-,regular,head,low-left,78,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Corboz,829211,M,6,0.05603,0.2764,save,-,corner,right-foot,high-left,77,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Corboz,829211,M,6,0.1193,-,block,-,regular,left-foot,low-centre,76,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Biankadi,254185,M,17,0.02496,0.02121,goal,regular,regular,right-foot,low-centre,72,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,N. J. S. Bazee,801378,F,37,0.196,0.5326,goal,regular,regular,right-foot,low-right,68,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,C. Lannert,886258,D,24,0.03356,0.1425,save,-,regular,left-foot,low-left,58,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,N. J. S. Bazee,801378,F,37,0.446,-,miss,-,regular,left-foot,close-left,52,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,L. Oppie,1137900,D,4,0.02939,-,block,-,regular,left-foot,low-centre,52,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,C. Lannert,886258,D,24,0.001307,-,block,-,regular,right-foot,low-centre,52,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,S. Russo,984804,M,21,0.03112,-,miss,-,regular,right-foot,close-right,46,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,C. Lannert,886258,D,24,0.02083,0.01057,save,-,corner,right-foot,low-centre,44,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,N. J. S. Bazee,801378,F,37,0.2371,0.6474,save,-,regular,head,high-right,43,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,L. Oppie,1137900,D,4,0.002902,-,block,-,regular,left-foot,low-centre,43,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Wörl,1387705,M,38,0.04525,-,post,-,set-piece,right-foot,high,37,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,N. J. S. Bazee,801378,F,37,0.06166,-,block,-,regular,right-foot,low-centre,18,0
+32,Arminia Bielefeld : SV Wehen Wiesbaden,4 : 2,M. Wörl,1387705,M,38,0.3924,0.8555,goal,regular,regular,right-foot,low-right,7,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,J. Kania,1514419,F,7,0.1168,0.3104,goal,regular,regular,right-foot,low-left,90,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,S. Russo,984804,M,21,0.01153,-,miss,-,regular,right-foot,close-high-right,78,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,M. Biankadi,254185,M,17,0.01385,-,miss,-,regular,left-foot,close-left,76,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,L. Oppie,1137900,D,4,0.1081,-,miss,-,regular,right-foot,close-right,50,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,M. Großer,1014486,D,19,0.0611,-,miss,-,corner,right-foot,close-left,49,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,L. Oppie,1137900,D,4,0.01294,-,block,-,corner,left-foot,low-centre,49,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,S. Russo,984804,M,21,0.0006846,-,miss,-,free-kick,right-foot,close-high,40,0
+33,FC Viktoria Köln : Arminia Bielefeld,0 : 2,M. Corboz,829211,M,6,0.186,0.4672,goal,regular,throw-in-set-piece,left-foot,high-centre,19,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,J. Kania,1514419,F,7,0.4696,0.5237,goal,regular,regular,right-foot,low-centre,88,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,S. Schreck,836708,M,8,0.01499,-,block,-,regular,right-foot,low-centre,81,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,C. Lannert,886258,D,24,0.005598,-,miss,-,regular,right-foot,close-high-right,77,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,S. Schreck,836708,M,8,0.1905,-,block,-,regular,right-foot,low-centre,76,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Corboz,829211,M,6,0.05757,0.03172,save,-,regular,right-foot,low-centre,76,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Corboz,829211,M,6,0.09271,-,miss,-,regular,left-foot,close-high-right,69,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Biankadi,254185,M,17,0.03287,-,miss,-,throw-in-set-piece,right-foot,close-high,69,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,L. Oppie,1137900,D,4,0.02816,0.03614,save,-,free-kick,left-foot,low-left,67,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Biankadi,254185,M,17,0.4749,-,miss,-,set-piece,left-foot,close-high-left,67,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Wörl,1387705,M,38,0.1397,-,miss,-,regular,left-foot,close-high-left,60,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,L. Schneider,901416,D,23,0.04131,-,block,-,regular,left-foot,low-centre,59,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Biankadi,254185,M,17,0.3203,0.2117,save,-,regular,right-foot,high-centre,59,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Wörl,1387705,M,38,0.06446,0.1177,save,-,corner,right-foot,high-left,59,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Großer,1014486,D,19,0.5847,0.8894,save,-,corner,right-foot,low-right,56,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Großer,1014486,D,19,0.288,-,post,-,corner,head,high,56,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Großer,1014486,D,19,0.06883,-,miss,-,throw-in-set-piece,head,close-right,53,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,J. Grodowski,886973,F,11,0.06255,0.4108,goal,regular,throw-in-set-piece,right-foot,high-right,44,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,J. Grodowski,886973,F,11,0.2843,-,post,-,regular,right-foot,high,41,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,J. Grodowski,886973,F,11,0.009125,-,block,-,regular,right-foot,low-centre,40,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Biankadi,254185,M,17,0.09765,0.06911,save,-,regular,right-foot,low-centre,38,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Corboz,829211,M,6,0.3989,0.872,goal,regular,corner,head,high-left,36,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,S. Schreck,836708,M,8,0.002766,-,miss,-,regular,right-foot,close-high-left,29,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,J. Grodowski,886973,F,11,0.09113,0.577,goal,regular,regular,right-foot,low-left,23,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Corboz,829211,M,6,0.01771,-,miss,-,regular,right-foot,close-left,20,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Biankadi,254185,M,17,0.03522,0.03002,save,-,regular,right-foot,low-centre,18,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,M. Wörl,1387705,M,38,0.001514,-,block,-,corner,right-foot,low-centre,4,0
+34,Arminia Bielefeld : F.C. Hansa Rostock,4 : 0,J. Grodowski,886973,F,11,0.05296,-,block,-,throw-in-set-piece,right-foot,low-centre,2,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Biankadi,254185,M,17,0.007875,-,block,-,corner,left-foot,low-centre,86,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,I. Young,886154,F,30,0.07683,0.06128,save,-,regular,left-foot,high-centre,86,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Biankadi,254185,M,17,0.08991,-,miss,-,regular,right-foot,close-high-right,77,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Wörl,1387705,M,38,0.2002,-,block,-,regular,right-foot,low-centre,68,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,I. Young,886154,F,30,0.223,0.4152,goal,regular,regular,right-foot,low-centre,65,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,N. J. S. Bazee,801378,F,37,0.08213,-,block,-,regular,right-foot,low-centre,63,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Corboz,829211,M,6,0.1633,-,miss,-,throw-in-set-piece,left-foot,close-right,57,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,J. Grodowski,886973,F,11,0.3358,-,miss,-,regular,left-foot,close-right,46,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,L. Schneider,901416,D,23,0.1096,0.06115,save,-,set-piece,right-foot,high-centre,45,2
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,N. J. S. Bazee,801378,F,37,0.1179,0.5477,goal,regular,regular,head,low-left,44,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Wörl,1387705,M,38,0.1548,0.2675,save,-,regular,right-foot,low-right,41,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Corboz,829211,M,6,0.04718,-,miss,-,regular,right-foot,close-high,39,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,L. Oppie,1137900,D,4,0.03402,-,miss,-,corner,left-foot,close-left,22,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,J. Grodowski,886973,F,11,0.05145,-,block,-,regular,right-foot,low-centre,21,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Wörl,1387705,M,38,0.04342,-,miss,-,corner,right-foot,close-high-right,7,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,N. J. S. Bazee,801378,F,37,0.0145,-,miss,-,regular,right-foot,close-left,6,0
+35,FC Ingolstadt 04 : Arminia Bielefeld,0 : 3,M. Corboz,829211,M,6,0.1743,0.4974,goal,regular,regular,left-foot,low-left,3,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Biankadi,254185,M,17,0.1314,0.07038,save,-,regular,left-foot,low-centre,90,6
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,L. Schneider,901416,D,23,0.01601,-,miss,-,regular,right-foot,close-high-right,90,3
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Großer,1014486,D,19,0.1084,-,block,-,set-piece,head,low-centre,89,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Großer,1014486,D,19,0.1849,-,miss,-,set-piece,head,close-high-right,86,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Biankadi,254185,M,17,0.005861,-,miss,-,regular,right-foot,close-left,79,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,S. Schreck,836708,M,8,0.006463,-,block,-,throw-in-set-piece,left-foot,low-centre,74,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Großer,1014486,D,19,0.2862,-,miss,-,set-piece,right-foot,close-left,69,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,S. Schreck,836708,M,8,0.001596,-,miss,-,corner,right-foot,close-high-left,61,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Wörl,1387705,M,38,0.02979,-,block,-,corner,right-foot,low-centre,61,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,L. Oppie,1137900,D,4,0.03671,-,block,-,corner,left-foot,low-centre,59,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,S. Russo,984804,M,21,0.001266,-,block,-,regular,right-foot,low-centre,59,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,L. Oppie,1137900,D,4,0.02467,-,miss,-,regular,left-foot,close-right,53,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,L. Oppie,1137900,D,4,0.01016,-,block,-,regular,left-foot,low-centre,53,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,M. Corboz,829211,M,6,0.27,-,miss,-,regular,right-foot,close-high-left,33,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,S. Schreck,836708,M,8,0.2179,-,miss,-,regular,right-foot,close-left,30,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,S. Schreck,836708,M,8,0.07558,-,miss,-,regular,right-foot,close-high,27,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,L. Oppie,1137900,D,4,0.002724,-,miss,-,free-kick,left-foot,close-high-left,26,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,S. Schreck,836708,M,8,0.276,-,miss,-,regular,right-foot,close-right,21,0
+36,Arminia Bielefeld : SG Dynamo Dresden,1 : 1,J. Grodowski,886973,F,11,0.004182,-,block,-,regular,right-foot,low-centre,20,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,J. Kania,1514419,F,7,0.3268,-,miss,-,regular,left-foot,close-left,90,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,J. Kania,1514419,F,7,0.04443,-,block,-,throw-in-set-piece,left-foot,low-centre,79,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,I. Young,886154,F,30,0.2134,0.3741,save,-,regular,left-foot,low-centre,72,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,J. Kania,1514419,F,7,0.1289,0.5353,save,-,regular,left-foot,low-right,69,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,M. Wörl,1387705,M,38,0.001073,-,miss,-,corner,right-foot,close-left,59,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,C. Lannert,886258,D,24,0.001274,-,block,-,corner,right-foot,low-centre,58,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,M. Wörl,1387705,M,38,0.1334,0.5833,goal,regular,regular,right-foot,low-right,51,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,I. Young,886154,F,30,0.1102,-,miss,-,regular,left-foot,close-high-left,48,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,C. Lannert,886258,D,24,0.76,-,post,-,penalty,right-foot,right,45,4
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,S. Schreck,836708,M,8,0.76,0.81,goal,penalty,penalty,right-foot,low-left,42,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,N. J. S. Bazee,801378,F,37,0.2744,-,miss,-,regular,left-foot,close-high-right,38,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,N. J. S. Bazee,801378,F,37,0.08762,0.07709,save,-,regular,right-foot,low-centre,24,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,S. Russo,984804,M,21,0.1071,0.1292,save,-,free-kick,right-foot,low-left,13,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,N. J. S. Bazee,801378,F,37,0.1304,-,block,-,throw-in-set-piece,right-foot,low-centre,10,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,S. Russo,984804,M,21,0.001904,-,block,-,regular,right-foot,low-centre,8,0
+37,SpVgg Unterhaching : Arminia Bielefeld,1 : 2,L. Oppie,1137900,D,4,0.02572,0.1674,save,-,throw-in-set-piece,left-foot,low-left,1,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Wörl,1387705,M,38,0.01633,0.01458,save,-,throw-in-set-piece,right-foot,high-centre,88,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Wörl,1387705,M,38,0.197,-,block,-,regular,right-foot,low-centre,87,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,I. Young,886154,F,30,0.4158,-,miss,-,set-piece,right-foot,close-right,84,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Großer,1014486,D,19,0.1302,0.1204,save,-,set-piece,head,high-centre,84,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,S. Russo,984804,M,21,0.002411,-,miss,-,regular,right-foot,close-left,77,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,J. Grodowski,886973,F,11,0.01267,-,block,-,corner,right-foot,low-centre,72,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Corboz,829211,M,6,0.04612,0.181,save,-,regular,right-foot,low-right,71,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,F. Hagmann,1197579,D,2,0.001469,-,block,-,regular,right-foot,low-centre,71,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,C. Lannert,886258,D,24,0.004931,-,block,-,throw-in-set-piece,right-foot,low-centre,63,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,N. J. S. Bazee,801378,F,37,0.6275,0.8669,goal,regular,regular,right-foot,low-centre,56,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Corboz,829211,M,6,0.113,-,miss,-,regular,left-foot,close-high-left,24,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Wörl,1387705,M,38,0.08469,-,block,-,regular,right-foot,low-centre,24,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Corboz,829211,M,6,0.08798,-,block,-,regular,right-foot,low-centre,23,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,M. Wörl,1387705,M,38,0.06339,-,miss,-,regular,right-foot,close-left,20,0
+38,Arminia Bielefeld : SV Waldhof Mannheim,1 : 0,S. Schreck,836708,M,8,0.05318,-,miss,-,throw-in-set-piece,right-foot,close-high-right,11,0
