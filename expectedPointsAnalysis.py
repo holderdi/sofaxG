@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import plotly.graph_objects as go
+from statsmodels.nonparametric.smoothers_lowess import lowess  # <--- HINZUGEFÜGT
 
 # CSV-Datei einlesen
 print("\r\n")
@@ -43,6 +44,14 @@ p_xg = np.poly1d(z_xg)
 z_points = np.polyfit(df["Matchday"], df["Points"], 1)
 p_points = np.poly1d(z_points)
 
+# LOESS-Glättung für xPoints
+lowess_xg = lowess(df["xPoints"], df["Matchday"], frac=0.3)
+smoothed_xg = np.array([x[1] for x in lowess_xg])
+
+# LOESS-Glättung für Points
+lowess_points = lowess(df["Points"], df["Matchday"], frac=0.3)
+smoothed_points = np.array([x[1] for x in lowess_points])
+
 # Interaktives Diagramm erstellen
 fig = go.Figure()
 
@@ -53,6 +62,10 @@ fig.add_trace(go.Scatter(x=df["Matchday"], y=df["xPoints"], mode='lines+markers'
 # Trendlinien hinzufügen
 fig.add_trace(go.Scatter(x=df["Matchday"], y=p_xg(df["Matchday"]), mode='lines', name='Trendlinie xPoints', line=dict(color='green', dash='dash')))
 fig.add_trace(go.Scatter(x=df["Matchday"], y=p_points(df["Matchday"]), mode='lines', name='Trendlinie Points', line=dict(color='orange', dash='dash')))
+
+# LOESS-Glättung hinzufügen
+fig.add_trace(go.Scatter(x=df["Matchday"], y=smoothed_xg, mode='lines', name='LOESS xPoints', line=dict(color='red', width=2)))
+fig.add_trace(go.Scatter(x=df["Matchday"], y=smoothed_points, mode='lines', name='LOESS Points', line=dict(color='blue', width=2)))
 
 # Achsenbeschriftung und Titel
 fig.update_layout(
